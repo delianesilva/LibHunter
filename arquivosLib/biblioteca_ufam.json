@@ -1,0 +1,1954 @@
+{
+  "documentos": [
+    {
+      "autor": "Soares, Sílvia Pereira de Macedo",
+      "titulo": "Dominando Erwin: modelagem de dados para banco Oracle",
+      "assunto": "banco de dados",
+      "ano": 2003,
+      "biblioteca": {
+        "nome": "Biblioteca Itacoatiara",
+        "instituicao": "UFAM",
+        "endereco": "R. Nossa Sra. do Rosário - Tiradentes, Itacoatiara - AM, 69103-128",
+        "url": "https://pergamum.ufam.edu.br/pergamum/biblioteca/index.php"
+      },
+      "categoria": "LIVRO"
+    },
+    {
+      "autor": "Gonzaga, Jorge Luiz",
+      "titulo": "Dominando o PostgreSQL : incluindo curso completo da linguagem SQL",
+      "assunto": "banco de dados",
+      "ano": 2007,
+      "biblioteca": {
+        "nome": "Biblioteca Itacoatiara",
+        "instituicao": "UFAM",
+        "endereco": "R. Nossa Sra. do Rosário - Tiradentes, Itacoatiara - AM, 69103-128",
+        "url": "https://pergamum.ufam.edu.br/pergamum/biblioteca/index.php"
+      },
+      "categoria": "LIVRO"
+    },
+    {
+      "autor": "Ramez Elmasri, Shamkant B. Navathe",
+      "titulo": "Fundamentals of database systems",
+      "assunto": "banco de dados",
+      "ano": 2000,
+      "biblioteca": {
+        "nome": "Biblioteca Itacoatiara",
+        "instituicao": "UFAM",
+        "endereco": "R. Nossa Sra. do Rosário - Tiradentes, Itacoatiara - AM, 69103-128",
+        "url": "https://pergamum.ufam.edu.br/pergamum/biblioteca/index.php"
+      },
+      "categoria": "LIVRO"
+    },
+    {
+      "autor": "Galante, Terezinha Prado ",
+      "titulo": "Inglês para processamento de dados : textos sobre computação, exercícios de compreensão, siglas, abreviações e glossário",
+      "assunto": "banco de dados",
+      "ano": 1990,
+      "biblioteca": {
+        "nome": "Biblioteca Itacoatiara",
+        "instituicao": "UFAM",
+        "endereco": "R. Nossa Sra. do Rosário - Tiradentes, Itacoatiara - AM, 69103-128",
+        "url": "https://pergamum.ufam.edu.br/pergamum/biblioteca/index.php"
+      },
+      "categoria": "LIVRO"
+    },
+    {
+      "autor": "Date, C. J.",
+      "titulo": "Introdução a sistemas de bancos de dados",
+      "assunto": "banco de dados",
+      "ano": 2004,
+      "biblioteca": {
+        "nome": "Biblioteca Itacoatiara",
+        "instituicao": "UFAM",
+        "endereco": "R. Nossa Sra. do Rosário - Tiradentes, Itacoatiara - AM, 69103-128",
+        "url": "https://pergamum.ufam.edu.br/pergamum/biblioteca/index.php"
+      },
+      "categoria": "LIVRO"
+    },
+    {
+      "autor": "Cougo, Paulo Sérgio",
+      "titulo": "Modelagem conceitual e projeto de bancos de dados",
+      "assunto": "banco de dados",
+      "ano": 1997,
+      "biblioteca": {
+        "nome": "Biblioteca Itacoatiara",
+        "instituicao": "UFAM",
+        "endereco": "R. Nossa Sra. do Rosário - Tiradentes, Itacoatiara - AM, 69103-128",
+        "url": "https://pergamum.ufam.edu.br/pergamum/biblioteca/index.php"
+      },
+      "categoria": "LIVRO"
+    },
+    {
+      "autor": "Milani, André",
+      "titulo": "MySQL : guia do programador",
+      "assunto": "banco de dados",
+      "ano": 2006,
+      "biblioteca": {
+        "nome": "Biblioteca Itacoatiara",
+        "instituicao": "UFAM",
+        "endereco": "R. Nossa Sra. do Rosário - Tiradentes, Itacoatiara - AM, 69103-128",
+        "url": "https://pergamum.ufam.edu.br/pergamum/biblioteca/index.php"
+      },
+      "categoria": "LIVRO"
+    },
+    {
+      "autor": "Rangel, Alexandre",
+      "titulo": "MySQL: projeto, modelagem e desenvolvimento de banco de dados",
+      "assunto": "banco de dados",
+      "ano": 2004,
+      "biblioteca": {
+        "nome": "Biblioteca Itacoatiara",
+        "instituicao": "UFAM",
+        "endereco": "R. Nossa Sra. do Rosário - Tiradentes, Itacoatiara - AM, 69103-128",
+        "url": "https://pergamum.ufam.edu.br/pergamum/biblioteca/index.php"
+      },
+      "categoria": "LIVRO"
+    },
+    {
+      "autor": "Urman, Scott",
+      "titulo": "Oracle9i Programação PL/SQL : desenvolva aplicativos PL/SQL poderosos",
+      "assunto": "banco de dados",
+      "ano": 2002,
+      "biblioteca": {
+        "nome": "Biblioteca Itacoatiara",
+        "instituicao": "UFAM",
+        "endereco": "R. Nossa Sra. do Rosário - Tiradentes, Itacoatiara - AM, 69103-128",
+        "url": "https://pergamum.ufam.edu.br/pergamum/biblioteca/index.php"
+      },
+      "categoria": "LIVRO"
+    },
+    {
+      "autor": "Toby Teorey, Sam Lightstone, Tom Nadeau; tradução de Daniel Vieira",
+      "titulo": "Projeto e modelagem de banco de dados",
+      "assunto": "banco de dados",
+      "ano": 2007,
+      "biblioteca": {
+        "nome": "Biblioteca Itacoatiara",
+        "instituicao": "UFAM",
+        "endereco": "R. Nossa Sra. do Rosário - Tiradentes, Itacoatiara - AM, 69103-128",
+        "url": "https://pergamum.ufam.edu.br/pergamum/biblioteca/index.php"
+      },
+      "categoria": "LIVRO"
+    },
+    {
+      "autor": "Cunha, Murilo Bastos da",
+      "titulo": "Base de dados e bibliotecas brasileiras",
+      "assunto": "banco de dados",
+      "ano": 1984,
+      "biblioteca": {
+        "nome": "Biblioteca Central - Diretoria",
+        "instituicao": "UFAM",
+        "endereco": "Av. Ayrão, 1033A - Praça 14 de Janeiro, Manaus - AM, 69025-050",
+        "url": "https://pergamum.ufam.edu.br/pergamum/biblioteca/index.php"
+      },
+      "categoria": "LIVRO"
+    },
+    {
+      "autor": "Guimarães, Célio Cardoso",
+      "titulo": "Fundamentos de bancos de dados : modelagem, projeto e linguagem SQL",
+      "assunto": "banco de dados",
+      "ano": 2003,
+      "biblioteca": {
+        "nome": "Biblioteca Setorial de Ciências Exatas e Engenharias - BSCEE",
+        "instituicao": "UFAM",
+        "endereco": "Universidade Federal do Amazonas, Av. Octávio Hamilton Botelho Mourão - Coroado, Manaus - AM",
+        "url": "https://pergamum.ufam.edu.br/pergamum/biblioteca/index.php"
+      },
+      "categoria": "LIVRO"
+    },
+    {
+      "autor": "Hursch, Carolyn J.",
+      "titulo": "Linguagem de consulta ertruturada SQL",
+      "assunto": "banco de dados",
+      "ano": 1990,
+      "biblioteca": {
+        "nome": "Biblioteca Setorial de Ciências Exatas e Engenharias - BSCEE",
+        "instituicao": "UFAM",
+        "endereco": "Universidade Federal do Amazonas, Av. Octávio Hamilton Botelho Mourão - Coroado, Manaus - AM",
+        "url": "https://pergamum.ufam.edu.br/pergamum/biblioteca/index.php"
+      },
+      "categoria": "LIVRO"
+    },
+    {
+      "autor": "Prates, Rubens",
+      "titulo": "MySQL : guia de consulta rápida",
+      "assunto": "banco de dados",
+      "ano": 2000,
+      "biblioteca": {
+        "nome": "Biblioteca Setorial de Ciências Exatas e Engenharias - BSCEE",
+        "instituicao": "UFAM",
+        "endereco": "Universidade Federal do Amazonas, Av. Octávio Hamilton Botelho Mourão - Coroado, Manaus - AM",
+        "url": "https://pergamum.ufam.edu.br/pergamum/biblioteca/index.php"
+      },
+      "categoria": "LIVRO"
+    },
+    {
+      "autor": "Coffman, Gayle",
+      "titulo": "SQL Server 7 : completo e total : guia de referência",
+      "assunto": "banco de dados",
+      "ano": 2000,
+      "biblioteca": {
+        "nome": "Biblioteca Setorial de Ciências Exatas e Engenharias - BSCEE",
+        "instituicao": "UFAM",
+        "endereco": "Universidade Federal do Amazonas, Av. Octávio Hamilton Botelho Mourão - Coroado, Manaus - AM",
+        "url": "https://pergamum.ufam.edu.br/pergamum/biblioteca/index.php"
+      },
+      "categoria": "LIVRO"
+    },
+    {
+      "autor": "Hsiao, David K.",
+      "titulo": "Advanced database machine architecture",
+      "assunto": "banco de dados",
+      "ano": 1983,
+      "biblioteca": {
+        "nome": "Biblioteca Setorial de Ciências Exatas e Engenharias - BSCEE",
+        "instituicao": "UFAM",
+        "endereco": "Universidade Federal do Amazonas, Av. Octávio Hamilton Botelho Mourão - Coroado, Manaus - AM",
+        "url": "https://pergamum.ufam.edu.br/pergamum/biblioteca/index.php"
+      },
+      "categoria": "LIVRO"
+    },
+    {
+      "autor": "Setzer, Valdemar W.",
+      "titulo": "Banco de dados : aprenda o que são : melhore o seu conhecimento : construa os seus",
+      "assunto": "banco de dados",
+      "ano": 2005,
+      "biblioteca": {
+        "nome": "Biblioteca Setorial de Ciências Exatas e Engenharias - BSCEE",
+        "instituicao": "UFAM",
+        "endereco": "Universidade Federal do Amazonas, Av. Octávio Hamilton Botelho Mourão - Coroado, Manaus - AM",
+        "url": "https://pergamum.ufam.edu.br/pergamum/biblioteca/index.php"
+      },
+      "categoria": "LIVRO"
+    },
+    {
+      "autor": "Date, C. J.",
+      "titulo": "Banco de dados: : fundamentos",
+      "assunto": "banco de dados",
+      "ano": 1985,
+      "biblioteca": {
+        "nome": "Biblioteca Setorial de Ciências Exatas e Engenharias - BSCEE",
+        "instituicao": "UFAM",
+        "endereco": "Universidade Federal do Amazonas, Av. Octávio Hamilton Botelho Mourão - Coroado, Manaus - AM",
+        "url": "https://pergamum.ufam.edu.br/pergamum/biblioteca/index.php"
+      },
+      "categoria": "LIVRO"
+    },
+    {
+      "autor": "Cerícola, Osvaldo Vicente",
+      "titulo": "Banco de dados relacional e distribuído",
+      "assunto": "banco de dados",
+      "ano": 1991,
+      "biblioteca": {
+        "nome": "Biblioteca Setorial de Ciências Exatas e Engenharias - BSCEE",
+        "instituicao": "UFAM",
+        "endereco": "Universidade Federal do Amazonas, Av. Octávio Hamilton Botelho Mourão - Coroado, Manaus - AM",
+        "url": "https://pergamum.ufam.edu.br/pergamum/biblioteca/index.php"
+      },
+      "categoria": "LIVRO"
+    },
+    {
+      "autor": "James Martin",
+      "titulo": "Computer data-base organization",
+      "assunto": "banco de dados",
+      "ano": 1977,
+      "biblioteca": {
+        "nome": "Biblioteca Setorial de Ciências Exatas e Engenharias - BSCEE",
+        "instituicao": "UFAM",
+        "endereco": "Universidade Federal do Amazonas, Av. Octávio Hamilton Botelho Mourão - Coroado, Manaus - AM",
+        "url": "https://pergamum.ufam.edu.br/pergamum/biblioteca/index.php"
+      },
+      "categoria": "LIVRO"
+    },
+    {
+      "autor": "Cerícola, Osvaldo Vicente",
+      "titulo": "Banco de dados relacional e distribuído",
+      "assunto": "banco de dados",
+      "ano": 1991,
+      "biblioteca": {
+        "nome": "Biblioteca Setorial do Setor Sul - BSSS",
+        "instituicao": "UFAM",
+        "endereco": "Universidade Federal do Amazonas, Av. Jauary Marinho - Setor Sul - Coroado, Manaus - AM",
+        "url": "https://pergamum.ufam.edu.br/pergamum/biblioteca/index.php"
+      },
+      "categoria": "LIVRO"
+    },
+    {
+      "autor": "Melo, Rubens Nascimento",
+      "titulo": "Bancos de dados não convencionais : a tecnologia do BD e suas novas áreas de aplicação",
+      "assunto": "banco de dados",
+      "ano": 1988,
+      "biblioteca": {
+        "nome": "Biblioteca Setorial do Setor Sul - BSSS",
+        "instituicao": "UFAM",
+        "endereco": "Universidade Federal do Amazonas, Av. Jauary Marinho - Setor Sul - Coroado, Manaus - AM",
+        "url": "https://pergamum.ufam.edu.br/pergamum/biblioteca/index.php"
+      },
+      "categoria": "LIVRO"
+    },
+    {
+      "autor": "Date, C. J.",
+      "titulo": "Bancos de dados: Tópicos avançados",
+      "assunto": "banco de dados",
+      "ano": 1988,
+      "biblioteca": {
+        "nome": "Biblioteca Setorial do Setor Sul - BSSS",
+        "instituicao": "UFAM",
+        "endereco": "Universidade Federal do Amazonas, Av. Jauary Marinho - Setor Sul - Coroado, Manaus - AM",
+        "url": "https://pergamum.ufam.edu.br/pergamum/biblioteca/index.php"
+      },
+      "categoria": "LIVRO"
+    },
+    {
+      "autor": "INMON, W. H.",
+      "titulo": "Como construir o data Warehouse",
+      "assunto": "banco de dados",
+      "ano": 1997,
+      "biblioteca": {
+        "nome": "Biblioteca Setorial do Setor Sul - BSSS",
+        "instituicao": "UFAM",
+        "endereco": "Universidade Federal do Amazonas, Av. Jauary Marinho - Setor Sul - Coroado, Manaus - AM",
+        "url": "https://pergamum.ufam.edu.br/pergamum/biblioteca/index.php"
+      },
+      "categoria": "LIVRO"
+    },
+    {
+      "autor": "Borkin, Sheldon A.",
+      "titulo": "Data Models : a Semantic Approach for Database Systems",
+      "assunto": "banco de dados",
+      "ano": 1983,
+      "biblioteca": {
+        "nome": "Biblioteca Setorial do Setor Sul - BSSS",
+        "instituicao": "UFAM",
+        "endereco": "Universidade Federal do Amazonas, Av. Jauary Marinho - Setor Sul - Coroado, Manaus - AM",
+        "url": "https://pergamum.ufam.edu.br/pergamum/biblioteca/index.php"
+      },
+      "categoria": "LIVRO"
+    },
+    {
+      "autor": "Guimarães, Célio Cardoso",
+      "titulo": "Fundamentos de bancos de dados : modelagem, projeto e linguagem SQL",
+      "assunto": "banco de dados",
+      "ano": 2003,
+      "biblioteca": {
+        "nome": "Biblioteca Setorial do Setor Sul - BSSS",
+        "instituicao": "UFAM",
+        "endereco": "Universidade Federal do Amazonas, Av. Jauary Marinho - Setor Sul - Coroado, Manaus - AM",
+        "url": "https://pergamum.ufam.edu.br/pergamum/biblioteca/index.php"
+      },
+      "categoria": "LIVRO"
+    },
+    {
+      "autor": "Ceri, Stefano",
+      "titulo": "Methodology and Tools for Data Base Design",
+      "assunto": "banco de dados",
+      "ano": 1985,
+      "biblioteca": {
+        "nome": "Biblioteca Setorial do Setor Sul - BSSS",
+        "instituicao": "UFAM",
+        "endereco": "Universidade Federal do Amazonas, Av. Jauary Marinho - Setor Sul - Coroado, Manaus - AM",
+        "url": "https://pergamum.ufam.edu.br/pergamum/biblioteca/index.php"
+      },
+      "categoria": "LIVRO"
+    },
+    {
+      "autor": "Kim, Won, Lochovsky, Frederick H.",
+      "titulo": "Object oriented concepts, databases and applications",
+      "assunto": "banco de dados",
+      "ano": 1989,
+      "biblioteca": {
+        "nome": "Biblioteca Setorial do Setor Sul - BSSS",
+        "instituicao": "UFAM",
+        "endereco": "Universidade Federal do Amazonas, Av. Jauary Marinho - Setor Sul - Coroado, Manaus - AM",
+        "url": "https://pergamum.ufam.edu.br/pergamum/biblioteca/index.php"
+      },
+      "categoria": "LIVRO"
+    },
+    {
+      "autor": "Furtado A. L.",
+      "titulo": "Organização de banco de dados",
+      "assunto": "banco de dados",
+      "ano": 1979,
+      "biblioteca": {
+        "nome": "Biblioteca Setorial do Setor Sul - BSSS",
+        "instituicao": "UFAM",
+        "endereco": "Universidade Federal do Amazonas, Av. Jauary Marinho - Setor Sul - Coroado, Manaus - AM",
+        "url": "https://pergamum.ufam.edu.br/pergamum/biblioteca/index.php"
+      },
+      "categoria": "LIVRO"
+    },
+    {
+      "autor": "Setzer, Valdemar W.",
+      "titulo": "PROJETO LOGICO E PROJETO FISICO DE BANCOS DE DADOS",
+      "assunto": "banco de dados",
+      "ano": 1986,
+      "biblioteca": {
+        "nome": "Biblioteca Setorial do Setor Sul - BSSS",
+        "instituicao": "UFAM",
+        "endereco": "Universidade Federal do Amazonas, Av. Jauary Marinho - Setor Sul - Coroado, Manaus - AM",
+        "url": "https://pergamum.ufam.edu.br/pergamum/biblioteca/index.php"
+      },
+      "categoria": "LIVRO"
+    },
+    {
+      "autor": "Bezerra, Ed Porto",
+      "titulo": "SQL-FÁCIL : uma interface amigável para o acesso a banco de dados relacional",
+      "assunto": "banco de dados",
+      "ano": 1989,
+      "biblioteca": {
+        "nome": "Biblioteca Setorial de Ciências da Saúde Professor Manoel Bastos Lira - BSCS",
+        "instituicao": "UFAM",
+        "endereco": "Av. Ayrão, 1033A - Praça 14 de Janeiro, Manaus - AM, 69025-050",
+        "url": "https://pergamum.ufam.edu.br/pergamum/biblioteca/index.php"
+      },
+      "categoria": "PRODUCAO_ACADEMICA"
+    },
+    {
+      "autor": "Silva, Altigran Soares da",
+      "titulo": "Uma contribuição para o problema de manutenção de representações relacionais otimizadas de esquemas entidade-relacionamento",
+      "assunto": "banco de dados",
+      "ano": 1995,
+      "biblioteca": {
+        "nome": "Biblioteca Setorial de Ciências da Saúde Professor Manoel Bastos Lira - BSCS",
+        "instituicao": "UFAM",
+        "endereco": "Av. Ayrão, 1033A - Praça 14 de Janeiro, Manaus - AM, 69025-050",
+        "url": "https://pergamum.ufam.edu.br/pergamum/biblioteca/index.php"
+      },
+      "categoria": "PRODUCAO_ACADEMICA"
+    },
+    {
+      "autor": "Cavalcanti, João Marcos Bastos",
+      "titulo": "Implementação de Bancos de Dados Temporais usando SGBDs Relacionais",
+      "assunto": "banco de dados",
+      "ano": 1995,
+      "biblioteca": {
+        "nome": "Biblioteca Setorial de Ciências da Saúde Professor Manoel Bastos Lira - BSCS",
+        "instituicao": "UFAM",
+        "endereco": "Av. Ayrão, 1033A - Praça 14 de Janeiro, Manaus - AM, 69025-050",
+        "url": "https://pergamum.ufam.edu.br/pergamum/biblioteca/index.php"
+      },
+      "categoria": "PRODUCAO_ACADEMICA"
+    },
+    {
+      "autor": "Gonçalves, Laercio Antonio Castelo Branco",
+      "titulo": "O Sub-Sistema de reconstrução do SGBD COPPEREL",
+      "assunto": "banco de dados",
+      "ano": 1990,
+      "biblioteca": {
+        "nome": "Biblioteca Setorial de Ciências da Saúde Professor Manoel Bastos Lira - BSCS",
+        "instituicao": "UFAM",
+        "endereco": "Av. Ayrão, 1033A - Praça 14 de Janeiro, Manaus - AM, 69025-050",
+        "url": "https://pergamum.ufam.edu.br/pergamum/biblioteca/index.php"
+      },
+      "categoria": "PRODUCAO_ACADEMICA"
+    },
+    {
+      "autor": "Gonçalves, Ludimila Carvalho",
+      "titulo": "Aprendendo funções de previsão de notas em métodos de filtragem colaborativa baseada em usuário",
+      "assunto": "banco de dados",
+      "ano": 2013,
+      "biblioteca": {
+        "nome": "Biblioteca Setorial de Ciências Exatas e Engenharias - BSCEE",
+        "instituicao": "UFAM",
+        "endereco": "Universidade Federal do Amazonas, Av. Octávio Hamilton Botelho Mourão - Coroado, Manaus - AM",
+        "url": "https://pergamum.ufam.edu.br/pergamum/biblioteca/index.php"
+      },
+      "categoria": "PRODUCAO_ACADEMICA"
+    },
+    {
+      "autor": "Rodrigues, Diego de Azevedo",
+      "titulo": "Casamento de esquemas de banco de dados aplicando aprendizado ativo",
+      "assunto": "banco de dados",
+      "ano": 2013,
+      "biblioteca": {
+        "nome": "Biblioteca Setorial de Ciências Exatas e Engenharias - BSCEE",
+        "instituicao": "UFAM",
+        "endereco": "Universidade Federal do Amazonas, Av. Octávio Hamilton Botelho Mourão - Coroado, Manaus - AM",
+        "url": "https://pergamum.ufam.edu.br/pergamum/biblioteca/index.php"
+      },
+      "categoria": "PRODUCAO_ACADEMICA"
+    },
+    {
+      "autor": "Oliveira, Daniel Pereira de",
+      "titulo": "Geração semi-automática de extratores de dados da web considerando contextos fracos",
+      "assunto": "banco de dados",
+      "ano": 2006,
+      "biblioteca": {
+        "nome": "Biblioteca Setorial de Ciências Exatas e Engenharias - BSCEE",
+        "instituicao": "UFAM",
+        "endereco": "Universidade Federal do Amazonas, Av. Octávio Hamilton Botelho Mourão - Coroado, Manaus - AM",
+        "url": "https://pergamum.ufam.edu.br/pergamum/biblioteca/index.php"
+      },
+      "categoria": "PRODUCAO_ACADEMICA"
+    },
+    {
+      "autor": "Rossi, Cristian",
+      "titulo": "Processamento de consultas documento-a-documento utilizando índice em camadas",
+      "assunto": "banco de dados",
+      "ano": 2013,
+      "biblioteca": {
+        "nome": "Biblioteca Setorial de Ciências Exatas e Engenharias - BSCEE",
+        "instituicao": "UFAM",
+        "endereco": "Universidade Federal do Amazonas, Av. Octávio Hamilton Botelho Mourão - Coroado, Manaus - AM",
+        "url": "https://pergamum.ufam.edu.br/pergamum/biblioteca/index.php"
+      },
+      "categoria": "PRODUCAO_ACADEMICA"
+    },
+    {
+      "autor": "Albuquerque, Regina Lúcia Azevedo de",
+      "titulo": "Repositório de instituições de ensino superior: composição de políticas para a sua criação",
+      "assunto": "banco de dados",
+      "ano": 2013,
+      "biblioteca": {
+        "nome": "Biblioteca Setorial de Ciências Exatas e Engenharias - BSCEE",
+        "instituicao": "UFAM",
+        "endereco": "Universidade Federal do Amazonas, Av. Octávio Hamilton Botelho Mourão - Coroado, Manaus - AM",
+        "url": "https://pergamum.ufam.edu.br/pergamum/biblioteca/index.php"
+      },
+      "categoria": "PRODUCAO_ACADEMICA"
+    },
+    {
+      "autor": "Lawrence, Peter D.",
+      "titulo": "Real-time microcomputer system design : an introduction",
+      "assunto": "banco de dados",
+      "ano": 1988,
+      "biblioteca": {
+        "nome": "Biblioteca Setorial de Ciências Exatas e Engenharias - BSCEE",
+        "instituicao": "UFAM",
+        "endereco": "Universidade Federal do Amazonas, Av. Octávio Hamilton Botelho Mourão - Coroado, Manaus - AM",
+        "url": "https://pergamum.ufam.edu.br/pergamum/biblioteca/index.php"
+      },
+      "categoria": "PRODUCAO_ACADEMICA"
+    },
+    {
+      "autor": "Marreiro, Juliana",
+      "titulo": "Um estudo da aplicação da tecnologia de data warehouse para bancos de dados de biodiversidade",
+      "assunto": "banco de dados",
+      "ano": 1999,
+      "biblioteca": {
+        "nome": "Biblioteca Setorial do Setor Sul - BSSS",
+        "instituicao": "UFAM",
+        "endereco": "Universidade Federal do Amazonas, Av. Jauary Marinho - Setor Sul - Coroado, Manaus - AM",
+        "url": "https://pergamum.ufam.edu.br/pergamum/biblioteca/index.php"
+      },
+      "categoria": "PRODUCAO_ACADEMICA"
+    },
+    {
+      "autor": "Noronha, Danielle Pompeu",
+      "titulo": "Um estudo de caso sobre reprojeto de representações relacionais de esquemas entidade-relacionamento (fase conceitual)",
+      "assunto": "banco de dados",
+      "ano": 1996,
+      "biblioteca": {
+        "nome": "Biblioteca Setorial do Setor Sul - BSSS",
+        "instituicao": "UFAM",
+        "endereco": "Universidade Federal do Amazonas, Av. Jauary Marinho - Setor Sul - Coroado, Manaus - AM",
+        "url": "https://pergamum.ufam.edu.br/pergamum/biblioteca/index.php"
+      },
+      "categoria": "PRODUCAO_ACADEMICA"
+    },
+    {
+      "autor": "Rodrigues, Elisângela de Araújo",
+      "titulo": "Um estudo de caso sobre reprojeto de representações relacionais de esquemas er: aspéctos lógicos",
+      "assunto": "banco de dados",
+      "ano": 1996,
+      "biblioteca": {
+        "nome": "Biblioteca Setorial do Setor Sul - BSSS",
+        "instituicao": "UFAM",
+        "endereco": "Universidade Federal do Amazonas, Av. Jauary Marinho - Setor Sul - Coroado, Manaus - AM",
+        "url": "https://pergamum.ufam.edu.br/pergamum/biblioteca/index.php"
+      },
+      "categoria": "PRODUCAO_ACADEMICA"
+    },
+    {
+      "autor": "Nóbrega, Sheila Gomes da",
+      "titulo": "Uma ferramenta para o projeto de banco de dados temporais usando o modelo TF-ORM",
+      "assunto": "banco de dados",
+      "ano": 1996,
+      "biblioteca": {
+        "nome": "Biblioteca Setorial do Setor Sul - BSSS",
+        "instituicao": "UFAM",
+        "endereco": "Universidade Federal do Amazonas, Av. Jauary Marinho - Setor Sul - Coroado, Manaus - AM",
+        "url": "https://pergamum.ufam.edu.br/pergamum/biblioteca/index.php"
+      },
+      "categoria": "PRODUCAO_ACADEMICA"
+    },
+    {
+      "autor": "Flôres, Andréa Corrêa",
+      "titulo": "Modelagem conceitual de banco de dados temporais : um estudo de caso",
+      "assunto": "banco de dados",
+      "ano": 1996,
+      "biblioteca": {
+        "nome": "Biblioteca Setorial do Setor Sul - BSSS",
+        "instituicao": "UFAM",
+        "endereco": "Universidade Federal do Amazonas, Av. Jauary Marinho - Setor Sul - Coroado, Manaus - AM",
+        "url": "https://pergamum.ufam.edu.br/pergamum/biblioteca/index.php"
+      },
+      "categoria": "PRODUCAO_ACADEMICA"
+    },
+    {
+      "autor": "Oliveira, Nívia Menezes de",
+      "titulo": "Projeto e implantação do modelo de banco de dados entomológico do INPA.",
+      "assunto": "banco de dados",
+      "ano": 1999,
+      "biblioteca": {
+        "nome": "Biblioteca Setorial do Setor Sul - BSSS",
+        "instituicao": "UFAM",
+        "endereco": "Universidade Federal do Amazonas, Av. Jauary Marinho - Setor Sul - Coroado, Manaus - AM",
+        "url": "https://pergamum.ufam.edu.br/pergamum/biblioteca/index.php"
+      },
+      "categoria": "PRODUCAO_ACADEMICA"
+    },
+    {
+      "autor": "Silva, Joscelin James Guedelha da",
+      "titulo": "Projeto e implementação do sistema de banco de dados das exportações de peixes ornamentais na bacia do Médio Rio Negro",
+      "assunto": "banco de dados",
+      "ano": 1998,
+      "biblioteca": {
+        "nome": "Biblioteca Setorial do Setor Sul - BSSS",
+        "instituicao": "UFAM",
+        "endereco": "Universidade Federal do Amazonas, Av. Jauary Marinho - Setor Sul - Coroado, Manaus - AM",
+        "url": "https://pergamum.ufam.edu.br/pergamum/biblioteca/index.php"
+      },
+      "categoria": "PRODUCAO_ACADEMICA"
+    },
+    {
+      "autor": "Figueiredo, Theuryn Saches Loureiro",
+      "titulo": "Proposta de um subsistema de recuperação de falhas para um banco de dados orientado a objeto",
+      "assunto": "banco de dados",
+      "ano": 1994,
+      "biblioteca": {
+        "nome": "Biblioteca Setorial do Setor Sul - BSSS",
+        "instituicao": "UFAM",
+        "endereco": "Universidade Federal do Amazonas, Av. Jauary Marinho - Setor Sul - Coroado, Manaus - AM",
+        "url": "https://pergamum.ufam.edu.br/pergamum/biblioteca/index.php"
+      },
+      "categoria": "PRODUCAO_ACADEMICA"
+    },
+    {
+      "autor": "Teles, Ketlen Karine de Lima",
+      "titulo": "Uma proposta para extensão do modelo FDS para acesso de instância em Banco de Dados funcionais",
+      "assunto": "banco de dados",
+      "ano": 1996,
+      "biblioteca": {
+        "nome": "Biblioteca Setorial do Setor Sul - BSSS",
+        "instituicao": "UFAM",
+        "endereco": "Universidade Federal do Amazonas, Av. Jauary Marinho - Setor Sul - Coroado, Manaus - AM",
+        "url": "https://pergamum.ufam.edu.br/pergamum/biblioteca/index.php"
+      },
+      "categoria": "PRODUCAO_ACADEMICA"
+    },
+    {
+      "autor": "Oliveira Neto, João Leite de",
+      "titulo": "Sistema gestor de informação da pós-graduação - SiGIPós : Sub-sistemas programa, pesquisador e discente",
+      "assunto": "banco de dados",
+      "ano": 2004,
+      "biblioteca": {
+        "nome": "Biblioteca Setorial do Setor Sul - BSSS",
+        "instituicao": "UFAM",
+        "endereco": "Universidade Federal do Amazonas, Av. Jauary Marinho - Setor Sul - Coroado, Manaus - AM",
+        "url": "https://pergamum.ufam.edu.br/pergamum/biblioteca/index.php"
+      },
+      "categoria": "PRODUCAO_ACADEMICA"
+    },
+    {
+      "autor": "Pemberton, Leroy A",
+      "titulo": "Administração de Sistemas",
+      "assunto": "análise de sistemas",
+      "ano": 1972,
+      "biblioteca": {
+        "nome": "Biblioteca Setorial de Ciências Exatas e Engenharias - BSCEE",
+        "instituicao": "UFAM",
+        "endereco": "Universidade Federal do Amazonas, Av. Octávio Hamilton Botelho Mourão - Coroado, Manaus - AM",
+        "url": "https://pergamum.ufam.edu.br/pergamum/biblioteca/index.php"
+      },
+      "categoria": "LIVRO"
+    },
+    {
+      "autor": "Melo, Ivo Soares",
+      "titulo": "Administração de sistemas de informação",
+      "assunto": "análise de sistemas",
+      "ano": 1999,
+      "biblioteca": {
+        "nome": "Biblioteca Setorial de Ciências Exatas e Engenharias - BSCEE",
+        "instituicao": "UFAM",
+        "endereco": "Universidade Federal do Amazonas, Av. Octávio Hamilton Botelho Mourão - Coroado, Manaus - AM",
+        "url": "https://pergamum.ufam.edu.br/pergamum/biblioteca/index.php"
+      },
+      "categoria": "LIVRO"
+    },
+    {
+      "autor": "Davis, William S.",
+      "titulo": "Análise e projeto de sistemas : uma abordagem estruturada",
+      "assunto": "análise de sistemas",
+      "ano": 1987,
+      "biblioteca": {
+        "nome": "Biblioteca Setorial de Ciências Exatas e Engenharias - BSCEE",
+        "instituicao": "UFAM",
+        "endereco": "Universidade Federal do Amazonas, Av. Octávio Hamilton Botelho Mourão - Coroado, Manaus - AM",
+        "url": "https://pergamum.ufam.edu.br/pergamum/biblioteca/index.php"
+      },
+      "categoria": "LIVRO"
+    },
+    {
+      "autor": "Melo, Ana Cristina de Souza Luiz de",
+      "titulo": "Desenvolvendo aplicações com UML 2.0 : do conceitual à implementação",
+      "assunto": "análise de sistemas",
+      "ano": 204,
+      "biblioteca": {
+        "nome": "Biblioteca Setorial de Ciências Exatas e Engenharias - BSCEE",
+        "instituicao": "UFAM",
+        "endereco": "Universidade Federal do Amazonas, Av. Octávio Hamilton Botelho Mourão - Coroado, Manaus - AM",
+        "url": "https://pergamum.ufam.edu.br/pergamum/biblioteca/index.php"
+      },
+      "categoria": "LIVRO"
+    },
+    {
+      "autor": "Pressman, Roger S.",
+      "titulo": "Engenharia de software",
+      "assunto": "análise de sistemas",
+      "ano": 2006,
+      "biblioteca": {
+        "nome": "Biblioteca Setorial de Ciências Exatas e Engenharias - BSCEE",
+        "instituicao": "UFAM",
+        "endereco": "Universidade Federal do Amazonas, Av. Octávio Hamilton Botelho Mourão - Coroado, Manaus - AM",
+        "url": "https://pergamum.ufam.edu.br/pergamum/biblioteca/index.php"
+      },
+      "categoria": "LIVRO"
+    },
+    {
+      "autor": "Nise, Norman S.",
+      "titulo": "Engenharia de sistemas de controle",
+      "assunto": "análise de sistemas",
+      "ano": 2012,
+      "biblioteca": {
+        "nome": "Biblioteca Setorial de Ciências Exatas e Engenharias - BSCEE",
+        "instituicao": "UFAM",
+        "endereco": "Universidade Federal do Amazonas, Av. Octávio Hamilton Botelho Mourão - Coroado, Manaus - AM",
+        "url": "https://pergamum.ufam.edu.br/pergamum/biblioteca/index.php"
+      },
+      "categoria": "LIVRO"
+    },
+    {
+      "autor": "Roma, Woodrow Nelson Lopes",
+      "titulo": "Fenômenos de transporte para engenharia",
+      "assunto": "análise de sistemas",
+      "ano": 2006,
+      "biblioteca": {
+        "nome": "Biblioteca Setorial de Ciências Exatas e Engenharias - BSCEE",
+        "instituicao": "UFAM",
+        "endereco": "Universidade Federal do Amazonas, Av. Octávio Hamilton Botelho Mourão - Coroado, Manaus - AM",
+        "url": "https://pergamum.ufam.edu.br/pergamum/biblioteca/index.php"
+      },
+      "categoria": "LIVRO"
+    },
+    {
+      "autor": "Vazquez, Carlos Eduardo",
+      "titulo": "Análise de pontos de função : medição, estimativas e gerenciamento de projetos de Software",
+      "assunto": "análise de sistemas",
+      "ano": 2009,
+      "biblioteca": {
+        "nome": "Biblioteca Itacoatiara",
+        "instituicao": "UFAM",
+        "endereco": "R. Nossa Sra. do Rosário - Tiradentes, Itacoatiara - AM, 69103-128",
+        "url": "https://pergamum.ufam.edu.br/pergamum/biblioteca/index.php"
+      },
+      "categoria": "LIVRO"
+    },
+    {
+      "autor": "Melo, Ivo Soares",
+      "titulo": "Administração de sistemas de informação",
+      "assunto": "análise de sistemas",
+      "ano": 1999,
+      "biblioteca": {
+        "nome": "Biblioteca Itacoatiara",
+        "instituicao": "UFAM",
+        "endereco": "R. Nossa Sra. do Rosário - Tiradentes, Itacoatiara - AM, 69103-128",
+        "url": "https://pergamum.ufam.edu.br/pergamum/biblioteca/index.php"
+      },
+      "categoria": "LIVRO"
+    },
+    {
+      "autor": "Rosini, Alessandro Marco ",
+      "titulo": "Administração de sistemas de informação e a gestão do conhecimento",
+      "assunto": "análise de sistemas",
+      "ano": 2003,
+      "biblioteca": {
+        "nome": "Biblioteca Itacoatiara",
+        "instituicao": "UFAM",
+        "endereco": "R. Nossa Sra. do Rosário - Tiradentes, Itacoatiara - AM, 69103-128",
+        "url": "https://pergamum.ufam.edu.br/pergamum/biblioteca/index.php"
+      },
+      "categoria": "LIVRO"
+    },
+    {
+      "autor": "Vazquez, Carlos Eduardo",
+      "titulo": "Análise de pontos de função : medição, estimativas e gerenciamento de projetos de Software",
+      "assunto": "análise de sistemas",
+      "ano": 2009,
+      "biblioteca": {
+        "nome": "Biblioteca Itacoatiara",
+        "instituicao": "UFAM",
+        "endereco": "R. Nossa Sra. do Rosário - Tiradentes, Itacoatiara - AM, 69103-128",
+        "url": "https://pergamum.ufam.edu.br/pergamum/biblioteca/index.php"
+      },
+      "categoria": "LIVRO"
+    },
+    {
+      "autor": "Davis, William S.",
+      "titulo": "Análise e projeto de sistemas : uma abordagem estruturada",
+      "assunto": "análise de sistemas",
+      "ano": 1987,
+      "biblioteca": {
+        "nome": "Biblioteca Itacoatiara",
+        "instituicao": "UFAM",
+        "endereco": "R. Nossa Sra. do Rosário - Tiradentes, Itacoatiara - AM, 69103-128",
+        "url": "https://pergamum.ufam.edu.br/pergamum/biblioteca/index.php"
+      },
+      "categoria": "LIVRO"
+    },
+    {
+      "autor": "Wazlawick, Raul Sidnei",
+      "titulo": "Análise e projeto de sistemas de informação orientados a objetos",
+      "assunto": "análise de sistemas",
+      "ano": 2011,
+      "biblioteca": {
+        "nome": "Biblioteca Itacoatiara",
+        "instituicao": "UFAM",
+        "endereco": "R. Nossa Sra. do Rosário - Tiradentes, Itacoatiara - AM, 69103-128",
+        "url": "https://pergamum.ufam.edu.br/pergamum/biblioteca/index.php"
+      },
+      "categoria": "LIVRO"
+    },
+    {
+      "autor": "Cláudio, Dalcídio Moraes",
+      "titulo": "Cálculo numérico computacional: teoria e prática",
+      "assunto": "análise de sistemas",
+      "ano": 2000,
+      "biblioteca": {
+        "nome": "Biblioteca Itacoatiara",
+        "instituicao": "UFAM",
+        "endereco": "R. Nossa Sra. do Rosário - Tiradentes, Itacoatiara - AM, 69103-128",
+        "url": "https://pergamum.ufam.edu.br/pergamum/biblioteca/index.php"
+      },
+      "categoria": "LIVRO"
+    },
+    {
+      "autor": "Carvalho, Luiz Carlos de Sá",
+      "titulo": "Análise de sistemas : o outro lado da informática",
+      "assunto": "análise de sistemas",
+      "ano": 1990,
+      "biblioteca": {
+        "nome": "Biblioteca Setorial do Setor Sul - BSSS",
+        "instituicao": "UFAM",
+        "endereco": "Universidade Federal do Amazonas, Av. Jauary Marinho - Setor Sul - Coroado, Manaus - AM",
+        "url": "https://pergamum.ufam.edu.br/pergamum/biblioteca/index.php"
+      },
+      "categoria": "LIVRO"
+    },
+    {
+      "autor": "Davis, William S.",
+      "titulo": "Análise e projeto de sistemas : uma abordagem estruturada",
+      "assunto": "análise de sistemas",
+      "ano": 1987,
+      "biblioteca": {
+        "nome": "Biblioteca Setorial do Setor Sul - BSSS",
+        "instituicao": "UFAM",
+        "endereco": "Universidade Federal do Amazonas, Av. Jauary Marinho - Setor Sul - Coroado, Manaus - AM",
+        "url": "https://pergamum.ufam.edu.br/pergamum/biblioteca/index.php"
+      },
+      "categoria": "LIVRO"
+    },
+    {
+      "autor": "DeMarco, Tom",
+      "titulo": "Análise estruturada e especificação de sistema",
+      "assunto": "análise de sistemas",
+      "ano": 1989,
+      "biblioteca": {
+        "nome": "Biblioteca Setorial do Setor Sul - BSSS",
+        "instituicao": "UFAM",
+        "endereco": "Universidade Federal do Amazonas, Av. Jauary Marinho - Setor Sul - Coroado, Manaus - AM",
+        "url": "https://pergamum.ufam.edu.br/pergamum/biblioteca/index.php"
+      },
+      "categoria": "LIVRO"
+    },
+    {
+      "autor": "Lucas Jr., Henry C.",
+      "titulo": "The Analysis, Design, and Implementation of Information Systems",
+      "assunto": "análise de sistemas",
+      "ano": 1985,
+      "biblioteca": {
+        "nome": "Biblioteca Setorial do Setor Sul - BSSS",
+        "instituicao": "UFAM",
+        "endereco": "Universidade Federal do Amazonas, Av. Jauary Marinho - Setor Sul - Coroado, Manaus - AM",
+        "url": "https://pergamum.ufam.edu.br/pergamum/biblioteca/index.php"
+      },
+      "categoria": "LIVRO"
+    },
+    {
+      "autor": "Melo, Ana Cristina de Souza Luiz de",
+      "titulo": "Desenvolvendo aplicações com UML 2.0 : do conceitual à implementação",
+      "assunto": "análise de sistemas",
+      "ano": 2004,
+      "biblioteca": {
+        "nome": "Biblioteca Setorial do Setor Sul - BSSS",
+        "instituicao": "UFAM",
+        "endereco": "Universidade Federal do Amazonas, Av. Jauary Marinho - Setor Sul - Coroado, Manaus - AM",
+        "url": "https://pergamum.ufam.edu.br/pergamum/biblioteca/index.php"
+      },
+      "categoria": "LIVRO"
+    },
+    {
+      "autor": "Gane, Chris",
+      "titulo": "Desenvolvimento rápido de sistemas",
+      "assunto": "análise de sistemas",
+      "ano": 1988,
+      "biblioteca": {
+        "nome": "Biblioteca Setorial do Setor Sul - BSSS",
+        "instituicao": "UFAM",
+        "endereco": "Universidade Federal do Amazonas, Av. Jauary Marinho - Setor Sul - Coroado, Manaus - AM",
+        "url": "https://pergamum.ufam.edu.br/pergamum/biblioteca/index.php"
+      },
+      "categoria": "LIVRO"
+    },
+    {
+      "autor": "Feliciano Neto, Acácio",
+      "titulo": "Engenharia da informação : metodologia, técnicas e ferramentas",
+      "assunto": "análise de sistemas",
+      "ano": 1988,
+      "biblioteca": {
+        "nome": "Biblioteca Setorial do Setor Sul - BSSS",
+        "instituicao": "UFAM",
+        "endereco": "Universidade Federal do Amazonas, Av. Jauary Marinho - Setor Sul - Coroado, Manaus - AM",
+        "url": "https://pergamum.ufam.edu.br/pergamum/biblioteca/index.php"
+      },
+      "categoria": "LIVRO"
+    },
+    {
+      "autor": "James Martins",
+      "titulo": "Engenharia da informação: introdução",
+      "assunto": "análise de sistemas",
+      "ano": 1991,
+      "biblioteca": {
+        "nome": "Biblioteca Setorial do Setor Sul - BSSS",
+        "instituicao": "UFAM",
+        "endereco": "Universidade Federal do Amazonas, Av. Jauary Marinho - Setor Sul - Coroado, Manaus - AM",
+        "url": "https://pergamum.ufam.edu.br/pergamum/biblioteca/index.php"
+      },
+      "categoria": "LIVRO"
+    },
+    {
+      "autor": "Feliciano Neto, Acácio",
+      "titulo": "Engenharia da informação: metodologia, técnicas e ferramentas",
+      "assunto": "análise de sistemas",
+      "ano": 1988,
+      "biblioteca": {
+        "nome": "Biblioteca Setorial do Setor Sul - BSSS",
+        "instituicao": "UFAM",
+        "endereco": "Universidade Federal do Amazonas, Av. Jauary Marinho - Setor Sul - Coroado, Manaus - AM",
+        "url": "https://pergamum.ufam.edu.br/pergamum/biblioteca/index.php"
+      },
+      "categoria": "LIVRO"
+    },
+    {
+      "autor": "Cláudio, Dalcídio Moraes",
+      "titulo": "Cálculo numérico computacional: teoria e prática",
+      "assunto": "análise de sistemas",
+      "ano": 2000,
+      "biblioteca": {
+        "nome": "Biblioteca Setorial do Setor Norte - BSSN",
+        "instituicao": "UFAM",
+        "endereco": "Universidade Federal do Amazonas, Av. Roberto Vieira - Coroado, Manaus - AM",
+        "url": "https://pergamum.ufam.edu.br/pergamum/biblioteca/index.php"
+      },
+      "categoria": "LIVRO"
+    },
+    {
+      "autor": "Pemberton, Leroy A",
+      "titulo": "Administração de Sistemas",
+      "assunto": "análise de sistemas",
+      "ano": 1972,
+      "biblioteca": {
+        "nome": "Biblioteca Setorial do Setor Norte - BSSN",
+        "instituicao": "UFAM",
+        "endereco": "Universidade Federal do Amazonas, Av. Roberto Vieira - Coroado, Manaus - AM",
+        "url": "https://pergamum.ufam.edu.br/pergamum/biblioteca/index.php"
+      },
+      "categoria": "LIVRO"
+    },
+    {
+      "autor": "Palmisano, Angelo",
+      "titulo": "Administração de sistemas de informação e a gestão do conhecimento",
+      "assunto": "análise de sistemas",
+      "ano": 2003,
+      "biblioteca": {
+        "nome": "Biblioteca Setorial do Setor Norte - BSSN",
+        "instituicao": "UFAM",
+        "endereco": "Universidade Federal do Amazonas, Av. Roberto Vieira - Coroado, Manaus - AM",
+        "url": "https://pergamum.ufam.edu.br/pergamum/biblioteca/index.php"
+      },
+      "categoria": "LIVRO"
+    },
+    {
+      "autor": "Minnich, Charles J",
+      "titulo": "Administração por sistemas",
+      "assunto": "análise de sistemas",
+      "ano": 1977,
+      "biblioteca": {
+        "nome": "Biblioteca Setorial do Setor Norte - BSSN",
+        "instituicao": "UFAM",
+        "endereco": "Universidade Federal do Amazonas, Av. Roberto Vieira - Coroado, Manaus - AM",
+        "url": "https://pergamum.ufam.edu.br/pergamum/biblioteca/index.php"
+      },
+      "categoria": "LIVRO"
+    },
+    {
+      "autor": "Cleland, David I",
+      "titulo": "Análise de sistemas e administração de projetos",
+      "assunto": "análise de sistemas",
+      "ano": 1978,
+      "biblioteca": {
+        "nome": "Biblioteca Setorial do Setor Norte - BSSN",
+        "instituicao": "UFAM",
+        "endereco": "Universidade Federal do Amazonas, Av. Roberto Vieira - Coroado, Manaus - AM",
+        "url": "https://pergamum.ufam.edu.br/pergamum/biblioteca/index.php"
+      },
+      "categoria": "LIVRO"
+    },
+    {
+      "autor": "Hopeman, Richard J.",
+      "titulo": "Análise de sistemas e gerência de operações",
+      "assunto": "análise de sistemas",
+      "ano": 1977,
+      "biblioteca": {
+        "nome": "Biblioteca Setorial do Setor Norte - BSSN",
+        "instituicao": "UFAM",
+        "endereco": "Universidade Federal do Amazonas, Av. Roberto Vieira - Coroado, Manaus - AM",
+        "url": "https://pergamum.ufam.edu.br/pergamum/biblioteca/index.php"
+      },
+      "categoria": "LIVRO"
+    },
+    {
+      "autor": "Silva, Jorge Xavier da, Zaidan, Ricardo Tavares",
+      "titulo": "Geoprocessamento & análise ambiental : aplicações",
+      "assunto": "análise de sistemas",
+      "ano": 2013,
+      "biblioteca": {
+        "nome": "Biblioteca Setorial do Setor Norte - BSSN",
+        "instituicao": "UFAM",
+        "endereco": "Universidade Federal do Amazonas, Av. Roberto Vieira - Coroado, Manaus - AM",
+        "url": "https://pergamum.ufam.edu.br/pergamum/biblioteca/index.php"
+      },
+      "categoria": "LIVRO"
+    },
+    {
+      "autor": "Thomas, Timothy Stanislaus",
+      "titulo": "Sistemas de informações gerenciais: uma proposta metodológica de codificação estruturada e multidimensional de dados no gerenciamento da informação",
+      "assunto": "análise de sistemas",
+      "ano": 2007,
+      "biblioteca": {
+        "nome": "Biblioteca Setorial de Ciências Exatas e Engenharias - BSCEE",
+        "instituicao": "UFAM",
+        "endereco": "Universidade Federal do Amazonas, Av. Octávio Hamilton Botelho Mourão - Coroado, Manaus - AM",
+        "url": "https://pergamum.ufam.edu.br/pergamum/biblioteca/index.php"
+      },
+      "categoria": "PRODUCAO_ACADEMICA"
+    },
+    {
+      "autor": "Klehm, Volnei da Silva",
+      "titulo": "Reconhecimento biométrico de íris usando filtro de correlação [manuscrito]",
+      "assunto": "análise de sistemas",
+      "ano": 2013,
+      "biblioteca": {
+        "nome": "Biblioteca Setorial de Ciências Exatas e Engenharias - BSCEE",
+        "instituicao": "UFAM",
+        "endereco": "Universidade Federal do Amazonas, Av. Octávio Hamilton Botelho Mourão - Coroado, Manaus - AM",
+        "url": "https://pergamum.ufam.edu.br/pergamum/biblioteca/index.php"
+      },
+      "categoria": "PRODUCAO_ACADEMICA"
+    },
+    {
+      "autor": "Carvalho, Rodrigo Pinto de",
+      "titulo": "Propsta de modelagem da gestão da produção baseado no processo de preparação de urnas eletônicas do TRE-AM",
+      "assunto": "análise de sistemas",
+      "ano": 2010,
+      "biblioteca": {
+        "nome": "Biblioteca Setorial de Ciências Exatas e Engenharias - BSCEE",
+        "instituicao": "UFAM",
+        "endereco": "Universidade Federal do Amazonas, Av. Octávio Hamilton Botelho Mourão - Coroado, Manaus - AM",
+        "url": "https://pergamum.ufam.edu.br/pergamum/biblioteca/index.php"
+      },
+      "categoria": "PRODUCAO_ACADEMICA"
+    },
+    {
+      "autor": "Oliveira, Helca Karen Puget de",
+      "titulo": "Uma aplicação de um modelo estocástico para gerenciamento de projetos",
+      "assunto": "análise de sistemas",
+      "ano": 2004,
+      "biblioteca": {
+        "nome": "Biblioteca Setorial do Setor Sul - BSSS",
+        "instituicao": "UFAM",
+        "endereco": "Universidade Federal do Amazonas, Av. Jauary Marinho - Setor Sul - Coroado, Manaus - AM",
+        "url": "https://pergamum.ufam.edu.br/pergamum/biblioteca/index.php"
+      },
+      "categoria": "PRODUCAO_ACADEMICA"
+    },
+    {
+      "autor": "González, Diego Hidalgo Chicre",
+      "titulo": "Modelando o CVS para uma integração entre controle e documentação de versões de Software",
+      "assunto": "análise de sistemas",
+      "ano": 2004,
+      "biblioteca": {
+        "nome": "Biblioteca Setorial do Setor Sul - BSSS",
+        "instituicao": "UFAM",
+        "endereco": "Universidade Federal do Amazonas, Av. Jauary Marinho - Setor Sul - Coroado, Manaus - AM",
+        "url": "https://pergamum.ufam.edu.br/pergamum/biblioteca/index.php"
+      },
+      "categoria": "PRODUCAO_ACADEMICA"
+    },
+    {
+      "autor": "Rocha, claúdia Elizabeth Roessing",
+      "titulo": "SiGIPós - Subsistemas Oferta de Turma e Matrícula",
+      "assunto": "análise de sistemas",
+      "ano": 2004,
+      "biblioteca": {
+        "nome": "Biblioteca Setorial do Setor Sul - BSSS",
+        "instituicao": "UFAM",
+        "endereco": "Universidade Federal do Amazonas, Av. Jauary Marinho - Setor Sul - Coroado, Manaus - AM",
+        "url": "https://pergamum.ufam.edu.br/pergamum/biblioteca/index.php"
+      },
+      "categoria": "PRODUCAO_ACADEMICA"
+    },
+    {
+      "autor": "Ribeiro, Lívia do Espírito Santo",
+      "titulo": "SISCAEXT - Sistema para cadastro e gerência de ações de extensão via INTERFACE WEB",
+      "assunto": "análise de sistemas",
+      "ano": 2003,
+      "biblioteca": {
+        "nome": "Biblioteca Setorial do Setor Sul - BSSS",
+        "instituicao": "UFAM",
+        "endereco": "Universidade Federal do Amazonas, Av. Jauary Marinho - Setor Sul - Coroado, Manaus - AM",
+        "url": "https://pergamum.ufam.edu.br/pergamum/biblioteca/index.php"
+      },
+      "categoria": "PRODUCAO_ACADEMICA"
+    },
+    {
+      "autor": "Fernandes, Daniel Ribeiro",
+      "titulo": "O uso de geração de resumos como estratégia para melhorar o desempenho de máquinas de busca",
+      "assunto": "análise de sistemas",
+      "ano": 2004,
+      "biblioteca": {
+        "nome": "Biblioteca Setorial do Setor Sul - BSSS",
+        "instituicao": "UFAM",
+        "endereco": "Universidade Federal do Amazonas, Av. Jauary Marinho - Setor Sul - Coroado, Manaus - AM",
+        "url": "https://pergamum.ufam.edu.br/pergamum/biblioteca/index.php"
+      },
+      "categoria": "PRODUCAO_ACADEMICA"
+    },
+    {
+      "autor": "Silva, Fábio Júnior Pimentel da",
+      "titulo": "Um algoritmo matemático para a programação vetorial",
+      "assunto": "análise de sistemas",
+      "ano": 2015,
+      "biblioteca": {
+        "nome": "Biblioteca de Coari",
+        "instituicao": "UFAM",
+        "endereco": "Estrada Aeroporto, 305 - Urucu, Coari - AM, 69460-000",
+        "url": "https://pergamum.ufam.edu.br/pergamum/biblioteca/index.php"
+      },
+      "categoria": "PRODUCAO_ACADEMICA"
+    },
+    {
+      "autor": "Santana Filho, Antônio Ferreira",
+      "titulo": "Construcción de una herramienta para el análisis de la sostenibilidad através del uso de indicadores y de la teoría general de sistemas",
+      "assunto": "análise de sistemas",
+      "ano": 2004,
+      "biblioteca": {
+        "nome": "Biblioteca Setorial do Setor Norte - BSSN",
+        "instituicao": "UFAM",
+        "endereco": "Universidade Federal do Amazonas, Av. Roberto Vieira - Coroado, Manaus - AM",
+        "url": "https://pergamum.ufam.edu.br/pergamum/biblioteca/index.php"
+      },
+      "categoria": "PRODUCAO_ACADEMICA"
+    },
+    {
+      "autor": "Thomas, Timothy Stanislaus",
+      "titulo": "Sistemas de informações gerenciais: uma proposta metodológica de codificação estruturada e multidimensional de dados no gerenciamento da informação",
+      "assunto": "análise de sistemas",
+      "ano": 2007,
+      "biblioteca": {
+        "nome": "Biblioteca Setorial do Setor Norte - BSSN",
+        "instituicao": "UFAM",
+        "endereco": "Universidade Federal do Amazonas, Av. Roberto Vieira - Coroado, Manaus - AM",
+        "url": "https://pergamum.ufam.edu.br/pergamum/biblioteca/index.php"
+      },
+      "categoria": "PRODUCAO_ACADEMICA"
+    },
+    {
+      "autor": "Cohen, Max Fortunato",
+      "titulo": "Avaliação de sistemas de informação : o caso do sistema de indicadores industriais da SUFRAMA",
+      "assunto": "análise de sistemas",
+      "ano": 1998,
+      "biblioteca": {
+        "nome": "Biblioteca Setorial do Setor Norte - BSSN",
+        "instituicao": "UFAM",
+        "endereco": "Universidade Federal do Amazonas, Av. Roberto Vieira - Coroado, Manaus - AM",
+        "url": "https://pergamum.ufam.edu.br/pergamum/biblioteca/index.php"
+      },
+      "categoria": "PRODUCAO_ACADEMICA"
+    },
+    {
+      "autor": "Fazenda, Ivani Catarina Arantes",
+      "titulo": "O computador com a escola: desafios interdisciplinares",
+      "assunto": "análise de sistemas",
+      "ano": 1996,
+      "biblioteca": {
+        "nome": "Biblioteca Setorial do Setor Norte - BSSN",
+        "instituicao": "UFAM",
+        "endereco": "Universidade Federal do Amazonas, Av. Roberto Vieira - Coroado, Manaus - AM",
+        "url": "https://pergamum.ufam.edu.br/pergamum/biblioteca/index.php"
+      },
+      "categoria": "PRODUCAO_ACADEMICA"
+    },
+    {
+      "autor": "Rolim, Dayana Cury",
+      "titulo": "Efetividade do sistema de informação, monitoramento e avaliação da assistência social: Limites, potencialidades e desafios",
+      "assunto": "análise de sistemas",
+      "ano": 2009,
+      "biblioteca": {
+        "nome": "Biblioteca Setorial do Setor Norte - BSSN",
+        "instituicao": "UFAM",
+        "endereco": "Universidade Federal do Amazonas, Av. Roberto Vieira - Coroado, Manaus - AM",
+        "url": "https://pergamum.ufam.edu.br/pergamum/biblioteca/index.php"
+      },
+      "categoria": "PRODUCAO_ACADEMICA"
+    },
+    {
+      "autor": "Silva Filho, Lauro de Barros",
+      "titulo": "Estudo da problemática das informações e comunicação no campo da administração dos sistemas educacionais",
+      "assunto": "análise de sistemas",
+      "ano": 1977,
+      "biblioteca": {
+        "nome": "Biblioteca Setorial do Setor Norte - BSSN",
+        "instituicao": "UFAM",
+        "endereco": "Universidade Federal do Amazonas, Av. Roberto Vieira - Coroado, Manaus - AM",
+        "url": "https://pergamum.ufam.edu.br/pergamum/biblioteca/index.php"
+      },
+      "categoria": "PRODUCAO_ACADEMICA"
+    },
+    {
+      "autor": "Lima, Hélio Silva de",
+      "titulo": "A importância da educação no processo de desenvolvimento do estado do Amazonas",
+      "assunto": "análise de sistemas",
+      "ano": 1999,
+      "biblioteca": {
+        "nome": "Biblioteca Setorial do Setor Norte - BSSN",
+        "instituicao": "UFAM",
+        "endereco": "Universidade Federal do Amazonas, Av. Roberto Vieira - Coroado, Manaus - AM",
+        "url": "https://pergamum.ufam.edu.br/pergamum/biblioteca/index.php"
+      },
+      "categoria": "PRODUCAO_ACADEMICA"
+    },
+    {
+      "autor": "Marques, Persilenne Celucio",
+      "titulo": "Modelo para planejamento de matéria-prima em kit aplicado em sistema ERP (Enterprise Resource Planning) de uma empresa eletroeletrônica do Pólo Industrial de Manaus",
+      "assunto": "análise de sistemas",
+      "ano": 2007,
+      "biblioteca": {
+        "nome": "Biblioteca Setorial do Setor Norte - BSSN",
+        "instituicao": "UFAM",
+        "endereco": "Universidade Federal do Amazonas, Av. Roberto Vieira - Coroado, Manaus - AM",
+        "url": "https://pergamum.ufam.edu.br/pergamum/biblioteca/index.php"
+      },
+      "categoria": "PRODUCAO_ACADEMICA"
+    },
+    {
+      "autor": "Thomas, Timothy Stanislaus",
+      "titulo": "Sistemas de informações gerenciais: uma proposta metodológica de codificação estruturada e multidimensional de dados no gerenciamento da informação",
+      "assunto": "análise de sistemas",
+      "ano": 2007,
+      "biblioteca": {
+        "nome": "Biblioteca Setorial do Setor Norte - BSSN",
+        "instituicao": "UFAM",
+        "endereco": "Universidade Federal do Amazonas, Av. Roberto Vieira - Coroado, Manaus - AM",
+        "url": "https://pergamum.ufam.edu.br/pergamum/biblioteca/index.php"
+      },
+      "categoria": "PRODUCAO_ACADEMICA"
+    },
+    {
+      "autor": "Carvalho, Nívea Michelle de Melo",
+      "titulo": "Estudo de métricas e técnicas de indexação para suporte a junções por similaridade",
+      "assunto": "análise de sistemas",
+      "ano": 2004,
+      "biblioteca": {
+        "nome": "Biblioteca Setorial do Setor Sul - BSSS",
+        "instituicao": "UFAM",
+        "endereco": "Universidade Federal do Amazonas, Av. Jauary Marinho - Setor Sul - Coroado, Manaus - AM",
+        "url": "https://pergamum.ufam.edu.br/pergamum/biblioteca/index.php"
+      },
+      "categoria": "PRODUCAO_ACADEMICA"
+    },
+    {
+      "autor": "Lucena, Ketlen Karine Teles",
+      "titulo": "Classificação de documentos Web utilizando múltiplas fontes de evidências",
+      "assunto": "análise de sistemas",
+      "ano": 2004,
+      "biblioteca": {
+        "nome": "Biblioteca Setorial do Setor Sul - BSSS",
+        "instituicao": "UFAM",
+        "endereco": "Universidade Federal do Amazonas, Av. Jauary Marinho - Setor Sul - Coroado, Manaus - AM",
+        "url": "https://pergamum.ufam.edu.br/pergamum/biblioteca/index.php"
+      },
+      "categoria": "PRODUCAO_ACADEMICA"
+    },
+    {
+      "autor": "Yourdon, Edward",
+      "titulo": "Administração técnicas estruturas : Estratégias para desenvolvimento de software nos anos 90",
+      "assunto": "linguagem de programação",
+      "ano": 1988,
+      "biblioteca": {
+        "nome": "Biblioteca Setorial do Setor Sul - BSSS",
+        "instituicao": "UFAM",
+        "endereco": "Universidade Federal do Amazonas, Av. Jauary Marinho - Setor Sul - Coroado, Manaus - AM",
+        "url": "https://pergamum.ufam.edu.br/pergamum/biblioteca/index.php"
+      },
+      "categoria": "LIVRO"
+    },
+    {
+      "autor": "Guimarães, Ângelo de Moura",
+      "titulo": "Algoritmos e estruturas de dados",
+      "assunto": "linguagem de programação",
+      "ano": 1994,
+      "biblioteca": {
+        "nome": "Biblioteca Setorial do Setor Sul - BSSS",
+        "instituicao": "UFAM",
+        "endereco": "Universidade Federal do Amazonas, Av. Jauary Marinho - Setor Sul - Coroado, Manaus - AM",
+        "url": "https://pergamum.ufam.edu.br/pergamum/biblioteca/index.php"
+      },
+      "categoria": "LIVRO"
+    },
+    {
+      "autor": "DeMarco, Tom",
+      "titulo": "Análise estruturada e especificação de sistema",
+      "assunto": "linguagem de programação",
+      "ano": 1989,
+      "biblioteca": {
+        "nome": "Biblioteca Setorial do Setor Sul - BSSS",
+        "instituicao": "UFAM",
+        "endereco": "Universidade Federal do Amazonas, Av. Jauary Marinho - Setor Sul - Coroado, Manaus - AM",
+        "url": "https://pergamum.ufam.edu.br/pergamum/biblioteca/index.php"
+      },
+      "categoria": "LIVRO"
+    },
+    {
+      "autor": "Russell, Stuart J.",
+      "titulo": "Artificial intelligence : a modern approach",
+      "assunto": "linguagem de programação",
+      "ano": 1995,
+      "biblioteca": {
+        "nome": "Biblioteca Setorial do Setor Sul - BSSS",
+        "instituicao": "UFAM",
+        "endereco": "Universidade Federal do Amazonas, Av. Jauary Marinho - Setor Sul - Coroado, Manaus - AM",
+        "url": "https://pergamum.ufam.edu.br/pergamum/biblioteca/index.php"
+      },
+      "categoria": "LIVRO"
+    },
+    {
+      "autor": "Schildt, Herbert",
+      "titulo": "C : completo e total",
+      "assunto": "linguagem de programação",
+      "ano": 1997,
+      "biblioteca": {
+        "nome": "Biblioteca Setorial do Setor Sul - BSSS",
+        "instituicao": "UFAM",
+        "endereco": "Universidade Federal do Amazonas, Av. Jauary Marinho - Setor Sul - Coroado, Manaus - AM",
+        "url": "https://pergamum.ufam.edu.br/pergamum/biblioteca/index.php"
+      },
+      "categoria": "LIVRO"
+    },
+    {
+      "autor": "Ramalho, José A.",
+      "titulo": "Clipper 5.0 : Guia de referência básica",
+      "assunto": "linguagem de programação",
+      "ano": 1991,
+      "biblioteca": {
+        "nome": "Biblioteca Setorial do Setor Sul - BSSS",
+        "instituicao": "UFAM",
+        "endereco": "Universidade Federal do Amazonas, Av. Jauary Marinho - Setor Sul - Coroado, Manaus - AM",
+        "url": "https://pergamum.ufam.edu.br/pergamum/biblioteca/index.php"
+      },
+      "categoria": "LIVRO"
+    },
+    {
+      "autor": "Ghezzi, Carlo",
+      "titulo": "Conceitos de linguagens de programação",
+      "assunto": "linguagem de programação",
+      "ano": 1985,
+      "biblioteca": {
+        "nome": "Biblioteca Setorial do Setor Sul - BSSS",
+        "instituicao": "UFAM",
+        "endereco": "Universidade Federal do Amazonas, Av. Jauary Marinho - Setor Sul - Coroado, Manaus - AM",
+        "url": "https://pergamum.ufam.edu.br/pergamum/biblioteca/index.php"
+      },
+      "categoria": "LIVRO"
+    },
+    {
+      "autor": "Salvetti, Dirceu Douglas",
+      "titulo": "Elementos de programação Fortran",
+      "assunto": "linguagem de programação",
+      "ano": 1983,
+      "biblioteca": {
+        "nome": "Biblioteca Setorial do Setor Sul - BSSS",
+        "instituicao": "UFAM",
+        "endereco": "Universidade Federal do Amazonas, Av. Jauary Marinho - Setor Sul - Coroado, Manaus - AM",
+        "url": "https://pergamum.ufam.edu.br/pergamum/biblioteca/index.php"
+      },
+      "categoria": "LIVRO"
+    },
+    {
+      "autor": "Langr, Jeff",
+      "titulo": "Essential Java Style: patterns for implementation",
+      "assunto": "linguagem de programação",
+      "ano": 2000,
+      "biblioteca": {
+        "nome": "Biblioteca Setorial do Setor Sul - BSSS",
+        "instituicao": "UFAM",
+        "endereco": "Universidade Federal do Amazonas, Av. Jauary Marinho - Setor Sul - Coroado, Manaus - AM",
+        "url": "https://pergamum.ufam.edu.br/pergamum/biblioteca/index.php"
+      },
+      "categoria": "LIVRO"
+    },
+    {
+      "autor": "Lafore, Robert",
+      "titulo": "Estruturas de dados & algorítmos em Java",
+      "assunto": "linguagem de programação",
+      "ano": 2004,
+      "biblioteca": {
+        "nome": "Biblioteca Setorial do Setor Sul - BSSS",
+        "instituicao": "UFAM",
+        "endereco": "Universidade Federal do Amazonas, Av. Jauary Marinho - Setor Sul - Coroado, Manaus - AM",
+        "url": "https://pergamum.ufam.edu.br/pergamum/biblioteca/index.php"
+      },
+      "categoria": "LIVRO"
+    },
+    {
+      "autor": "Tenenbaum, Aaron M.",
+      "titulo": "Estruturas de dados usando C",
+      "assunto": "linguagem de programação",
+      "ano": 2005,
+      "biblioteca": {
+        "nome": "Biblioteca Setorial do Setor Sul - BSSS",
+        "instituicao": "UFAM",
+        "endereco": "Universidade Federal do Amazonas, Av. Jauary Marinho - Setor Sul - Coroado, Manaus - AM",
+        "url": "https://pergamum.ufam.edu.br/pergamum/biblioteca/index.php"
+      },
+      "categoria": "LIVRO"
+    },
+    {
+      "autor": "Carvalho, Sérgio E. R. de",
+      "titulo": "Introdução a programação com Pascal",
+      "assunto": "linguagem de programação",
+      "ano": 1982,
+      "biblioteca": {
+        "nome": "Biblioteca Setorial do Setor Sul - BSSS",
+        "instituicao": "UFAM",
+        "endereco": "Universidade Federal do Amazonas, Av. Jauary Marinho - Setor Sul - Coroado, Manaus - AM",
+        "url": "https://pergamum.ufam.edu.br/pergamum/biblioteca/index.php"
+      },
+      "categoria": "LIVRO"
+    },
+    {
+      "autor": "Deitel, Harvey M.",
+      "titulo": "Java : como programar",
+      "assunto": "linguagem de programação",
+      "ano": 2003,
+      "biblioteca": {
+        "nome": "Biblioteca Setorial do Setor Sul - BSSS",
+        "instituicao": "UFAM",
+        "endereco": "Universidade Federal do Amazonas, Av. Jauary Marinho - Setor Sul - Coroado, Manaus - AM",
+        "url": "https://pergamum.ufam.edu.br/pergamum/biblioteca/index.php"
+      },
+      "categoria": "LIVRO"
+    },
+    {
+      "autor": "CAMPIONE , Mary",
+      "titulo": "The java tutorial: object oriented programming for the internet",
+      "assunto": "linguagem de programação",
+      "ano": 1998,
+      "biblioteca": {
+        "nome": "Biblioteca Setorial do Setor Sul - BSSS",
+        "instituicao": "UFAM",
+        "endereco": "Universidade Federal do Amazonas, Av. Jauary Marinho - Setor Sul - Coroado, Manaus - AM",
+        "url": "https://pergamum.ufam.edu.br/pergamum/biblioteca/index.php"
+      },
+      "categoria": "LIVRO"
+    },
+    {
+      "autor": "LIMA, VERA LUCIA STRUBE DE",
+      "titulo": "LINGUAGEM PASCAL",
+      "assunto": "linguagem de programação",
+      "ano": 1985,
+      "biblioteca": {
+        "nome": "Biblioteca Setorial do Setor Sul - BSSS",
+        "instituicao": "UFAM",
+        "endereco": "Universidade Federal do Amazonas, Av. Jauary Marinho - Setor Sul - Coroado, Manaus - AM",
+        "url": "https://pergamum.ufam.edu.br/pergamum/biblioteca/index.php"
+      },
+      "categoria": "LIVRO"
+    },
+    {
+      "autor": "Silva, José Carlos G. da",
+      "titulo": "Linguagens de programação : conceitos e avaliação (FORTRAN, C, Pascal, Modula-2, Ada, CHILL)",
+      "assunto": "linguagem de programação",
+      "ano": 1998,
+      "biblioteca": {
+        "nome": "Biblioteca Setorial do Setor Sul - BSSS",
+        "instituicao": "UFAM",
+        "endereco": "Universidade Federal do Amazonas, Av. Jauary Marinho - Setor Sul - Coroado, Manaus - AM",
+        "url": "https://pergamum.ufam.edu.br/pergamum/biblioteca/index.php"
+      },
+      "categoria": "LIVRO"
+    },
+    {
+      "autor": "Brown, Gary D.",
+      "titulo": "Advanced ans cobol: with structured programming",
+      "assunto": "linguagem de programação",
+      "ano": 1977,
+      "biblioteca": {
+        "nome": "Biblioteca Setorial de Ciências Exatas e Engenharias - BSCEE",
+        "instituicao": "UFAM",
+        "endereco": "Universidade Federal do Amazonas, Av. Octávio Hamilton Botelho Mourão - Coroado, Manaus - AM",
+        "url": "https://pergamum.ufam.edu.br/pergamum/biblioteca/index.php"
+      },
+      "categoria": "LIVRO"
+    },
+    {
+      "autor": "Deitel, Paul J.",
+      "titulo": "Ajax, rich Internet applications, and web development for programmers",
+      "assunto": "linguagem de programação",
+      "ano": 2008,
+      "biblioteca": {
+        "nome": "Biblioteca Setorial de Ciências Exatas e Engenharias - BSCEE",
+        "instituicao": "UFAM",
+        "endereco": "Universidade Federal do Amazonas, Av. Octávio Hamilton Botelho Mourão - Coroado, Manaus - AM",
+        "url": "https://pergamum.ufam.edu.br/pergamum/biblioteca/index.php"
+      },
+      "categoria": "LIVRO"
+    },
+    {
+      "autor": "Sedgewick, Robert",
+      "titulo": "Algorithms in C : volume 1 , parts 1-4 : fundamentals, data structures, sorting, searching",
+      "assunto": "linguagem de programação",
+      "ano": 1998,
+      "biblioteca": {
+        "nome": "Biblioteca Setorial de Ciências Exatas e Engenharias - BSCEE",
+        "instituicao": "UFAM",
+        "endereco": "Universidade Federal do Amazonas, Av. Octávio Hamilton Botelho Mourão - Coroado, Manaus - AM",
+        "url": "https://pergamum.ufam.edu.br/pergamum/biblioteca/index.php"
+      },
+      "categoria": "LIVRO"
+    },
+    {
+      "autor": "Sedgewick, Robert",
+      "titulo": "Algorithms in C++",
+      "assunto": "linguagem de programação",
+      "ano": 1999,
+      "biblioteca": {
+        "nome": "Biblioteca Setorial de Ciências Exatas e Engenharias - BSCEE",
+        "instituicao": "UFAM",
+        "endereco": "Universidade Federal do Amazonas, Av. Octávio Hamilton Botelho Mourão - Coroado, Manaus - AM",
+        "url": "https://pergamum.ufam.edu.br/pergamum/biblioteca/index.php"
+      },
+      "categoria": "LIVRO"
+    },
+    {
+      "autor": "Sedgewick, Robert",
+      "titulo": "Algorithms in C",
+      "assunto": "linguagem de programação",
+      "ano": 2002,
+      "biblioteca": {
+        "nome": "Biblioteca Setorial de Ciências Exatas e Engenharias - BSCEE",
+        "instituicao": "UFAM",
+        "endereco": "Universidade Federal do Amazonas, Av. Octávio Hamilton Botelho Mourão - Coroado, Manaus - AM",
+        "url": "https://pergamum.ufam.edu.br/pergamum/biblioteca/index.php"
+      },
+      "categoria": "LIVRO"
+    },
+    {
+      "autor": "Guimarães, Ângelo de Moura",
+      "titulo": "Algoritmos e estruturas de dados",
+      "assunto": "linguagem de programação",
+      "ano": 1994,
+      "biblioteca": {
+        "nome": "Biblioteca Setorial de Ciências Exatas e Engenharias - BSCEE",
+        "instituicao": "UFAM",
+        "endereco": "Universidade Federal do Amazonas, Av. Octávio Hamilton Botelho Mourão - Coroado, Manaus - AM",
+        "url": "https://pergamum.ufam.edu.br/pergamum/biblioteca/index.php"
+      },
+      "categoria": "LIVRO"
+    },
+    {
+      "autor": "Niederst, Jennifer",
+      "titulo": "Aprenda web design",
+      "assunto": "linguagem de programação",
+      "ano": 2002,
+      "biblioteca": {
+        "nome": "Biblioteca Setorial de Ciências Exatas e Engenharias - BSCEE",
+        "instituicao": "UFAM",
+        "endereco": "Universidade Federal do Amazonas, Av. Octávio Hamilton Botelho Mourão - Coroado, Manaus - AM",
+        "url": "https://pergamum.ufam.edu.br/pergamum/biblioteca/index.php"
+      },
+      "categoria": "LIVRO"
+    },
+    {
+      "autor": "Farrer, Harry",
+      "titulo": "BASIC estruturado",
+      "assunto": "linguagem de programação",
+      "ano": 1987,
+      "biblioteca": {
+        "nome": "Biblioteca Setorial de Ciências Exatas e Engenharias - BSCEE",
+        "instituicao": "UFAM",
+        "endereco": "Universidade Federal do Amazonas, Av. Octávio Hamilton Botelho Mourão - Coroado, Manaus - AM",
+        "url": "https://pergamum.ufam.edu.br/pergamum/biblioteca/index.php"
+      },
+      "categoria": "LIVRO"
+    },
+    {
+      "autor": "Schildt, Herbert",
+      "titulo": "C : completo e total",
+      "assunto": "linguagem de programação",
+      "ano": 1997,
+      "biblioteca": {
+        "nome": "Biblioteca Setorial de Ciências Exatas e Engenharias - BSCEE",
+        "instituicao": "UFAM",
+        "endereco": "Universidade Federal do Amazonas, Av. Octávio Hamilton Botelho Mourão - Coroado, Manaus - AM",
+        "url": "https://pergamum.ufam.edu.br/pergamum/biblioteca/index.php"
+      },
+      "categoria": "LIVRO"
+    },
+    {
+      "autor": "Deitel, Paul J.",
+      "titulo": "C: como programar",
+      "assunto": "linguagem de programação",
+      "ano": 2011,
+      "biblioteca": {
+        "nome": "Biblioteca Setorial de Ciências Exatas e Engenharias - BSCEE",
+        "instituicao": "UFAM",
+        "endereco": "Universidade Federal do Amazonas, Av. Octávio Hamilton Botelho Mourão - Coroado, Manaus - AM",
+        "url": "https://pergamum.ufam.edu.br/pergamum/biblioteca/index.php"
+      },
+      "categoria": "LIVRO"
+    },
+    {
+      "autor": "Duntemann, Jeff",
+      "titulo": "C/C++ : técnicas avançadas",
+      "assunto": "linguagem de programação",
+      "ano": 1993,
+      "biblioteca": {
+        "nome": "Biblioteca Setorial de Ciências Exatas e Engenharias - BSCEE",
+        "instituicao": "UFAM",
+        "endereco": "Universidade Federal do Amazonas, Av. Octávio Hamilton Botelho Mourão - Coroado, Manaus - AM",
+        "url": "https://pergamum.ufam.edu.br/pergamum/biblioteca/index.php"
+      },
+      "categoria": "LIVRO"
+    },
+    {
+      "autor": "Sierra, Kathy",
+      "titulo": "Certificação Sun para programador Java 5 : guia de estudo (exame 310-055)",
+      "assunto": "linguagem de programação",
+      "ano": 2006,
+      "biblioteca": {
+        "nome": "Biblioteca Setorial de Ciências Exatas e Engenharias - BSCEE",
+        "instituicao": "UFAM",
+        "endereco": "Universidade Federal do Amazonas, Av. Octávio Hamilton Botelho Mourão - Coroado, Manaus - AM",
+        "url": "https://pergamum.ufam.edu.br/pergamum/biblioteca/index.php"
+      },
+      "categoria": "LIVRO"
+    },
+    {
+      "autor": "Ramalho, José A.",
+      "titulo": "Clipper 5.0 : Guia de referência básica",
+      "assunto": "linguagem de programação",
+      "ano": 1991,
+      "biblioteca": {
+        "nome": "Biblioteca Setorial de Ciências Exatas e Engenharias - BSCEE",
+        "instituicao": "UFAM",
+        "endereco": "Universidade Federal do Amazonas, Av. Octávio Hamilton Botelho Mourão - Coroado, Manaus - AM",
+        "url": "https://pergamum.ufam.edu.br/pergamum/biblioteca/index.php"
+      },
+      "categoria": "LIVRO"
+    },
+    {
+      "autor": "Chmura, Louis J.",
+      "titulo": "Cobol com estilo: provérbios de programação",
+      "assunto": "linguagem de programação",
+      "ano": 1985,
+      "biblioteca": {
+        "nome": "Biblioteca Setorial de Ciências Exatas e Engenharias - BSCEE",
+        "instituicao": "UFAM",
+        "endereco": "Universidade Federal do Amazonas, Av. Octávio Hamilton Botelho Mourão - Coroado, Manaus - AM",
+        "url": "https://pergamum.ufam.edu.br/pergamum/biblioteca/index.php"
+      },
+      "categoria": "LIVRO"
+    },
+    {
+      "autor": "Parkin, Andrew",
+      "titulo": "Cobol para estudantes",
+      "assunto": "linguagem de programação",
+      "ano": 1981,
+      "biblioteca": {
+        "nome": "Biblioteca Setorial de Ciências Exatas e Engenharias - BSCEE",
+        "instituicao": "UFAM",
+        "endereco": "Universidade Federal do Amazonas, Av. Octávio Hamilton Botelho Mourão - Coroado, Manaus - AM",
+        "url": "https://pergamum.ufam.edu.br/pergamum/biblioteca/index.php"
+      },
+      "categoria": "LIVRO"
+    },
+    {
+      "autor": "Stern, Robert A.",
+      "titulo": "Conceitos de processamento de dados com basic",
+      "assunto": "linguagem de programação",
+      "ano": 1985,
+      "biblioteca": {
+        "nome": "Biblioteca Setorial de Ciências Exatas e Engenharias - BSCEE",
+        "instituicao": "UFAM",
+        "endereco": "Universidade Federal do Amazonas, Av. Octávio Hamilton Botelho Mourão - Coroado, Manaus - AM",
+        "url": "https://pergamum.ufam.edu.br/pergamum/biblioteca/index.php"
+      },
+      "categoria": "LIVRO"
+    },
+    {
+      "autor": "DeCarmo, Linden",
+      "titulo": "Core Java media framework",
+      "assunto": "linguagem de programação",
+      "ano": 1999,
+      "biblioteca": {
+        "nome": "Biblioteca Setorial de Ciências Exatas e Engenharias - BSCEE",
+        "instituicao": "UFAM",
+        "endereco": "Universidade Federal do Amazonas, Av. Octávio Hamilton Botelho Mourão - Coroado, Manaus - AM",
+        "url": "https://pergamum.ufam.edu.br/pergamum/biblioteca/index.php"
+      },
+      "categoria": "LIVRO"
+    },
+    {
+      "autor": "Waite, Mitchell",
+      "titulo": "Data structures & algotithms in java",
+      "assunto": "linguagem de programação",
+      "ano": 1998,
+      "biblioteca": {
+        "nome": "Biblioteca Setorial de Ciências Exatas e Engenharias - BSCEE",
+        "instituicao": "UFAM",
+        "endereco": "Universidade Federal do Amazonas, Av. Octávio Hamilton Botelho Mourão - Coroado, Manaus - AM",
+        "url": "https://pergamum.ufam.edu.br/pergamum/biblioteca/index.php"
+      },
+      "categoria": "LIVRO"
+    },
+    {
+      "autor": "Ward, Robert",
+      "titulo": "Depurando em C",
+      "assunto": "linguagem de programação",
+      "ano": 1989,
+      "biblioteca": {
+        "nome": "Biblioteca Setorial de Ciências Exatas e Engenharias - BSCEE",
+        "instituicao": "UFAM",
+        "endereco": "Universidade Federal do Amazonas, Av. Octávio Hamilton Botelho Mourão - Coroado, Manaus - AM",
+        "url": "https://pergamum.ufam.edu.br/pergamum/biblioteca/index.php"
+      },
+      "categoria": "LIVRO"
+    },
+    {
+      "autor": "Ahmed, Khawar Zaman",
+      "titulo": "Desenvolvendo aplicações comerciais em Java com J2EE e UML",
+      "assunto": "linguagem de programação",
+      "ano": 2002,
+      "biblioteca": {
+        "nome": "Biblioteca Setorial de Ciências Exatas e Engenharias - BSCEE",
+        "instituicao": "UFAM",
+        "endereco": "Universidade Federal do Amazonas, Av. Octávio Hamilton Botelho Mourão - Coroado, Manaus - AM",
+        "url": "https://pergamum.ufam.edu.br/pergamum/biblioteca/index.php"
+      },
+      "categoria": "LIVRO"
+    },
+    {
+      "autor": "Gonçalves, Edson",
+      "titulo": "Desenvolvendo aplicações web com JPS, Servlets, JavaServer Faces, Hibernate, EJB 3 Persistence e AJAX ",
+      "assunto": "linguagem de programação",
+      "ano": 2007,
+      "biblioteca": {
+        "nome": "Biblioteca Setorial de Ciências Exatas e Engenharias - BSCEE",
+        "instituicao": "UFAM",
+        "endereco": "Universidade Federal do Amazonas, Av. Octávio Hamilton Botelho Mourão - Coroado, Manaus - AM",
+        "url": "https://pergamum.ufam.edu.br/pergamum/biblioteca/index.php"
+      },
+      "categoria": "LIVRO"
+    },
+    {
+      "autor": "Langr, Jeff",
+      "titulo": "Essential Java Style: patterns for implementation",
+      "assunto": "linguagem de programação",
+      "ano": 2000,
+      "biblioteca": {
+        "nome": "Biblioteca Setorial de Ciências Exatas e Engenharias - BSCEE",
+        "instituicao": "UFAM",
+        "endereco": "Universidade Federal do Amazonas, Av. Octávio Hamilton Botelho Mourão - Coroado, Manaus - AM",
+        "url": "https://pergamum.ufam.edu.br/pergamum/biblioteca/index.php"
+      },
+      "categoria": "LIVRO"
+    },
+    {
+      "autor": "Mize, Jan Lee",
+      "titulo": "Essential of structured cobol programming",
+      "assunto": "linguagem de programação",
+      "ano": 1978,
+      "biblioteca": {
+        "nome": "Biblioteca Setorial de Ciências Exatas e Engenharias - BSCEE",
+        "instituicao": "UFAM",
+        "endereco": "Universidade Federal do Amazonas, Av. Octávio Hamilton Botelho Mourão - Coroado, Manaus - AM",
+        "url": "https://pergamum.ufam.edu.br/pergamum/biblioteca/index.php"
+      },
+      "categoria": "LIVRO"
+    },
+    {
+      "autor": "Pacitti, Tércio",
+      "titulo": "FORTRAN - monitor: pricípios",
+      "assunto": "linguagem de programação",
+      "ano": 1981,
+      "biblioteca": {
+        "nome": "Biblioteca Setorial de Ciências Exatas e Engenharias - BSCEE",
+        "instituicao": "UFAM",
+        "endereco": "Universidade Federal do Amazonas, Av. Octávio Hamilton Botelho Mourão - Coroado, Manaus - AM",
+        "url": "https://pergamum.ufam.edu.br/pergamum/biblioteca/index.php"
+      },
+      "categoria": "LIVRO"
+    },
+    {
+      "autor": "Lemay, Laura",
+      "titulo": "Aprenda em 21 dias Java 2",
+      "assunto": "linguagem de programação",
+      "ano": 1999,
+      "biblioteca": {
+        "nome": "Biblioteca Itacoatiara",
+        "instituicao": "UFAM",
+        "endereco": "R. Nossa Sra. do Rosário - Tiradentes, Itacoatiara - AM, 69103-128",
+        "url": "https://pergamum.ufam.edu.br/pergamum/biblioteca/index.php"
+      },
+      "categoria": "LIVRO"
+    },
+    {
+      "autor": "Boente, Alfredo",
+      "titulo": "Aprendendo a programar em Pascal : técnicas de programação",
+      "assunto": "linguagem de programação",
+      "ano": 2003,
+      "biblioteca": {
+        "nome": "Biblioteca Itacoatiara",
+        "instituicao": "UFAM",
+        "endereco": "R. Nossa Sra. do Rosário - Tiradentes, Itacoatiara - AM, 69103-128",
+        "url": "https://pergamum.ufam.edu.br/pergamum/biblioteca/index.php"
+      },
+      "categoria": "LIVRO"
+    },
+    {
+      "autor": "Kernighan, Brian W.",
+      "titulo": "C : a linguagem de programação",
+      "assunto": "linguagem de programação",
+      "ano": 1986,
+      "biblioteca": {
+        "nome": "Biblioteca Itacoatiara",
+        "instituicao": "UFAM",
+        "endereco": "R. Nossa Sra. do Rosário - Tiradentes, Itacoatiara - AM, 69103-128",
+        "url": "https://pergamum.ufam.edu.br/pergamum/biblioteca/index.php"
+      },
+      "categoria": "LIVRO"
+    },
+    {
+      "autor": "Deitel, Harvey M.",
+      "titulo": "C++ : como programar",
+      "assunto": "linguagem de programação",
+      "ano": 2006,
+      "biblioteca": {
+        "nome": "Biblioteca Itacoatiara",
+        "instituicao": "UFAM",
+        "endereco": "R. Nossa Sra. do Rosário - Tiradentes, Itacoatiara - AM, 69103-128",
+        "url": "https://pergamum.ufam.edu.br/pergamum/biblioteca/index.php"
+      },
+      "categoria": "LIVRO"
+    },
+    {
+      "autor": "Schildt, Herbert",
+      "titulo": "C : completo e total",
+      "assunto": "linguagem de programação",
+      "ano": 1997,
+      "biblioteca": {
+        "nome": "Biblioteca Itacoatiara",
+        "instituicao": "UFAM",
+        "endereco": "R. Nossa Sra. do Rosário - Tiradentes, Itacoatiara - AM, 69103-128",
+        "url": "https://pergamum.ufam.edu.br/pergamum/biblioteca/index.php"
+      },
+      "categoria": "LIVRO"
+    },
+    {
+      "autor": "Savitch, Walter J.",
+      "titulo": "C++ absoluto",
+      "assunto": "linguagem de programação",
+      "ano": 2004,
+      "biblioteca": {
+        "nome": "Biblioteca Itacoatiara",
+        "instituicao": "UFAM",
+        "endereco": "R. Nossa Sra. do Rosário - Tiradentes, Itacoatiara - AM, 69103-128",
+        "url": "https://pergamum.ufam.edu.br/pergamum/biblioteca/index.php"
+      },
+      "categoria": "LIVRO"
+    },
+    {
+      "autor": "Sierra, Kathy ",
+      "titulo": "Certificação Sun para programador Java 5 : guia de estudo (exame 310-055)",
+      "assunto": "linguagem de programação",
+      "ano": 2006,
+      "biblioteca": {
+        "nome": "Biblioteca Itacoatiara",
+        "instituicao": "UFAM",
+        "endereco": "R. Nossa Sra. do Rosário - Tiradentes, Itacoatiara - AM, 69103-128",
+        "url": "https://pergamum.ufam.edu.br/pergamum/biblioteca/index.php"
+      },
+      "categoria": "LIVRO"
+    },
+    {
+      "autor": "Geary, David",
+      "titulo": "Core Javaserver faces : fundamentos",
+      "assunto": "linguagem de programação",
+      "ano": 2007,
+      "biblioteca": {
+        "nome": "Biblioteca Itacoatiara",
+        "instituicao": "UFAM",
+        "endereco": "R. Nossa Sra. do Rosário - Tiradentes, Itacoatiara - AM, 69103-128",
+        "url": "https://pergamum.ufam.edu.br/pergamum/biblioteca/index.php"
+      },
+      "categoria": "LIVRO"
+    },
+    {
+      "autor": "Drozdek, Adam",
+      "titulo": "Estrutura de dados e algoritmos em C++",
+      "assunto": "linguagem de programação",
+      "ano": 2002,
+      "biblioteca": {
+        "nome": "Biblioteca Itacoatiara",
+        "instituicao": "UFAM",
+        "endereco": "R. Nossa Sra. do Rosário - Tiradentes, Itacoatiara - AM, 69103-128",
+        "url": "https://pergamum.ufam.edu.br/pergamum/biblioteca/index.php"
+      },
+      "categoria": "LIVRO"
+    },
+    {
+      "autor": "Furgeri, Sérgio",
+      "titulo": "Java 6 : ensino didático: desenvolvendo e implementando aplicações",
+      "assunto": "linguagem de programação",
+      "ano": 2008,
+      "biblioteca": {
+        "nome": "Biblioteca Itacoatiara",
+        "instituicao": "UFAM",
+        "endereco": "R. Nossa Sra. do Rosário - Tiradentes, Itacoatiara - AM, 69103-128",
+        "url": "https://pergamum.ufam.edu.br/pergamum/biblioteca/index.php"
+      },
+      "categoria": "LIVRO"
+    }
+  ]
+}

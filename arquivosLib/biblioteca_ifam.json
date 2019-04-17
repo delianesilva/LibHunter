@@ -1,0 +1,1918 @@
+{
+    "documentos": [
+      {
+        "autor": "ALVES, WILLIAM PEREIRA",
+        "titulo": "BANCO DE DADOS: teoria e desenvolvimento",
+        "assunto": "banco de dados",
+        "ano": 2009,
+        "biblioteca": {
+          "nome": "BIBLIOTECA PAULO SARMENTO - CMC",
+          "instituicao": "IFAM",
+          "endereco": "Av. Sete de Setembro - Centro, Manaus - AM, 69020-125",
+          "url": "http://qacademico.ifam.edu.br/qacademico/index.asp?t=6000"
+        },
+        "categoria": "LIVRO"
+      },
+      {
+        "autor": "ALVES, WILLIAM PEREIRA",
+        "titulo": "BANCO DE DADOS: teoria e desenvolvimento",
+        "assunto": "banco de dados",
+        "ano": 2009,
+        "biblioteca": {
+          "nome": "BIBLIOTECA PROF. AMÉLIA DE SOUZA LEAL - CMZL",
+          "instituicao": "IFAM",
+          "endereco": "Alameda Cosme Ferreira, 8045 - São José Operário, Manaus - AM, 69083-000",
+          "url": "http://qacademico.ifam.edu.br/qacademico/index.asp?t=6000"
+        },
+        "categoria": "LIVRO"
+      },
+      {
+        "autor": "PUGA, SANDRA",
+        "titulo": "BANCO DE DADOS: IMPLEMENTAÇÃO EM SQL, PL/SQL E ORACLE 11G",
+        "assunto": "banco de dados",
+        "ano": 2013,
+        "biblioteca": {
+          "nome": "BIBLIOTECA PAULO SARMENTO - CMC",
+          "instituicao": "IFAM",
+          "endereco": "Av. Sete de Setembro - Centro, Manaus - AM, 69020-125",
+          "url": "http://qacademico.ifam.edu.br/qacademico/index.asp?t=6000"
+        },
+        "categoria": "LIVRO"
+      },
+      {
+        "autor": "SILVA, LUCIANO CARLOS DA",
+        "titulo": "BANCO DE DADOS PARA WEB:: DO PLANEJAMENTO À IMPLEMENTAÇÃO",
+        "assunto": "banco de dados",
+        "ano": 2003,
+        "biblioteca": {
+          "nome": "BIBLIOTECA PAULO SARMENTO - CMC",
+          "instituicao": "IFAM",
+          "endereco": "Av. Sete de Setembro - Centro, Manaus - AM, 69020-125",
+          "url": "http://qacademico.ifam.edu.br/qacademico/index.asp?t=6000"
+        },
+        "categoria": "LIVRO"
+      },
+      {
+        "autor": "MELO, RUBENS N.",
+        "titulo": "BANCOS DE DADOS EM APLICACOES CLIENTE-SERVIDOR: DISTRIBUIÇÃO DE PROCESSAMENTO, FUNDAMENTOS E PROJETO DE BANCO DE DADOS",
+        "assunto": "banco de dados",
+        "ano": 1997,
+        "biblioteca": {
+          "nome": "BIBLIOTECA PAULO SARMENTO - CMC",
+          "instituicao": "IFAM",
+          "endereco": "Av. Sete de Setembro - Centro, Manaus - AM, 69020-125",
+          "url": "http://qacademico.ifam.edu.br/qacademico/index.asp?t=6000"
+        },
+        "categoria": "LIVRO"
+      },
+      {
+        "autor": "MICROSOFT, - U.S.A: MICROSOFT CORP.",
+        "titulo": "CRIANDO APLICATIVOS: MICROSOFT ACCESS;SISTEMA DE GERENCIAMENTO DE BANCO DE DADOS RELACIONAL PARA WINDOWS",
+        "assunto": "banco de dados",
+        "ano": 2000,
+        "biblioteca": {
+          "nome": "BIBLIOTECA PAULO SARMENTO - CMC",
+          "instituicao": "IFAM",
+          "endereco": "Av. Sete de Setembro - Centro, Manaus - AM, 69020-125",
+          "url": "http://qacademico.ifam.edu.br/qacademico/index.asp?t=6000"
+        },
+        "categoria": "LIVRO"
+      },
+      {
+        "autor": "GONZAGA, Jorge Luiz",
+        "titulo": "Dominando o postgre SQL",
+        "assunto": "banco de dados",
+        "ano": 2007,
+        "biblioteca": {
+          "nome": "BIBLIOTECA PROF. AMÉLIA DE SOUZA LEAL - CMZL",
+          "instituicao": "IFAM",
+          "endereco": "Alameda Cosme Ferreira, 8045 - São José Operário, Manaus - AM, 69083-000",
+          "url": "http://qacademico.ifam.edu.br/qacademico/index.asp?t=6000"
+        },
+        "categoria": "LIVRO"
+      },
+      {
+        "autor": "OLIVEIRA, J.C. DE",
+        "titulo": "DESENVOLVIMENTO DE SOFTWARE DE BANCO DE DADOS",
+        "assunto": "banco de dados",
+        "ano": 1979,
+        "biblioteca": {
+          "nome": "BIBLIOTECA PAULO SARMENTO - CMC",
+          "instituicao": "IFAM",
+          "endereco": "Av. Sete de Setembro - Centro, Manaus - AM, 69020-125",
+          "url": "http://qacademico.ifam.edu.br/qacademico/index.asp?t=6000"
+        },
+        "categoria": "LIVRO"
+      },
+      {
+        "autor": "DATE, C.J.",
+        "titulo": "INTRODUÇÃO A SISTEMAS DE BANCOS DE DADOS",
+        "assunto": "banco de dados",
+        "ano": 1991,
+        "biblioteca": {
+          "nome": "BIBLIOTECA PAULO SARMENTO - CMC",
+          "instituicao": "IFAM",
+          "endereco": "Av. Sete de Setembro - Centro, Manaus - AM, 69020-125",
+          "url": "http://qacademico.ifam.edu.br/qacademico/index.asp?t=6000"
+        },
+        "categoria": "LIVRO"
+      },
+      {
+        "autor": "DATE, C.J.",
+        "titulo": "INTRODUÇÃO A SISTEMAS DE BANCOS DE DADOS",
+        "assunto": "banco de dados",
+        "ano": 1991,
+        "biblioteca": {
+          "nome": "BIBLIOTECA DE COARI",
+          "instituicao": "IFAM",
+          "endereco": "Estr. Coari Itapeua, s/n - Itamarati, Coari - AM, 69460-000",
+          "url": "http://qacademico.ifam.edu.br/qacademico/index.asp?t=6000"
+        },
+        "categoria": "LIVRO"
+      },
+      {
+        "autor": "DATE, C.J.",
+        "titulo": "INTRODUÇÃO A SISTEMAS DE BANCOS DE DADOS",
+        "assunto": "banco de dados",
+        "ano": 2003,
+        "biblioteca": {
+          "nome": "BIBLIOTECA PAULO SARMENTO - CMC",
+          "instituicao": "IFAM",
+          "endereco": "Av. Sete de Setembro - Centro, Manaus - AM, 69020-125",
+          "url": "http://qacademico.ifam.edu.br/qacademico/index.asp?t=6000"
+        },
+        "categoria": "LIVRO"
+      },
+      {"autor": "GREENBERG, Nancy",
+        "titulo": "INTRODUÇÃO AO ORACLE9i: SQL",
+        "assunto": "banco de dados",
+        "ano": 2001,
+        "biblioteca": {
+          "nome": "BIBLIOTECA PAULO SARMENTO - CMC",
+          "instituicao": "IFAM",
+          "endereco": "Av. Sete de Setembro - Centro, Manaus - AM, 69020-125",
+          "url": "http://qacademico.ifam.edu.br/qacademico/index.asp?t=6000"
+        },
+        "categoria": "LIVRO"
+      },
+      {
+        "autor": "REESE, GEORGE",
+        "titulo": "JDBC E JAVA:: PROGRAMACAO PARA BANCO DE DADOS",
+        "assunto": "banco de dados",
+        "ano": 2001,
+        "biblioteca": {
+          "nome": "BIBLIOTECA PAULO SARMENTO - CMC",
+          "instituicao": "IFAM",
+          "endereco": "Av. Sete de Setembro - Centro, Manaus - AM, 69020-125",
+          "url": "http://qacademico.ifam.edu.br/qacademico/index.asp?t=6000"
+        },
+        "categoria": "LIVRO"
+      },
+      {
+        "autor": "GIAMARUSTI, Ana Paula",
+        "titulo": "MICROSOFT ACCESS 2000: PASSO A PASSO",
+        "assunto": "banco de dados",
+        "ano": 2000,
+        "biblioteca": {
+          "nome": "BIBLIOTECA PAULO SARMENTO - CMC",
+          "instituicao": "IFAM",
+          "endereco": "Av. Sete de Setembro - Centro, Manaus - AM, 69020-125",
+          "url": "http://qacademico.ifam.edu.br/qacademico/index.asp?t=6000"
+        },
+        "categoria": "LIVRO"
+      },
+      {
+        "autor": "MICROSOFT, - U.S.A: MICROSOFT CORP.",
+        "titulo": "CRIANDO APLICATIVOS: MICROSOFT ACCESS;SISTEMA DE GERENCIAMENTO DE BANCO DE DADOS RELACIONAL PARA WINDOWS",
+        "assunto": "banco de dados",
+        "ano": 1994,
+        "biblioteca": {
+          "nome": "BIBLIOTECA PAULO SARMENTO - CMC",
+          "instituicao": "IFAM",
+          "endereco": "Av. Sete de Setembro - Centro, Manaus - AM, 69020-125",
+          "url": "http://qacademico.ifam.edu.br/qacademico/index.asp?t=6000"
+        },
+        "categoria": "LIVRO"
+      },
+      {
+        "autor": "MANZANO, José Augusto Navarro Garcia",
+        "titulo": "MYSQL 5.0 INTERATIVO: GUIA BÁSICO DE ORIENTAÇÃO E DESENVOLVIMENTO",
+        "assunto": "banco de dados",
+        "ano": 2007,
+        "biblioteca": {
+          "nome": "BIBLIOTECA DE COARI",
+          "instituicao": "IFAM",
+          "endereco": "Estr. Coari Itapeua, s/n - Itamarati, Coari - AM, 69460-000",
+          "url": "http://qacademico.ifam.edu.br/qacademico/index.asp?t=6000"
+        },
+        "categoria": "LIVRO"
+      },
+      {
+        "autor": "JEUNOT, DOMINIQUE",
+        "titulo": "ENTERPRISE DBA PARTE 1 B",
+        "assunto": "banco de dados",
+        "ano": 1997,
+        "biblioteca": {
+          "nome": "BIBLIOTECA PAULO SARMENTO - CMC",
+          "instituicao": "IFAM",
+          "endereco": "Av. Sete de Setembro - Centro, Manaus - AM, 69020-125",
+          "url": "http://qacademico.ifam.edu.br/qacademico/index.asp?t=6000"
+        },
+        "categoria": "LIVRO"
+      },
+      {
+        "autor": "KHAN, SHARAAZ",
+        "titulo": "ENTERPRISE DBA PARTE 3",
+        "assunto": "banco de dados",
+        "ano": 2000,
+        "biblioteca": {
+          "nome": "BIBLIOTECA PAULO SARMENTO - CMC",
+          "instituicao": "IFAM",
+          "endereco": "Av. Sete de Setembro - Centro, Manaus - AM, 69020-125",
+          "url": "http://qacademico.ifam.edu.br/qacademico/index.asp?t=6000"
+        },
+        "categoria": "LIVRO"
+      },
+      {
+        "autor": "SOARES, WALACE",
+        "titulo": "PHP 5: CONCEITOS, PROGRAMAÇÃO E INTEGRAÇÃO COM BANCOS DE DADOS",
+        "assunto": "banco de dados",
+        "ano": 2004,
+        "biblioteca": {
+          "nome": "BIBLIOTECA PAULO SARMENTO - CMC",
+          "instituicao": "IFAM",
+          "endereco": "Av. Sete de Setembro - Centro, Manaus - AM, 69020-125",
+          "url": "http://qacademico.ifam.edu.br/qacademico/index.asp?t=6000"
+        },
+        "categoria": "LIVRO"
+      },
+      {
+        "autor": "SOARES, WALACE",
+        "titulo": "PHP 5: CONCEITOS, PROGRAMAÇÃO E INTEGRAÇÃO COM BANCOS DE DADOS",
+        "assunto": "banco de dados",
+        "ano": 2004,
+        "biblioteca": {
+          "nome": "BIBLIOTECA PROF. AMÉLIA DE SOUZA LEAL - CMZL",
+          "instituicao": "IFAM",
+          "endereco": "Alameda Cosme Ferreira, 8045 - São José Operário, Manaus - AM, 69083-000",
+          "url": "http://qacademico.ifam.edu.br/qacademico/index.asp?t=6000"
+        },
+        "categoria": "LIVRO"
+      },
+      {
+        "autor": "MANZANO, José Augusto Navarro Garcia",
+        "titulo": "PostgreSQL 8.3.0 interativo: guia de orientação e desenvolvimento para windows",
+        "assunto": "banco de dados",
+        "ano": 2008,
+        "biblioteca": {
+          "nome": "BIBLIOTECA PROF. AMÉLIA DE SOUZA LEAL - CMZL",
+          "instituicao": "IFAM",
+          "endereco": "Alameda Cosme Ferreira, 8045 - São José Operário, Manaus - AM, 69083-000",
+          "url": "http://qacademico.ifam.edu.br/qacademico/index.asp?t=6000"
+        },
+        "categoria": "LIVRO"
+      },
+      {
+        "autor": "PEREIRA NETO, ÁLVARO",
+        "titulo": "POSTGRESQL: TÉCNICAS AVANÇADAS: VERSÕES OPEN SOURCE 7.X R 8.X: SOLUÇÕES PARA COMPUTADORES E ADMINISTRADORES DE BANCO DE DADOS",
+        "assunto": "banco de dados",
+        "ano": 2003,
+        "biblioteca": {
+          "nome": "BIBLIOTECA PAULO SARMENTO - CMC",
+          "instituicao": "IFAM",
+          "endereco": "Av. Sete de Setembro - Centro, Manaus - AM, 69020-125",
+          "url": "http://qacademico.ifam.edu.br/qacademico/index.asp?t=6000"
+        },
+        "categoria": "LIVRO"
+      },
+      {
+        "autor": "COOMBS, TED",
+        "titulo": "PROGRAMAÇÃO EM DBASE 5 FOR WINDOWS PARA LEIGOS",
+        "assunto": "banco de dados",
+        "ano": 1995,
+        "biblioteca": {
+          "nome": "BIBLIOTECA PAULO SARMENTO - CMC",
+          "instituicao": "IFAM",
+          "endereco": "Av. Sete de Setembro - Centro, Manaus - AM, 69020-125",
+          "url": "http://qacademico.ifam.edu.br/qacademico/index.asp?t=6000"
+        },
+        "categoria": "LIVRO"
+      },
+      {
+        "autor": "JEPSON, BRIAN",
+        "titulo": "PROGRAMANDO APLICATIVOS DE BANCO DE DADOS EM LINUX",
+        "assunto": "banco de dados",
+        "ano": 2002,
+        "biblioteca": {
+          "nome": "BIBLIOTECA PAULO SARMENTO - CMC",
+          "instituicao": "IFAM",
+          "endereco": "Av. Sete de Setembro - Centro, Manaus - AM, 69020-125",
+          "url": "http://qacademico.ifam.edu.br/qacademico/index.asp?t=6000"
+        },
+        "categoria": "LIVRO"
+      },
+      {
+        "autor": "HEUSER, Carlos Alberto",
+        "titulo": "Projeto de banco de dados",
+        "assunto": "banco de dados",
+        "ano": 2009,
+        "biblioteca": {
+          "nome": "BIBLIOTECA PAULO SARMENTO - CMC",
+          "instituicao": "IFAM",
+          "endereco": "Av. Sete de Setembro - Centro, Manaus - AM, 69020-125",
+          "url": "http://qacademico.ifam.edu.br/qacademico/index.asp?t=6000"
+        },
+        "categoria": "LIVRO"
+      },
+      {
+        "autor": "Felipe Nery R. Machado",
+        "titulo": "PROJETO DE BANCO DE DADOS: UMA VISÃO PRÁTICA: UMA VISÃO PRÁTICA",
+        "assunto": "banco de dados",
+        "ano": 1996,
+        "biblioteca": {
+          "nome": "BIBLIOTECA PAULO SARMENTO - CMC",
+          "instituicao": "IFAM",
+          "endereco": "Av. Sete de Setembro - Centro, Manaus - AM, 69020-125",
+          "url": "http://qacademico.ifam.edu.br/qacademico/index.asp?t=6000"
+        },
+        "categoria": "LIVRO"
+      },
+      {
+        "autor": "MANNINO, MICHAEL V.",
+        "titulo": "PROJETO, DESENVOLVIMENTO DE APLICAÇÕES E ADMINISTRAÇÃO DE BANCO DE DADOS",
+        "assunto": "banco de dados",
+        "ano": 2008,
+        "biblioteca": {
+          "nome": "BIBLIOTECA PAULO SARMENTO - CMC",
+          "instituicao": "IFAM",
+          "endereco": "Av. Sete de Setembro - Centro, Manaus - AM, 69020-125",
+          "url": "http://qacademico.ifam.edu.br/qacademico/index.asp?t=6000"
+        },
+        "categoria": "LIVRO"
+      },
+      {
+        "autor": "BAEZA-YATES, Ricardo; RIBEIRO-NETO, Berthier",
+        "titulo": "Recuperação de informação: conceitos e tecnologia das máquinas de busca",
+        "assunto": "banco de dados",
+        "ano": 2013,
+        "biblioteca": {
+          "nome": "BIBLIOTECA PAULO SARMENTO - CMC",
+          "instituicao": "IFAM",
+          "endereco": "Av. Sete de Setembro - Centro, Manaus - AM, 69020-125",
+          "url": "http://qacademico.ifam.edu.br/qacademico/index.asp?t=6000"
+        },
+        "categoria": "LIVRO"
+      },
+      {
+        "autor": "SILBERSCHATZ, ABRAHAM",
+        "titulo": "SISTEMA DE BANCO DE DADOS",
+        "assunto": "banco de dados",
+        "ano": 1999,
+        "biblioteca": {
+          "nome": "BIBLIOTECA PAULO SARMENTO - CMC",
+          "instituicao": "IFAM",
+          "endereco": "Av. Sete de Setembro - Centro, Manaus - AM, 69020-125",
+          "url": "http://qacademico.ifam.edu.br/qacademico/index.asp?t=6000"
+        },
+        "categoria": "LIVRO"
+      },
+      {
+        "autor": "SILBERSCHATZ, ABRAHAM",
+        "titulo": "SISTEMA DE BANCO DE DADOS",
+        "assunto": "banco de dados",
+        "ano": 1999,
+        "biblioteca": {
+          "nome": "BIBLIOTECA DE COARI",
+          "instituicao": "IFAM",
+          "endereco": "Estr. Coari Itapeua, s/n - Itamarati, Coari - AM, 69460-000",
+          "url": "http://qacademico.ifam.edu.br/qacademico/index.asp?t=6000"
+        },
+        "categoria": "LIVRO"
+      },
+      {
+        "autor": "SILBERSCHATZ, ABRAHAM",
+        "titulo": "SISTEMA DE BANCO DE DADOS",
+        "assunto": "banco de dados",
+        "ano": 1999,
+        "biblioteca": {
+          "nome": "BIBLIOTECA PROF. AMÉLIA DE SOUZA LEAL - CMZL",
+          "instituicao": "IFAM",
+          "endereco": "Alameda Cosme Ferreira, 8045 - São José Operário, Manaus - AM, 69083-000",
+          "url": "http://qacademico.ifam.edu.br/qacademico/index.asp?t=6000"
+        },
+        "categoria": "LIVRO"
+      },
+      {
+        "autor": "Fernandes, Alexandre",
+        "titulo": "ACCESS 2000",
+        "assunto": "banco de dados",
+        "ano": 2000,
+        "biblioteca": {
+          "nome": "BIBLIOTECA PAULO SARMENTO - CMC",
+          "instituicao": "IFAM",
+          "endereco": "Av. Sete de Setembro - Centro, Manaus - AM, 69020-125",
+          "url": "http://qacademico.ifam.edu.br/qacademico/index.asp?t=6000"
+        },
+        "categoria": "LIVRO"
+      },
+      {
+        "autor": "RONCONI, LUCIANA MOREIRA",
+        "titulo": "ACCESS 2000",
+        "assunto": "banco de dados",
+        "ano": 2007,
+        "biblioteca": {
+          "nome": "BIBLIOTECA PAULO SARMENTO - CMC",
+          "instituicao": "IFAM",
+          "endereco": "Av. Sete de Setembro - Centro, Manaus - AM, 69020-125",
+          "url": "http://qacademico.ifam.edu.br/qacademico/index.asp?t=6000"
+        },
+        "categoria": "LIVRO"
+      },
+      {
+        "autor": "BERKELEY",
+        "titulo": "TREINAMENTO RÁPIDO ACCESS 2000",
+        "assunto": "banco de dados",
+        "ano": 1999,
+        "biblioteca": {
+          "nome": "BIBLIOTECA PAULO SARMENTO - CMC",
+          "instituicao": "IFAM",
+          "endereco": "Av. Sete de Setembro - Centro, Manaus - AM, 69020-125",
+          "url": "http://qacademico.ifam.edu.br/qacademico/index.asp?t=6000"
+        },
+        "categoria": "LIVRO"
+      },
+      {
+        "autor": "DAMIAN, Daniel Ferreira",
+        "titulo": "Banco de itens de múltipla escolha para disciplinas introdutórias de programação",
+        "assunto": "banco de dados",
+        "ano": 2013,
+        "biblioteca": {
+          "nome": "BIBLIOTECA PAULO SARMENTO - CMC",
+          "instituicao": "IFAM",
+          "endereco": "Av. Sete de Setembro - Centro, Manaus - AM, 69020-125",
+          "url": "http://qacademico.ifam.edu.br/qacademico/index.asp?t=6000"
+        },
+        "categoria": "PRODUCAO_ACADEMICA"
+      },
+      {
+        "autor": "CAVALCANTE, Antonio Bruno Senra",
+        "titulo": "Bdgames: ferramenta via web para avaliar nível de conhecimento sobre modelo entidade-relacionamento baseado na técnica de gamificação",
+        "assunto": "banco de dados",
+        "ano": 2015,
+        "biblioteca": {
+          "nome": "BIBLIOTECA PAULO SARMENTO - CMC",
+          "instituicao": "IFAM",
+          "endereco": "Av. Sete de Setembro - Centro, Manaus - AM, 69020-125",
+          "url": "http://qacademico.ifam.edu.br/qacademico/index.asp?t=6000"
+        },
+        "categoria": "PRODUCAO_ACADEMICA"
+      },
+      {
+        "autor": "ASSIS, GERMANO RODRIGO PAIVA DE",
+        "titulo": "DESENVOLVIMENTO DE SISTEMA DE BANCO DE DADOS PARA O HERBÁRIO DO CEFET-AM",
+        "assunto": "banco de dados",
+        "ano": 2008,
+        "biblioteca": {
+          "nome": "BIBLIOTECA PAULO SARMENTO - CMC",
+          "instituicao": "IFAM",
+          "endereco": "Av. Sete de Setembro - Centro, Manaus - AM, 69020-125",
+          "url": "http://qacademico.ifam.edu.br/qacademico/index.asp?t=6000"
+        },
+        "categoria": "PRODUCAO_ACADEMICA"
+      },
+      {
+        "autor": "MENDONÇA, Allan Magnum Melo de",
+        "titulo": "Ferramenta para criação de modelos conceituais de bancos de dados",
+        "assunto": "banco de dados",
+        "ano": 2015,
+        "biblioteca": {
+          "nome": "BIBLIOTECA PAULO SARMENTO - CMC",
+          "instituicao": "IFAM",
+          "endereco": "Av. Sete de Setembro - Centro, Manaus - AM, 69020-125",
+          "url": "http://qacademico.ifam.edu.br/qacademico/index.asp?t=6000"
+        },
+        "categoria": "PRODUCAO_ACADEMICA"
+      },
+      {
+        "autor": "ARAÚJO, Erick Xavier de",
+        "titulo": "Ferramenta para depuração de procedimentos aramazenados no MySQL e MariaDB",
+        "assunto": "banco de dados",
+        "ano": 2018,
+        "biblioteca": {
+          "nome": "BIBLIOTECA PAULO SARMENTO - CMC",
+          "instituicao": "IFAM",
+          "endereco": "Av. Sete de Setembro - Centro, Manaus - AM, 69020-125",
+          "url": "http://qacademico.ifam.edu.br/qacademico/index.asp?t=6000"
+        },
+        "categoria": "PRODUCAO_ACADEMICA"
+      },
+      {
+        "autor": "BRAGA, MARCELLE DE SOUZA",
+        "titulo": "SISTEMA GERADOR DE CONSULTAS E RELATÓRIOS GENÉRICO USANDO TECNOLOGIA LIVRE",
+        "assunto": "banco de dados",
+        "ano": 2006,
+        "biblioteca": {
+          "nome": "BIBLIOTECA PAULO SARMENTO - CMC",
+          "instituicao": "IFAM",
+          "endereco": "Av. Sete de Setembro - Centro, Manaus - AM, 69020-125",
+          "url": "http://qacademico.ifam.edu.br/qacademico/index.asp?t=6000"
+        },
+        "categoria": "PRODUCAO_ACADEMICA"
+      },
+      {
+        "autor": "BOTELHO, FLÁVIA BRITO REIS",
+        "titulo": "UMA BASE DE DADOS PARA A GESTÃO DE RECURSOS FLORESTAIS NO AMAZONAS",
+        "assunto": "banco de dados",
+        "ano": 2006,
+        "biblioteca": {
+          "nome": "BIBLIOTECA PAULO SARMENTO - CMC",
+          "instituicao": "IFAM",
+          "endereco": "Av. Sete de Setembro - Centro, Manaus - AM, 69020-125",
+          "url": "http://qacademico.ifam.edu.br/qacademico/index.asp?t=6000"
+        },
+        "categoria": "PRODUCAO_ACADEMICA"
+      },
+      {
+        "autor": "BILIO, GIOVANIA LIRA",
+        "titulo": "SISTEMAS DE VENDAS DE PRODUTOS VIRTUAL OM-LINE UTILIZANDO TECNOLOGIAS LIVRES",
+        "assunto": "banco de dados",
+        "ano": 2006,
+        "biblioteca": {
+          "nome": "BIBLIOTECA PAULO SARMENTO - CMC",
+          "instituicao": "IFAM",
+          "endereco": "Av. Sete de Setembro - Centro, Manaus - AM, 69020-125",
+          "url": "http://qacademico.ifam.edu.br/qacademico/index.asp?t=6000"
+        },
+        "categoria": "PRODUCAO_ACADEMICA"
+      },
+      {
+        "autor": "GOMES, SIONISE ROCHA",
+        "titulo": "UMA PROPOSTA DE METADADO PARA OBJETOS DE APRENDIZAGEM FUNCIONAIS",
+        "assunto": "banco de dados",
+        "ano": 2007,
+        "biblioteca": {
+          "nome": "BIBLIOTECA PAULO SARMENTO - CMC",
+          "instituicao": "IFAM",
+          "endereco": "Av. Sete de Setembro - Centro, Manaus - AM, 69020-125",
+          "url": "http://qacademico.ifam.edu.br/qacademico/index.asp?t=6000"
+        },
+        "categoria": "PRODUCAO_ACADEMICA"
+      },
+      {
+        "autor": "OLIVEIRA, SILVIO CÉSAR DE",
+        "titulo": "UMA FERRAMENTA PARA TRANSFORMAR MAPAS CONCEITUAIS EM OBJETOS DE APRENDIZAGEM FUNCIONAL",
+        "assunto": "banco de dados",
+        "ano": 2012,
+        "biblioteca": {
+          "nome": "BIBLIOTECA PAULO SARMENTO - CMC",
+          "instituicao": "IFAM",
+          "endereco": "Av. Sete de Setembro - Centro, Manaus - AM, 69020-125",
+          "url": "http://qacademico.ifam.edu.br/qacademico/index.asp?t=6000"
+        },
+        "categoria": "PRODUCAO_ACADEMICA"
+      },
+      {
+        "autor": "RODRIGUES, ELISANGELA DA SILVA",
+        "titulo": "SOFTWARE DE MONITORAMENTO DE RÁDIOS DIGITAIS-APLICAÇÕES E USOS NA AVALIAÇÃO DE ENLANCES RÁDIO DIGITAL",
+        "assunto": "banco de dados",
+        "ano": 2006,
+        "biblioteca": {
+          "nome": "BIBLIOTECA PAULO SARMENTO - CMC",
+          "instituicao": "IFAM",
+          "endereco": "Av. Sete de Setembro - Centro, Manaus - AM, 69020-125",
+          "url": "http://qacademico.ifam.edu.br/qacademico/index.asp?t=6000"
+        },
+        "categoria": "PRODUCAO_ACADEMICA"
+      },
+      {
+        "autor": "MICROSOFT",
+        "titulo": "ACCESS SISTEMA DE GERENCIAMENTO DE BANCO DE DADOS RELACIONAL PARA WINDOWS VERSÃO 2.0",
+        "assunto": "banco de dados",
+        "ano": 1994,
+        "biblioteca": {
+          "nome": "BIBLIOTECA PAULO SARMENTO - CMC",
+          "instituicao": "IFAM",
+          "endereco": "Av. Sete de Setembro - Centro, Manaus - AM, 69020-125",
+          "url": "http://qacademico.ifam.edu.br/qacademico/index.asp?t=6000"
+        },
+        "categoria": "LIVRO"
+      },
+      {
+        "autor": "BAEZA-YATES, Ricardo; RIBEIRO-NETO, Berthier",
+        "titulo": "Recuperação de informação",
+        "assunto": "banco de dados",
+        "ano": 2013,
+        "biblioteca": {
+          "nome": "BIBLIOTECA PAULO SARMENTO - CMC",
+          "instituicao": "IFAM",
+          "endereco": "Av. Sete de Setembro - Centro, Manaus - AM, 69020-125",
+          "url": "http://qacademico.ifam.edu.br/qacademico/index.asp?t=6000"
+        },
+        "categoria": "LIVRO"
+      },          
+      {
+        "autor": "DEMARCO, TOM",
+        "titulo": "ANÁLISE ESTRUTURADA E ESPECIFICAÇÃO DE SISTEMA",
+        "assunto": "análise de sistemas",
+        "ano": 1989,
+        "biblioteca": {
+          "nome": "BIBLIOTECA PAULO SARMENTO - CMC",
+          "instituicao": "IFAM",
+          "endereco": "Av. Sete de Setembro - Centro, Manaus - AM, 69020-125",
+          "url": "http://qacademico.ifam.edu.br/qacademico/index.asp?t=6000"
+        },
+        "categoria": "LIVRO"
+      },
+      {
+        "autor": "YOURDON, E.",
+        "titulo": "ANALISE ESTRUTURADA MODERNA",
+        "assunto": "análise de sistemas",
+        "ano": 1992,
+        "biblioteca": {
+          "nome": "BIBLIOTECA PAULO SARMENTO - CMC",
+          "instituicao": "IFAM",
+          "endereco": "Av. Sete de Setembro - Centro, Manaus - AM, 69020-125",
+          "url": "http://qacademico.ifam.edu.br/qacademico/index.asp?t=6000"
+        },
+        "categoria": "LIVRO"
+      },
+      {
+        "autor": "ROBERTS, Michael J.",
+        "titulo": "Fundamentos em sinais e sistemas",
+        "assunto": "análise de sistemas",
+        "ano": 2009,
+        "biblioteca": {
+          "nome": "BIBLIOTECA PROF FREDERICO WILHELM KEMPTER FILHO - CMDI",
+          "instituicao": "IFAM",
+          "endereco": "Av. Gov. Danilo de Matos Areosa, 1731-1975 - Distrito Industrial, Manaus - AM, 69075-351",
+          "url": "http://qacademico.ifam.edu.br/qacademico/index.asp?t=6000"
+        },
+        "categoria": "LIVRO"
+      },
+      {
+        "autor": "COAD, P.",
+        "titulo": "ANÁLISE BASEADA EM OBJETOS",
+        "assunto": "análise de sistemas",
+        "ano": 1996,
+        "biblioteca": {
+          "nome": "BIBLIOTECA PAULO SARMENTO - CMC",
+          "instituicao": "IFAM",
+          "endereco": "Av. Sete de Setembro - Centro, Manaus - AM, 69020-125",
+          "url": "http://qacademico.ifam.edu.br/qacademico/index.asp?t=6000"
+        },
+        "categoria": "LIVRO"
+      },
+      {
+        "autor": "J. Glenn",
+        "titulo": "Ciência da computação: uma visão abrangente",
+        "assunto": "análise de sistemas",
+        "ano": 2013,
+        "biblioteca": {
+          "nome": "BIBLIOTECA PAULO SARMENTO - CMC",
+          "instituicao": "IFAM",
+          "endereco": "Av. Sete de Setembro - Centro, Manaus - AM, 69020-125",
+          "url": "http://qacademico.ifam.edu.br/qacademico/index.asp?t=6000"
+        },
+        "categoria": "LIVRO"
+      },
+      {
+        "autor": "COUTO, Ana Brasil",
+        "titulo": "CMMI: integração dos modelos de capacitação e maturidade de sistemas",
+        "assunto": "análise de sistemas",
+        "ano": 2007,
+        "biblioteca": {
+          "nome": "BIBLIOTECA PAULO SARMENTO - CMC",
+          "instituicao": "IFAM",
+          "endereco": "Av. Sete de Setembro - Centro, Manaus - AM, 69020-125",
+          "url": "http://qacademico.ifam.edu.br/qacademico/index.asp?t=6000"
+        },
+        "categoria": "LIVRO"
+      },
+      {
+        "autor": "ROGER S. PRESSMAN",
+        "titulo": "ENGENHARIA DE SOFTWARE",
+        "assunto": "análise de sistemas",
+        "ano": 1995,
+        "biblioteca": {
+          "nome": "BIBLIOTECA PAULO SARMENTO - CMC",
+          "instituicao": "IFAM",
+          "endereco": "Av. Sete de Setembro - Centro, Manaus - AM, 69020-125",
+          "url": "http://qacademico.ifam.edu.br/qacademico/index.asp?t=6000"
+        },
+        "categoria": "LIVRO"
+      },
+      {
+        "autor": "SOMMERVILLE, IAN",
+        "titulo": "ENGENHARIA DE SOFTWARE",
+        "assunto": "análise de sistemas",
+        "ano": 2003,
+        "biblioteca": {
+          "nome": "BIBLIOTECA PAULO SARMENTO - CMC",
+          "instituicao": "IFAM",
+          "endereco": "Av. Sete de Setembro - Centro, Manaus - AM, 69020-125",
+          "url": "http://qacademico.ifam.edu.br/qacademico/index.asp?t=6000"
+        },
+        "categoria": "LIVRO"
+      },
+      {
+        "autor": "ENGHOLM JÚNIOR, HÉLIO",
+        "titulo": "ENGENHARIA DE SOFTWARE NA PRÁTICA",
+        "assunto": "análise de sistemas",
+        "ano": 2010,
+        "biblioteca": {
+          "nome": "BIBLIOTECA PAULO SARMENTO - CMC",
+          "instituicao": "IFAM",
+          "endereco": "Av. Sete de Setembro - Centro, Manaus - AM, 69020-125",
+          "url": "http://qacademico.ifam.edu.br/qacademico/index.asp?t=6000"
+        },
+        "categoria": "LIVRO"
+      },
+      {
+        "autor": "FOROUZAN, BEHROUZ A.; MOSHARRAF, Firouz",
+        "titulo": "Fundamentos da ciência da computação",
+        "assunto": "análise de sistemas",
+        "ano": 2017,
+        "biblioteca": {
+          "nome": "BIBLIOTECA PAULO SARMENTO - CMC",
+          "instituicao": "IFAM",
+          "endereco": "Av. Sete de Setembro - Centro, Manaus - AM, 69020-125",
+          "url": "http://qacademico.ifam.edu.br/qacademico/index.asp?t=6000"
+        },
+        "categoria": "LIVRO"
+      },
+      {
+        "autor": "ROGER S. PRESSMAN",
+        "titulo": "ENGENHARIA DE SOFTWARE",
+        "assunto": "análise de sistemas",
+        "ano": 1995,
+        "biblioteca": {
+          "nome": "BIBLIOTECA DE COARI",
+          "instituicao": "IFAM",
+          "endereco": "Estr. Coari Itapeua, s/n - Itamarati, Coari - AM, 69460-000",
+          "url": "http://qacademico.ifam.edu.br/qacademico/index.asp?t=6000"
+        },
+        "categoria": "LIVRO"
+      },
+      {
+        "autor": "ROGER S. PRESSMAN",
+        "titulo": "ENGENHARIA DE SOFTWARE",
+        "assunto": "análise de sistemas",
+        "ano": 1995,
+        "biblioteca": {
+          "nome": "BIBLIOTECA PROF FREDERICO WILHELM KEMPTER FILHO - CMDI",
+          "instituicao": "IFAM",
+          "endereco": "Av. Gov. Danilo de Matos Areosa, 1731-1975 - Distrito Industrial, Manaus - AM, 69075-351",
+          "url": "http://qacademico.ifam.edu.br/qacademico/index.asp?t=6000"
+        },
+        "categoria": "LIVRO"
+      },
+      {
+        "autor": "SOMMERVILLE, IAN",
+        "titulo": "ENGENHARIA DE SOFTWARE",
+        "assunto": "análise de sistemas",
+        "ano": 2003,
+        "biblioteca": {
+          "nome": "BIBLIOTECA DE COARI",
+          "instituicao": "IFAM",
+          "endereco": "Estr. Coari Itapeua, s/n - Itamarati, Coari - AM, 69460-000",
+          "url": "http://qacademico.ifam.edu.br/qacademico/index.asp?t=6000"
+        },
+        "categoria": "LIVRO"
+      },
+      {
+        "autor": "KRUCHTEN, PHILIPPE",
+        "titulo": "INTRODUÇÃO AO RUP RATIONAL UNIFIED PROCESS",
+        "assunto": "análise de sistemas",
+        "ano": 2003,
+        "biblioteca": {
+          "nome": "BIBLIOTECA PAULO SARMENTO - CMC",
+          "instituicao": "IFAM",
+          "endereco": "Av. Sete de Setembro - Centro, Manaus - AM, 69020-125",
+          "url": "http://qacademico.ifam.edu.br/qacademico/index.asp?t=6000"
+        },
+        "categoria": "LIVRO"
+      },
+      {
+        "autor": "RUMBAUGH, J.",
+        "titulo": "MODELAGEM E PROJETOS BASEADOS EM OBJETOS",
+        "assunto": "análise de sistemas",
+        "ano": 1994,
+        "biblioteca": {
+          "nome": "BIBLIOTECA PAULO SARMENTO - CMC",
+          "instituicao": "IFAM",
+          "endereco": "Av. Sete de Setembro - Centro, Manaus - AM, 69020-125",
+          "url": "http://qacademico.ifam.edu.br/qacademico/index.asp?t=6000"
+        },
+        "categoria": "LIVRO"
+      },
+      {
+        "autor": "ROCHA, ANA REGINA C.",
+        "titulo": "QUALIDADE DE SOFTWARE: TEORIA E PRATICA",
+        "assunto": "análise de sistemas",
+        "ano": 2001,
+        "biblioteca": {
+          "nome": "BIBLIOTECA PAULO SARMENTO - CMC",
+          "instituicao": "IFAM",
+          "endereco": "Av. Sete de Setembro - Centro, Manaus - AM, 69020-125",
+          "url": "http://qacademico.ifam.edu.br/qacademico/index.asp?t=6000"
+        },
+        "categoria": "LIVRO"
+      },
+      {
+        "autor": "LUCENA, Gratuliano F.T.",
+        "titulo": "Sistemática de qualidade total: TQM sobre a RUP para melhoria contínua de processos em desenvolvimento de software",
+        "assunto": "análise de sistemas",
+        "ano": 2007,
+        "biblioteca": {
+          "nome": "BIBLIOTECA PROF FREDERICO WILHELM KEMPTER FILHO - CMDI",
+          "instituicao": "IFAM",
+          "endereco": "Av. Gov. Danilo de Matos Areosa, 1731-1975 - Distrito Industrial, Manaus - AM, 69075-351",
+          "url": "http://qacademico.ifam.edu.br/qacademico/index.asp?t=6000"
+        },
+        "categoria": "LIVRO"
+      },
+      {
+        "autor": "LAPLANTE, Phillip A.",
+        "titulo": "Software Engineering for Image Processing Systems",
+        "assunto": "análise de sistemas",
+        "ano": 2004,
+        "biblioteca": {
+          "nome": "BIBLIOTECA PROF FREDERICO WILHELM KEMPTER FILHO - CMDI",
+          "instituicao": "IFAM",
+          "endereco": "Av. Gov. Danilo de Matos Areosa, 1731-1975 - Distrito Industrial, Manaus - AM, 69075-351",
+          "url": "http://qacademico.ifam.edu.br/qacademico/index.asp?t=6000"
+        },
+        "categoria": "LIVRO"
+      },
+      {
+        "autor": "SÉRGIO AMADEU DA",
+        "titulo": "SOFTWARE LIVRE E INCLUSÃO DIGITAL",
+        "assunto": "análise de sistemas",
+        "ano": 2003,
+        "biblioteca": {
+          "nome": "BIBLIOTECA PAULO SARMENTO - CMC",
+          "instituicao": "IFAM",
+          "endereco": "Av. Sete de Setembro - Centro, Manaus - AM, 69020-125",
+          "url": "http://qacademico.ifam.edu.br/qacademico/index.asp?t=6000"
+        },
+        "categoria": "LIVRO"
+      },
+      {
+        "autor": "PENDER, TOM",
+        "titulo": "UML A BIBLIA",
+        "assunto": "análise de sistemas",
+        "ano": 2003,
+        "biblioteca": {
+          "nome": "BIBLIOTECA PAULO SARMENTO - CMC",
+          "instituicao": "IFAM",
+          "endereco": "Av. Sete de Setembro - Centro, Manaus - AM, 69020-125",
+          "url": "http://qacademico.ifam.edu.br/qacademico/index.asp?t=6000"
+        },
+        "categoria": "LIVRO"
+      },
+      {
+        "autor": "Andreza Bastos; PONTES, Danielle Pompeu Noronha Pontes; GORAYEB, Diana Maria da Camara",
+        "titulo": "Análise e projeto de sistemas I: Tecnologia em análise e desenvolvimento de sistemas",
+        "assunto": "análise de sistemas",
+        "ano": 2009,
+        "biblioteca": {
+          "nome": "BIBLIOTECA PAULO SARMENTO - CMC",
+          "instituicao": "IFAM",
+          "endereco": "Av. Sete de Setembro - Centro, Manaus - AM, 69020-125",
+          "url": "http://qacademico.ifam.edu.br/qacademico/index.asp?t=6000"
+        },
+        "categoria": "LIVRO"
+      },
+      {
+        "autor": "MELO, ANA CRISTINA",
+        "titulo": "DESENVOLVENDO APLICACOES COM UML:: DO CONCEITUAL À IMPLEMENTAÇÃO",
+        "assunto": "análise de sistemas",
+        "ano": 2002,
+        "biblioteca": {
+          "nome": "BIBLIOTECA PAULO SARMENTO - CMC",
+          "instituicao": "IFAM",
+          "endereco": "Av. Sete de Setembro - Centro, Manaus - AM, 69020-125",
+          "url": "http://qacademico.ifam.edu.br/qacademico/index.asp?t=6000"
+        },
+        "categoria": "LIVRO"
+      },
+      {
+        "autor": "BOOCH, GRADY",
+        "titulo": "THE UNIFIED MODELING LANGUAGE USER GUIDE",
+        "assunto": "análise de sistemas",
+        "ano": 1999,
+        "biblioteca": {
+          "nome": "BIBLIOTECA PAULO SARMENTO - CMC",
+          "instituicao": "IFAM",
+          "endereco": "Av. Sete de Setembro - Centro, Manaus - AM, 69020-125",
+          "url": "http://qacademico.ifam.edu.br/qacademico/index.asp?t=6000"
+        },
+        "categoria": "LIVRO"
+      },
+      {
+        "autor": "BOOCH, GRADY",
+        "titulo": "UML GUIA DO USUÁRIO",
+        "assunto": "análise de sistemas",
+        "ano": 2000,
+        "biblioteca": {
+          "nome": "BIBLIOTECA PAULO SARMENTO - CMC",
+          "instituicao": "IFAM",
+          "endereco": "Av. Sete de Setembro - Centro, Manaus - AM, 69020-125",
+          "url": "http://qacademico.ifam.edu.br/qacademico/index.asp?t=6000"
+        },
+        "categoria": "LIVRO"
+      },
+      {
+        "autor": "RICHARD C.",
+        "titulo": "UML E C++: GUIA PRÁTICO DE DESENVOLVIMENTO ORIENTADO A OBJETO",
+        "assunto": "análise de sistemas",
+        "ano": 2001,
+        "biblioteca": {
+          "nome": "BIBLIOTECA PAULO SARMENTO - CMC",
+          "instituicao": "IFAM",
+          "endereco": "Av. Sete de Setembro - Centro, Manaus - AM, 69020-125",
+          "url": "http://qacademico.ifam.edu.br/qacademico/index.asp?t=6000"
+        },
+        "categoria": "LIVRO"
+      },
+      {
+        "autor": "FOWLER, MARTIN",
+        "titulo": "UML ESSENCIAL: UM BREVE GUIA A LINGUAGEM-PADRÃO DE MODELAGEM DE OBJETOS: UM BREVE GUIA PARA A LINGUAGEM-PADRÃO DE MODELAGEM DE OBJETOS",
+        "assunto": "análise de sistemas",
+        "ano": 2005,
+        "biblioteca": {
+          "nome": "BIBLIOTECA PAULO SARMENTO - CMC",
+          "instituicao": "IFAM",
+          "endereco": "Av. Sete de Setembro - Centro, Manaus - AM, 69020-125",
+          "url": "http://qacademico.ifam.edu.br/qacademico/index.asp?t=6000"
+        },
+        "categoria": "LIVRO"
+      },
+      {
+        "autor": "LARMAN, CRAIG",
+        "titulo": "UTILIZANDO UML E PADRÕES: UMA INTRODUÇÃO À ANÁLISE E AO PROJETO ORIENTADOS A OBJETOS",
+        "assunto": "análise de sistemas",
+        "ano": 2000,
+        "biblioteca": {
+          "nome": "BIBLIOTECA PAULO SARMENTO - CMC",
+          "instituicao": "IFAM",
+          "endereco": "Av. Sete de Setembro - Centro, Manaus - AM, 69020-125",
+          "url": "http://qacademico.ifam.edu.br/qacademico/index.asp?t=6000"
+        },
+        "categoria": "LIVRO"
+      },
+      {
+        "autor": "LARMAN, CRAIG",
+        "titulo": "Utilizando UML e padrões: uma introdução à análise e ao projeto orientados a objetos e ao desenvolvimento iterativo",
+        "assunto": "análise de sistemas",
+        "ano": 2007,
+        "biblioteca": {
+          "nome": "BIBLIOTECA PAULO SARMENTO - CMC",
+          "instituicao": "IFAM",
+          "endereco": "Av. Sete de Setembro - Centro, Manaus - AM, 69020-125",
+          "url": "http://qacademico.ifam.edu.br/qacademico/index.asp?t=6000"
+        },
+        "categoria": "LIVRO"
+      },
+      {
+        "autor": "BORGES, Carlos; ROLLIM, Fabiano",
+        "titulo": "Gerenciamento de projetos aplicado: conceitos e guia prático",
+        "assunto": "análise de sistemas",
+        "ano": 2015,
+        "biblioteca": {
+          "nome": "BIBLIOTECA PAULO SARMENTO - CMC",
+          "instituicao": "IFAM",
+          "endereco": "Av. Sete de Setembro - Centro, Manaus - AM, 69020-125",
+          "url": "http://qacademico.ifam.edu.br/qacademico/index.asp?t=6000"
+        },
+        "categoria": "LIVRO"
+      },
+      {
+        "autor": "PROJECT MANAGEMENT INSTITUTE",
+        "titulo": "Um guia do conhecimento em gerenciamento de projetos: guia PMBOK",
+        "assunto": "análise de sistemas",
+        "ano": 2014,
+        "biblioteca": {
+          "nome": "BIBLIOTECA PAULO SARMENTO - CMC",
+          "instituicao": "IFAM",
+          "endereco": "Av. Sete de Setembro - Centro, Manaus - AM, 69020-125",
+          "url": "http://qacademico.ifam.edu.br/qacademico/index.asp?t=6000"
+        },
+        "categoria": "LIVRO"
+      },
+      {
+        "autor": "DINSMORE, P.C.; CABANIS-BREWIN, Jeannette",
+        "titulo": "AMA: manual de gerenciamento de projetos",
+        "assunto": "análise de sistemas",
+        "ano": 2014,
+        "biblioteca": {
+          "nome": "BIBLIOTECA PAULO SARMENTO - CMC",
+          "instituicao": "IFAM",
+          "endereco": "Av. Sete de Setembro - Centro, Manaus - AM, 69020-125",
+          "url": "http://qacademico.ifam.edu.br/qacademico/index.asp?t=6000"
+        },
+        "categoria": "LIVRO"
+      },
+      {
+        "autor": "FOWLER, MARTIN",
+        "titulo": "UML ESSENCIAL: UM BREVE GUIA A LINGUAGEM-PADRÃO DE MODELAGEM DE OBJETOS: UM BREVE GUIA PARA A LINGUAGEM-PADRÃO DE MODELAGEM DE OBJETOS",
+        "assunto": "análise de sistemas",
+        "ano": 2005,
+        "biblioteca": {
+          "nome": "BIBLIOTECA PROF. AMÉLIA DE SOUZA LEAL - CMZL",
+          "instituicao": "IFAM",
+          "endereco": "Alameda Cosme Ferreira, 8045 - São José Operário, Manaus - AM, 69083-000",
+          "url": "http://qacademico.ifam.edu.br/qacademico/index.asp?t=6000"
+        },
+        "categoria": "LIVRO"
+      },
+      {
+        "autor": "MAQUINÉ, Gilmara Oliveira",
+        "titulo": "Joomforall: Plugin Joomla! para avaliação da acessibilidade de conteúdo web",
+        "assunto": "análise de sistemas",
+        "ano": 2014,
+        "biblioteca": {
+          "nome": "BIBLIOTECA PAULO SARMENTO - CMC",
+          "instituicao": "IFAM",
+          "endereco": "Av. Sete de Setembro - Centro, Manaus - AM, 69020-125",
+          "url": "http://qacademico.ifam.edu.br/qacademico/index.asp?t=6000"
+        },
+        "categoria": "PRODUCAO_ACADEMICA"
+      },
+      {
+        "autor": "SAYÃO, Maurício de Freitas",
+        "titulo": "Sistema para controle de projetos em pesquisa, desenvolvimento e inovação - SCP",
+        "assunto": "análise de sistemas",
+        "ano": 2015,
+        "biblioteca": {
+          "nome": "BIBLIOTECA PAULO SARMENTO - CMC",
+          "instituicao": "IFAM",
+          "endereco": "Av. Sete de Setembro - Centro, Manaus - AM, 69020-125",
+          "url": "http://qacademico.ifam.edu.br/qacademico/index.asp?t=6000"
+        },
+        "categoria": "PRODUCAO_ACADEMICA"
+      },
+      {
+        "autor": "SANTOS, Suellen Monteiro dos",
+        "titulo": "Sistema web para o gerenciamento das ações do projeto curupira - IFAM",
+        "assunto": "análise de sistemas",
+        "ano": 2014,
+        "biblioteca": {
+          "nome": "BIBLIOTECA PAULO SARMENTO - CMC",
+          "instituicao": "IFAM",
+          "endereco": "Av. Sete de Setembro - Centro, Manaus - AM, 69020-125",
+          "url": "http://qacademico.ifam.edu.br/qacademico/index.asp?t=6000"
+        },
+        "categoria": "PRODUCAO_ACADEMICA"
+      },
+      {
+        "autor": "SOARES, Admilson de Oliveira",
+        "titulo": "Sistema web para gerenciamento de projetos baseado na metodologia kanban",
+        "assunto": "análise de sistemas",
+        "ano": 2018,
+        "biblioteca": {
+          "nome": "BIBLIOTECA PAULO SARMENTO - CMC",
+          "instituicao": "IFAM",
+          "endereco": "Av. Sete de Setembro - Centro, Manaus - AM, 69020-125",
+          "url": "http://qacademico.ifam.edu.br/qacademico/index.asp?t=6000"
+        },
+        "categoria": "PRODUCAO_ACADEMICA"
+      },
+      {
+        "autor": "BARTIE, ALEXANDRE",
+        "titulo": "GARANTIA DA QUALIDADE DE SOFTWARE",
+        "assunto": "análise de sistemas",
+        "ano": 2002,
+        "biblioteca": {
+          "nome": "BIBLIOTECA PAULO SARMENTO - CMC",
+          "instituicao": "IFAM",
+          "endereco": "Av. Sete de Setembro - Centro, Manaus - AM, 69020-125",
+          "url": "http://qacademico.ifam.edu.br/qacademico/index.asp?t=6000"
+        },
+        "categoria": "LIVRO"
+      },
+      {
+        "autor": "Jr., R. Kelly Rainer; Cegielski, Casey G",
+        "titulo": "INTRODUCAO A TEORIA DA INFORMACAO",
+        "assunto": "análise de sistemas",
+        "ano": 2012,
+        "biblioteca": {
+          "nome": "BIBLIOTECA PAULO SARMENTO - CMC",
+          "instituicao": "IFAM",
+          "endereco": "Av. Sete de Setembro - Centro, Manaus - AM, 69020-125",
+          "url": "http://qacademico.ifam.edu.br/qacademico/index.asp?t=6000"
+        },
+        "categoria": "LIVRO"
+      },
+      {
+        "autor": "DAVIS, W.S.",
+        "titulo": "ANÁLISE E PROJETO DE SISTEMAS: UMA ABORDAGEM ESTRUTURADA",
+        "assunto": "análise de sistemas",
+        "ano": 1994,
+        "biblioteca": {
+          "nome": "BIBLIOTECA PAULO SARMENTO - CMC",
+          "instituicao": "IFAM",
+          "endereco": "Av. Sete de Setembro - Centro, Manaus - AM, 69020-125",
+          "url": "http://qacademico.ifam.edu.br/qacademico/index.asp?t=6000"
+        },
+        "categoria": "LIVRO"
+      },
+      {
+        "autor": "MAXIMIANO, Antonio Cesar Amaru",
+        "titulo": "ADMINISTRAÇÃO DE PROJETOS: COMO TRANSFORMAR IDEIAS EM RESULTADOS",
+        "assunto": "análise de sistemas",
+        "ano": 2010,
+        "biblioteca": {
+          "nome": "BIBLIOTECA PAULO SARMENTO - CMC",
+          "instituicao": "IFAM",
+          "endereco": "Av. Sete de Setembro - Centro, Manaus - AM, 69020-125",
+          "url": "http://qacademico.ifam.edu.br/qacademico/index.asp?t=6000"
+        },
+        "categoria": "LIVRO"
+      },
+      {
+        "autor": "COSTA, PAULO HENRIQUE SOTO",
+        "titulo": "ANALISE DE PROJETOS DE INVESTIMENTOS",
+        "assunto": "análise de sistemas",
+        "ano": 1990,
+        "biblioteca": {
+          "nome": "BIBLIOTECA PAULO SARMENTO - CMC",
+          "instituicao": "IFAM",
+          "endereco": "Av. Sete de Setembro - Centro, Manaus - AM, 69020-125",
+          "url": "http://qacademico.ifam.edu.br/qacademico/index.asp?t=6000"
+        },
+        "categoria": "LIVRO"
+      },
+      {
+        "autor": "GANE, CHRIS; SARSON, TRISH",
+        "titulo": "ANÁLISE ESTRUTURADA DE SISTEMAS",
+        "assunto": "análise de sistemas",
+        "ano": 1983,
+        "biblioteca": {
+          "nome": "BIBLIOTECA DE COARI",
+          "instituicao": "IFAM",
+          "endereco": "Estr. Coari Itapeua, s/n - Itamarati, Coari - AM, 69460-000",
+          "url": "http://qacademico.ifam.edu.br/qacademico/index.asp?t=6000"
+        },
+        "categoria": "LIVRO"
+      },
+      {
+        "autor": "CAVALIERI, ADRIANE; DINSMORE, PAUL CAMPBELL",
+        "titulo": "COMO SE TORNAR UM PROFISSIONAL EM GERENCIAMENTO DE PROJETOS",
+        "assunto": "análise de sistemas",
+        "ano": 2013,
+        "biblioteca": {
+          "nome": "BIBLIOTECA PAULO SARMENTO - CMC",
+          "instituicao": "IFAM",
+          "endereco": "Av. Sete de Setembro - Centro, Manaus - AM, 69020-125",
+          "url": "http://qacademico.ifam.edu.br/qacademico/index.asp?t=6000"
+        },
+        "categoria": "LIVRO"
+      },
+      {
+        "autor": "PAULA F., WILSON DE P.",
+        "titulo": "ENGENHARIA DE SOFTWARE:: FUNDAMENTOS, MÉTODOS E PADRÕES",
+        "assunto": "análise de sistemas",
+        "ano": 2001,
+        "biblioteca": {
+          "nome": "BIBLIOTECA PAULO SARMENTO - CMC",
+          "instituicao": "IFAM",
+          "endereco": "Av. Sete de Setembro - Centro, Manaus - AM, 69020-125",
+          "url": "http://qacademico.ifam.edu.br/qacademico/index.asp?t=6000"
+        },
+        "categoria": "LIVRO"
+      },
+      {
+        "autor": "ARAÚJO, Silfarnn Demétrio de",
+        "titulo": "Fundamentação e gestão de projetos",
+        "assunto": "análise de sistemas",
+        "ano": 2008,
+        "biblioteca": {
+          "nome": "BIBLIOTECA PAULO SARMENTO - CMC",
+          "instituicao": "IFAM",
+          "endereco": "Av. Sete de Setembro - Centro, Manaus - AM, 69020-125",
+          "url": "http://qacademico.ifam.edu.br/qacademico/index.asp?t=6000"
+        },
+        "categoria": "LIVRO"
+      },
+      {
+        "autor": "ARAÚJO, Silfarnn Demétrio de",
+        "titulo": "Fundamentação e gestão de projetos",
+        "assunto": "análise de sistemas",
+        "ano": 2008,
+        "biblioteca": {
+          "nome": "BIBLIOTECA PROF FREDERICO WILHELM KEMPTER FILHO - CMDI",
+          "instituicao": "IFAM",
+          "endereco": "Av. Gov. Danilo de Matos Areosa, 1731-1975 - Distrito Industrial, Manaus - AM, 69075-351",
+          "url": "http://qacademico.ifam.edu.br/qacademico/index.asp?t=6000"
+        },
+        "categoria": "LIVRO"
+      },
+      {
+        "autor": "CASAROTTO FILHO, NELSON",
+        "titulo": "GERÊNCIA DE PROJETOS/ ENGENHARIA SIMULTÂNIA",
+        "assunto": "análise de sistemas",
+        "ano": 2006,
+        "biblioteca": {
+          "nome": "BIBLIOTECA PAULO SARMENTO - CMC",
+          "instituicao": "IFAM",
+          "endereco": "Av. Sete de Setembro - Centro, Manaus - AM, 69020-125",
+          "url": "http://qacademico.ifam.edu.br/qacademico/index.asp?t=6000"
+        },
+        "categoria": "LIVRO"
+      },
+      {
+        "autor": "ROZENFELD, HENRIQUE",
+        "titulo": "Gestão de desenvolvimento de produtos",
+        "assunto": "análise de sistemas",
+        "ano": 2000,
+        "biblioteca": {
+          "nome": "BIBLIOTECA PROF FREDERICO WILHELM KEMPTER FILHO - CMDI",
+          "instituicao": "IFAM",
+          "endereco": "Av. Gov. Danilo de Matos Areosa, 1731-1975 - Distrito Industrial, Manaus - AM, 69075-351",
+          "url": "http://qacademico.ifam.edu.br/qacademico/index.asp?t=6000"
+        },
+        "categoria": "LIVRO"
+      },
+      {
+        "autor": "MOLINARI, LEONARDO",
+        "titulo": "GESTÃO DE PROJETOS: TÉCNICAS E PRÁTICAS COM ÊNFASE EM WEB: TÉCNICAS E PRÁTICAS COM ÊNFASE EM WEB",
+        "assunto": "análise de sistemas",
+        "ano": 2004,
+        "biblioteca": {
+          "nome": "BIBLIOTECA PAULO SARMENTO - CMC",
+          "instituicao": "IFAM",
+          "endereco": "Av. Sete de Setembro - Centro, Manaus - AM, 69020-125",
+          "url": "http://qacademico.ifam.edu.br/qacademico/index.asp?t=6000"
+        },
+        "categoria": "LIVRO"
+      },
+      {
+        "autor": "PATTERSON, David A.",
+        "titulo": "ORGANIZAÇÃO E PROJETO DE COMPUTADORES: A INTERFACE HARDWARE/SOFTWARE",
+        "assunto": "análise de sistemas",
+        "ano": 2000,
+        "biblioteca": {
+          "nome": "BIBLIOTECA PAULO SARMENTO - CMC",
+          "instituicao": "IFAM",
+          "endereco": "Av. Sete de Setembro - Centro, Manaus - AM, 69020-125",
+          "url": "http://qacademico.ifam.edu.br/qacademico/index.asp?t=6000"
+        },
+        "categoria": "LIVRO"
+      },
+      {
+        "autor": "RAMALHO, JOSÉ ANTONIO ALVES",
+        "titulo": "77 FUNÇÕES PARA O CLIPPER",
+        "assunto": "linguagem de programação",
+        "ano": 1989,
+        "biblioteca": {
+          "nome": "BIBLIOTECA PAULO SARMENTO - CMC",
+          "instituicao": "IFAM",
+          "endereco": "Av. Sete de Setembro - Centro, Manaus - AM, 69020-125",
+          "url": "http://qacademico.ifam.edu.br/qacademico/index.asp?t=6000"
+        },
+        "categoria": "LIVRO"
+      },
+      {
+        "autor": "STROUSTRUP, BJARNE",
+        "titulo": "A LINGUAGEM DE PROGRAMAÇÃO C++",
+        "assunto": "linguagem de programação",
+        "ano": 2000,
+        "biblioteca": {
+          "nome": "BIBLIOTECA PAULO SARMENTO - CMC",
+          "instituicao": "IFAM",
+          "endereco": "Av. Sete de Setembro - Centro, Manaus - AM, 69020-125",
+          "url": "http://qacademico.ifam.edu.br/qacademico/index.asp?t=6000"
+        },
+        "categoria": "LIVRO"
+      },
+      {
+        "autor": "DEITEL, HARVEY",
+        "titulo": "AJAX, RICH INTERNET APLICATIONS E DESENVOLVIMENTO WEB PARA PROGRAMADORES",
+        "assunto": "linguagem de programação",
+        "ano": 2008,
+        "biblioteca": {
+          "nome": "BIBLIOTECA PAULO SARMENTO - CMC",
+          "instituicao": "IFAM",
+          "endereco": "Av. Sete de Setembro - Centro, Manaus - AM, 69020-125",
+          "url": "http://qacademico.ifam.edu.br/qacademico/index.asp?t=6000"
+        },
+        "categoria": "LIVRO"
+      },
+      {
+        "autor": "SEDGEWICK, Robert",
+        "titulo": "Algorithms in C++: parts 1-4 : fundamentals, data structures, sorting, searching",
+        "assunto": "linguagem de programação",
+        "ano": 1998,
+        "biblioteca": {
+          "nome": "BIBLIOTECA PROF FREDERICO WILHELM KEMPTER FILHO - CMDI",
+          "instituicao": "IFAM",
+          "endereco": "Av. Gov. Danilo de Matos Areosa, 1731-1975 - Distrito Industrial, Manaus - AM, 69075-351",
+          "url": "http://qacademico.ifam.edu.br/qacademico/index.asp?t=6000"
+        },
+        "categoria": "LIVRO"
+      },
+      {
+        "autor": "MANZANO, José Augusto Navarro Garcia",
+        "titulo": "Algoritmos: lógica para desenvolvimento de programação de computadores",
+        "assunto": "linguagem de programação",
+        "ano": 2012,
+        "biblioteca": {
+          "nome": "BIBLIOTECA PROF FREDERICO WILHELM KEMPTER FILHO - CMDI",
+          "instituicao": "IFAM",
+          "endereco": "Av. Gov. Danilo de Matos Areosa, 1731-1975 - Distrito Industrial, Manaus - AM, 69075-351",
+          "url": "http://qacademico.ifam.edu.br/qacademico/index.asp?t=6000"
+        },
+        "categoria": "LIVRO"
+      },
+      {
+        "autor": "GUIMARÃES, ANGELO DE MOURA",
+        "titulo": "ALGORITMOS E ESTRUTURA DE DADOS",
+        "assunto": "linguagem de programação",
+        "ano": 1994,
+        "biblioteca": {
+          "nome": "BIBLIOTECA PAULO SARMENTO - CMC",
+          "instituicao": "IFAM",
+          "endereco": "Av. Sete de Setembro - Centro, Manaus - AM, 69020-125",
+          "url": "http://qacademico.ifam.edu.br/qacademico/index.asp?t=6000"
+        },
+        "categoria": "LIVRO"
+      },
+      {
+        "autor": "WIRTH, N.",
+        "titulo": "ALGORITMOS E ESTRUTURA DE DADOS",
+        "assunto": "linguagem de programação",
+        "ano": 1989,
+        "biblioteca": {
+          "nome": "BIBLIOTECA PAULO SARMENTO - CMC",
+          "instituicao": "IFAM",
+          "endereco": "Av. Sete de Setembro - Centro, Manaus - AM, 69020-125",
+          "url": "http://qacademico.ifam.edu.br/qacademico/index.asp?t=6000"
+        },
+        "categoria": "LIVRO"
+      },
+      {
+        "autor": "OGLIARI, RICARDO DA SILVA; BRITO, ROBISON CRIS",
+        "titulo": "ANDROID: DO BÁSICO AO AVANÇADO",
+        "assunto": "linguagem de programação",
+        "ano": 2014,
+        "biblioteca": {
+          "nome": "BIBLIOTECA PAULO SARMENTO - CMC",
+          "instituicao": "IFAM",
+          "endereco": "Av. Sete de Setembro - Centro, Manaus - AM, 69020-125",
+          "url": "http://qacademico.ifam.edu.br/qacademico/index.asp?t=6000"
+        },
+        "categoria": "LIVRO"
+      },
+      {
+        "autor": "WALD, Alexander; DEITEL, Paul; DEITEL, Harvey",
+        "titulo": "Android 6 para programadores: uma abordagem baseada em aplicativos",
+        "assunto": "linguagem de programação",
+        "ano": 2016,
+        "biblioteca": {
+          "nome": "BIBLIOTECA PAULO SARMENTO - CMC",
+          "instituicao": "IFAM",
+          "endereco": "Av. Sete de Setembro - Centro, Manaus - AM, 69020-125",
+          "url": "http://qacademico.ifam.edu.br/qacademico/index.asp?t=6000"
+        },
+        "categoria": "LIVRO"
+      },
+      {
+        "autor": "GUIMARÃES, ANGELO DE MOURA",
+        "titulo": "ALGORITMOS E ESTRUTURA DE DADOS",
+        "assunto": "linguagem de programação",
+        "ano": 1994,
+        "biblioteca": {
+          "nome": "BIBLIOTECA DE COARI",
+          "instituicao": "IFAM",
+          "endereco": "Estr. Coari Itapeua, s/n - Itamarati, Coari - AM, 69460-000",
+          "url": "http://qacademico.ifam.edu.br/qacademico/index.asp?t=6000"
+        },
+        "categoria": "LIVRO"
+      },
+      {
+        "autor": "DARWIN, IAN F.",
+        "titulo": "ANDROID COOKBOOK",
+        "assunto": "linguagem de programação",
+        "ano": 2012,
+        "biblioteca": {
+          "nome": "BIBLIOTECA PAULO SARMENTO - CMC",
+          "instituicao": "IFAM",
+          "endereco": "Av. Sete de Setembro - Centro, Manaus - AM, 69020-125",
+          "url": "http://qacademico.ifam.edu.br/qacademico/index.asp?t=6000"
+        },
+        "categoria": "LIVRO"
+      },
+      {
+        "autor": "ANSELMO, FERNANDO",
+        "titulo": "APLICANDO LÓGICA ORIENTADA A OBJETOS EM JAVA",
+        "assunto": "linguagem de programação",
+        "ano": 2005,
+        "biblioteca": {
+          "nome": "BIBLIOTECA PROF FREDERICO WILHELM KEMPTER FILHO - CMDI",
+          "instituicao": "IFAM",
+          "endereco": "Av. Gov. Danilo de Matos Areosa, 1731-1975 - Distrito Industrial, Manaus - AM, 69075-351",
+          "url": "http://qacademico.ifam.edu.br/qacademico/index.asp?t=6000"
+        },
+        "categoria": "LIVRO"
+      },
+      {
+        "autor": "SOARES, BRUNO AUGUSTO LOBO",
+        "titulo": "APRENDENDO A LINGUAGEM PHP",
+        "assunto": "linguagem de programação",
+        "ano": 2007,
+        "biblioteca": {
+          "nome": "BIBLIOTECA PAULO SARMENTO - CMC",
+          "instituicao": "IFAM",
+          "endereco": "Av. Sete de Setembro - Centro, Manaus - AM, 69020-125",
+          "url": "http://qacademico.ifam.edu.br/qacademico/index.asp?t=6000"
+        },
+        "categoria": "LIVRO"
+      },
+      {
+        "autor": "SPANGHERO, ALDO",
+        "titulo": "APRENDENDO DELPHI 7: GUIA PRÁTICO",
+        "assunto": "linguagem de programação",
+        "ano": 2003,
+        "biblioteca": {
+          "nome": "BIBLIOTECA PAULO SARMENTO - CMC",
+          "instituicao": "IFAM",
+          "endereco": "Av. Sete de Setembro - Centro, Manaus - AM, 69020-125",
+          "url": "http://qacademico.ifam.edu.br/qacademico/index.asp?t=6000"
+        },
+        "categoria": "LIVRO"
+      },
+      {
+        "autor": "NIEMEYER, PATRICK",
+        "titulo": "APRENDENDO JAVA",
+        "assunto": "linguagem de programação",
+        "ano": 2000,
+        "biblioteca": {
+          "nome": "BIBLIOTECA PAULO SARMENTO - CMC",
+          "instituicao": "IFAM",
+          "endereco": "Av. Sete de Setembro - Centro, Manaus - AM, 69020-125",
+          "url": "http://qacademico.ifam.edu.br/qacademico/index.asp?t=6000"
+        },
+        "categoria": "LIVRO"
+      },
+      {
+        "autor": "DAUM, BERTHOLD",
+        "titulo": "ARQUITETURA DE SISTEMAS COM XML",
+        "assunto": "linguagem de programação",
+        "ano": 2002,
+        "biblioteca": {
+          "nome": "BIBLIOTECA PAULO SARMENTO - CMC",
+          "instituicao": "IFAM",
+          "endereco": "Av. Sete de Setembro - Centro, Manaus - AM, 69020-125",
+          "url": "http://qacademico.ifam.edu.br/qacademico/index.asp?t=6000"
+        },
+        "categoria": "LIVRO"
+      },
+      {
+        "autor": "SABBATINI, R.M.E.",
+        "titulo": "BASIC: INTRODUCAO A PROGRAMACAO BASIC PARA MICROCOMPUTADORES",
+        "assunto": "linguagem de programação",
+        "ano": 1984,
+        "biblioteca": {
+          "nome": "BIBLIOTECA PAULO SARMENTO - CMC",
+          "instituicao": "IFAM",
+          "endereco": "Av. Sete de Setembro - Centro, Manaus - AM, 69020-125",
+          "url": "http://qacademico.ifam.edu.br/qacademico/index.asp?t=6000"
+        },
+        "categoria": "LIVRO"
+      },
+      {
+        "autor": "LI, Sing",
+        "titulo": "Beginning J2ME: from novice to professional",
+        "assunto": "linguagem de programação",
+        "ano": 2005,
+        "biblioteca": {
+          "nome": "BIBLIOTECA PROF FREDERICO WILHELM KEMPTER FILHO - CMDI",
+          "instituicao": "IFAM",
+          "endereco": "Av. Gov. Danilo de Matos Areosa, 1731-1975 - Distrito Industrial, Manaus - AM, 69075-351",
+          "url": "http://qacademico.ifam.edu.br/qacademico/index.asp?t=6000"
+        },
+        "categoria": "LIVRO"
+      },
+      {
+        "autor": "LEAO, MARCELO",
+        "titulo": "BORLAND DELPHI 4 CURSO COMPLETO",
+        "assunto": "linguagem de programação",
+        "ano": 2000,
+        "biblioteca": {
+          "nome": "BIBLIOTECA PAULO SARMENTO - CMC",
+          "instituicao": "IFAM",
+          "endereco": "Av. Sete de Setembro - Centro, Manaus - AM, 69020-125",
+          "url": "http://qacademico.ifam.edu.br/qacademico/index.asp?t=6000"
+        },
+        "categoria": "LIVRO"
+      },
+      {
+        "autor": "SCHILDT, Herbert",
+        "titulo": "C AVANÇADO:: GUIA DO USUÁRIO",
+        "assunto": "linguagem de programação",
+        "ano": 1989,
+        "biblioteca": {
+          "nome": "BIBLIOTECA PAULO SARMENTO - CMC",
+          "instituicao": "IFAM",
+          "endereco": "Av. Sete de Setembro - Centro, Manaus - AM, 69020-125",
+          "url": "http://qacademico.ifam.edu.br/qacademico/index.asp?t=6000"
+        },
+        "categoria": "LIVRO"
+      },
+      {
+        "autor": "SCHILDT, Herbert",
+        "titulo": "C completo e total",
+        "assunto": "linguagem de programação",
+        "ano": 1997,
+        "biblioteca": {
+          "nome": "BIBLIOTECA PROF FREDERICO WILHELM KEMPTER FILHO - CMDI",
+          "instituicao": "IFAM",
+          "endereco": "Av. Gov. Danilo de Matos Areosa, 1731-1975 - Distrito Industrial, Manaus - AM, 69075-351",
+          "url": "http://qacademico.ifam.edu.br/qacademico/index.asp?t=6000"
+        },
+        "categoria": "LIVRO"
+      },
+      {
+        "autor": "KERNIGHAN, B.W.",
+        "titulo": "C, A LINGUAGEM DE PROGRAMAÇÃO: PADRÃO ANSI",
+        "assunto": "linguagem de programação",
+        "ano": 1990,
+        "biblioteca": {
+          "nome": "BIBLIOTECA PAULO SARMENTO - CMC",
+          "instituicao": "IFAM",
+          "endereco": "Av. Sete de Setembro - Centro, Manaus - AM, 69020-125",
+          "url": "http://qacademico.ifam.edu.br/qacademico/index.asp?t=6000"
+        },
+        "categoria": "LIVRO"
+      },
+      {
+        "autor": "CARLOS AUGUSTO",
+        "titulo": "C, CAIXA DE FERRAMENTAS",
+        "assunto": "linguagem de programação",
+        "ano": 1990,
+        "biblioteca": {
+          "nome": "BIBLIOTECA PAULO SARMENTO - CMC",
+          "instituicao": "IFAM",
+          "endereco": "Av. Sete de Setembro - Centro, Manaus - AM, 69020-125",
+          "url": "http://qacademico.ifam.edu.br/qacademico/index.asp?t=6000"
+        },
+        "categoria": "LIVRO"
+      },
+      {
+        "autor": "SCHILDT, Herbert",
+        "titulo": "C, COMPLETO E TOTAL",
+        "assunto": "linguagem de programação",
+        "ano": 1997,
+        "biblioteca": {
+          "nome": "BIBLIOTECA PAULO SARMENTO - CMC",
+          "instituicao": "IFAM",
+          "endereco": "Av. Sete de Setembro - Centro, Manaus - AM, 69020-125",
+          "url": "http://qacademico.ifam.edu.br/qacademico/index.asp?t=6000"
+        },
+        "categoria": "LIVRO"
+      },
+      {
+        "autor": "KERNIGHAN, B.W.",
+        "titulo": "C: A LINGUAGEM DE PROGRAMAÇÃO",
+        "assunto": "linguagem de programação",
+        "ano": 1986,
+        "biblioteca": {
+          "nome": "BIBLIOTECA PAULO SARMENTO - CMC",
+          "instituicao": "IFAM",
+          "endereco": "Av. Sete de Setembro - Centro, Manaus - AM, 69020-125",
+          "url": "http://qacademico.ifam.edu.br/qacademico/index.asp?t=6000"
+        },
+        "categoria": "LIVRO"
+      },
+      {
+        "autor": "ARCINIEGAS, FABIO",
+        "titulo": "C++ XML",
+        "assunto": "linguagem de programação",
+        "ano": 2002,
+        "biblioteca": {
+          "nome": "BIBLIOTECA PAULO SARMENTO - CMC",
+          "instituicao": "IFAM",
+          "endereco": "Av. Sete de Setembro - Centro, Manaus - AM, 69020-125",
+          "url": "http://qacademico.ifam.edu.br/qacademico/index.asp?t=6000"
+        },
+        "categoria": "LIVRO"
+      },
+      {
+        "autor": "DEITEL, Harvey M.",
+        "titulo": "C++: COMO PROGRAMAR",
+        "assunto": "linguagem de programação",
+        "ano": 2001,
+        "biblioteca": {
+          "nome": "BIBLIOTECA PAULO SARMENTO - CMC",
+          "instituicao": "IFAM",
+          "endereco": "Av. Sete de Setembro - Centro, Manaus - AM, 69020-125",
+          "url": "http://qacademico.ifam.edu.br/qacademico/index.asp?t=6000"
+        },
+        "categoria": "LIVRO"
+      },
+      {
+        "autor": "VIDAL, ANTONIO GERALDO DA ROCHA",
+        "titulo": "CLIPER:: VERSÃO SUMMER 87",
+        "assunto": "linguagem de programação",
+        "ano": 1990,
+        "biblioteca": {
+          "nome": "BIBLIOTECA PAULO SARMENTO - CMC",
+          "instituicao": "IFAM",
+          "endereco": "Av. Sete de Setembro - Centro, Manaus - AM, 69020-125",
+          "url": "http://qacademico.ifam.edu.br/qacademico/index.asp?t=6000"
+        },
+        "categoria": "LIVRO"
+      },
+      {
+        "autor": "SPENCE, RICK",
+        "titulo": "CLIPPER 5.2",
+        "assunto": "linguagem de programação",
+        "ano": 1994,
+        "biblioteca": {
+          "nome": "BIBLIOTECA PAULO SARMENTO - CMC",
+          "instituicao": "IFAM",
+          "endereco": "Av. Sete de Setembro - Centro, Manaus - AM, 69020-125",
+          "url": "http://qacademico.ifam.edu.br/qacademico/index.asp?t=6000"
+        },
+        "categoria": "LIVRO"
+      },
+      {
+        "autor": "QUINTELA, LUIZ ANTONIO FONTES",
+        "titulo": "CLIPPER EM REDES",
+        "assunto": "linguagem de programação",
+        "ano": 1990,
+        "biblioteca": {
+          "nome": "BIBLIOTECA PAULO SARMENTO - CMC",
+          "instituicao": "IFAM",
+          "endereco": "Av. Sete de Setembro - Centro, Manaus - AM, 69020-125",
+          "url": "http://qacademico.ifam.edu.br/qacademico/index.asp?t=6000"
+        },
+        "categoria": "LIVRO"
+      },
+      {
+        "autor": "SPENCE, RICK",
+        "titulo": "CLIPPER 5.2",
+        "assunto": "linguagem de programação",
+        "ano": 1994,
+        "biblioteca": {
+          "nome": "BIBLIOTECA PROF FREDERICO WILHELM KEMPTER FILHO - CMDI",
+          "instituicao": "IFAM",
+          "endereco": "Av. Gov. Danilo de Matos Areosa, 1731-1975 - Distrito Industrial, Manaus - AM, 69075-351",
+          "url": "http://qacademico.ifam.edu.br/qacademico/index.asp?t=6000"
+        },
+        "categoria": "LIVRO"
+      },
+      {
+        "autor": "VIDAL, ANTONIO GERALDO DA ROCHA",
+        "titulo": "CLIPPER:: VERSÃO SUMMER 87",
+        "assunto": "linguagem de programação",
+        "ano": 1989,
+        "biblioteca": {
+          "nome": "BIBLIOTECA PAULO SARMENTO - CMC",
+          "instituicao": "IFAM",
+          "endereco": "Av. Sete de Setembro - Centro, Manaus - AM, 69020-125",
+          "url": "http://qacademico.ifam.edu.br/qacademico/index.asp?t=6000"
+        },
+        "categoria": "LIVRO"
+      },
+      {
+        "autor": "NAUGHTON, P.",
+        "titulo": "DOMINANDO O JAVA",
+        "assunto": "linguagem de programação",
+        "ano": 2004,
+        "biblioteca": {
+          "nome": "BIBLIOTECA PAULO SARMENTO - CMC",
+          "instituicao": "IFAM",
+          "endereco": "Av. Sete de Setembro - Centro, Manaus - AM, 69020-125",
+          "url": "http://qacademico.ifam.edu.br/qacademico/index.asp?t=6000"
+        },
+        "categoria": "LIVRO"
+      },
+      {
+        "autor": "SZWARCFITER, JAYME L.",
+        "titulo": "ESTRUTURA DE DADOS E SEUS ALGORITMOS",
+        "assunto": "linguagem de programação",
+        "ano": 1994,
+        "biblioteca": {
+          "nome": "BIBLIOTECA PAULO SARMENTO - CMC",
+          "instituicao": "IFAM",
+          "endereco": "Av. Sete de Setembro - Centro, Manaus - AM, 69020-125",
+          "url": "http://qacademico.ifam.edu.br/qacademico/index.asp?t=6000"
+        },
+        "categoria": "LIVRO"
+      },
+      {
+        "autor": "KHAWAR ZAMAN AHMED",
+        "titulo": "DESENVOLVENDO APLICAÇÕES COMERCIAIS EM JAVA COM J2",
+        "assunto": "linguagem de programação",
+        "ano": 2002,
+        "biblioteca": {
+          "nome": "BIBLIOTECA PROF FREDERICO WILHELM KEMPTER FILHO - CMDI",
+          "instituicao": "IFAM",
+          "endereco": "Av. Gov. Danilo de Matos Areosa, 1731-1975 - Distrito Industrial, Manaus - AM, 69075-351",
+          "url": "http://qacademico.ifam.edu.br/qacademico/index.asp?t=6000"
+        },
+        "categoria": "LIVRO"
+      },
+      {
+        "autor": "MENEZES, Nilo Ney Coutinho",
+        "titulo": "Introdução à programação com Python: algoritmos e lógica de programação para iniciantes",
+        "assunto": "linguagem de programação",
+        "ano": 2010,
+        "biblioteca": {
+          "nome": "BIBLIOTECA PROF FREDERICO WILHELM KEMPTER FILHO - CMDI",
+          "instituicao": "IFAM",
+          "endereco": "Av. Gov. Danilo de Matos Areosa, 1731-1975 - Distrito Industrial, Manaus - AM, 69075-351",
+          "url": "http://qacademico.ifam.edu.br/qacademico/index.asp?t=6000"
+        },
+        "categoria": "LIVRO"
+      },
+      {
+        "autor": "MENEZES, Nilo Ney Coutinho",
+        "titulo": "Introdução à programação com Python: algoritmos e lógica de programação para iniciantes",
+        "assunto": "linguagem de programação",
+        "ano": 2010,
+        "biblioteca": {
+          "nome": "BIBLIOTECA PAULO SARMENTO - CMC",
+          "instituicao": "IFAM",
+          "endereco": "Av. Sete de Setembro - Centro, Manaus - AM, 69020-125",
+          "url": "http://qacademico.ifam.edu.br/qacademico/index.asp?t=6000"
+        },
+        "categoria": "LIVRO"
+      },
+      {
+        "autor": "LEE, WEI-MENG",
+        "titulo": "INTRODUÇÃO AO DESENVOLVIMENTO DE APLICATIVOS PARA O ANDROID",
+        "assunto": "linguagem de programação",
+        "ano": 2011,
+        "biblioteca": {
+          "nome": "BIBLIOTECA PAULO SARMENTO - CMC",
+          "instituicao": "IFAM",
+          "endereco": "Av. Sete de Setembro - Centro, Manaus - AM, 69020-125",
+          "url": "http://qacademico.ifam.edu.br/qacademico/index.asp?t=6000"
+        },
+        "categoria": "LIVRO"
+      },
+      {
+        "autor": "BECKER, Byron Weber",
+        "titulo": "JAVA: Leaning to Program with Robots",
+        "assunto": "linguagem de programação",
+        "ano": 2007,
+        "biblioteca": {
+          "nome": "BIBLIOTECA PROF FREDERICO WILHELM KEMPTER FILHO - CMDI",
+          "instituicao": "IFAM",
+          "endereco": "Av. Gov. Danilo de Matos Areosa, 1731-1975 - Distrito Industrial, Manaus - AM, 69075-351",
+          "url": "http://qacademico.ifam.edu.br/qacademico/index.asp?t=6000"
+        },
+        "categoria": "LIVRO"
+      },
+      {
+        "autor": "LALANI, S.",
+        "titulo": "JAVA: BIBLIOTECA DO PROGRAMADOR",
+        "assunto": "linguagem de programação",
+        "ano": 1997,
+        "biblioteca": {
+          "nome": "BIBLIOTECA PAULO SARMENTO - CMC",
+          "instituicao": "IFAM",
+          "endereco": "Av. Sete de Setembro - Centro, Manaus - AM, 69020-125",
+          "url": "http://qacademico.ifam.edu.br/qacademico/index.asp?t=6000"
+        },
+        "categoria": "LIVRO"
+      },
+      {
+        "autor": "DEITEL, Paul J.; DEITEL, Harvey",
+        "titulo": "JAVA: COMO PROGRAMAR",
+        "assunto": "linguagem de programação",
+        "ano": 2010,
+        "biblioteca": {
+          "nome": "BIBLIOTECA PAULO SARMENTO - CMC",
+          "instituicao": "IFAM",
+          "endereco": "Av. Sete de Setembro - Centro, Manaus - AM, 69020-125",
+          "url": "http://qacademico.ifam.edu.br/qacademico/index.asp?t=6000"
+        },
+        "categoria": "LIVRO"
+      },
+      {
+        "autor": "DEITEL, Paul J.; DEITEL, Harvey",
+        "titulo": "JAVA: COMO PROGRAMAR",
+        "assunto": "linguagem de programação",
+        "ano": 2010,
+        "biblioteca": {
+          "nome": "BIBLIOTECA PROF. AMÉLIA DE SOUZA LEAL - CMZL",
+          "instituicao": "IFAM",
+          "endereco": "Alameda Cosme Ferreira, 8045 - São José Operário, Manaus - AM, 69083-000",
+          "url": "http://qacademico.ifam.edu.br/qacademico/index.asp?t=6000"
+        },
+        "categoria": "LIVRO"
+      },
+      {
+        "autor": "JUSTIN, COUCH",
+        "titulo": "JAVA 2 NETWORKING",
+        "assunto": "linguagem de programação",
+        "ano": 1999,
+        "biblioteca": {
+          "nome": "BIBLIOTECA PAULO SARMENTO - CMC",
+          "instituicao": "IFAM",
+          "endereco": "Av. Sete de Setembro - Centro, Manaus - AM, 69020-125",
+          "url": "http://qacademico.ifam.edu.br/qacademico/index.asp?t=6000"
+        },
+        "categoria": "LIVRO"
+      },
+      {
+        "autor": "TODD, NICK",
+        "titulo": "JAVASERVER PAGES:: O GUIA DO DESENVOLVEDOR",
+        "assunto": "linguagem de programação",
+        "ano": 2003,
+        "biblioteca": {
+          "nome": "BIBLIOTECA PAULO SARMENTO - CMC",
+          "instituicao": "IFAM",
+          "endereco": "Av. Sete de Setembro - Centro, Manaus - AM, 69020-125",
+          "url": "http://qacademico.ifam.edu.br/qacademico/index.asp?t=6000"
+        },
+        "categoria": "LIVRO"
+      },
+      {
+        "autor": "FURGERI, SÉRGIO",
+        "titulo": "JAVA 6: ENSINO DIDÁTICO: DESENVOLVENDO E IMPLEMENTANDO APLICAÇÕES",
+        "assunto": "linguagem de programação",
+        "ano": 2008,
+        "biblioteca": {
+          "nome": "BIBLIOTECA DE COARI",
+          "instituicao": "IFAM",
+          "endereco": "Estr. Coari Itapeua, s/n - Itamarati, Coari - AM, 69460-000",
+          "url": "http://qacademico.ifam.edu.br/qacademico/index.asp?t=6000"
+        },
+        "categoria": "LIVRO"
+      },
+      {
+        "autor": "ASCENCIO, Ana Fernanda Gomes",
+        "titulo": "LÓGICA DE PROGRAMAÇÃO COM PASCAL",
+        "assunto": "linguagem de programação",
+        "ano": 2004,
+        "biblioteca": {
+          "nome": "BIBLIOTECA PAULO SARMENTO - CMC",
+          "instituicao": "IFAM",
+          "endereco": "Av. Sete de Setembro - Centro, Manaus - AM, 69020-125",
+          "url": "http://qacademico.ifam.edu.br/qacademico/index.asp?t=6000"
+        },
+        "categoria": "LIVRO"
+      },
+      {
+        "autor": "WOJCIECHOWSKI, JAIME",
+        "titulo": "LINGUAGEM DE PROGRAMAÇÃO COBOL PARA MAINFRAME",
+        "assunto": "linguagem de programação",
+        "ano": 2010,
+        "biblioteca": {
+          "nome": "BIBLIOTECA PAULO SARMENTO - CMC",
+          "instituicao": "IFAM",
+          "endereco": "Av. Sete de Setembro - Centro, Manaus - AM, 69020-125",
+          "url": "http://qacademico.ifam.edu.br/qacademico/index.asp?t=6000"
+        },
+        "categoria": "LIVRO"
+      },
+      {
+        "autor": "SCHMITZ, EBER ASSIS",
+        "titulo": "PASCAL E TÉCNICAS DE PROGRAMAÇÃO",
+        "assunto": "linguagem de programação",
+        "ano": 1996,
+        "biblioteca": {
+          "nome": "BIBLIOTECA PAULO SARMENTO - CMC",
+          "instituicao": "IFAM",
+          "endereco": "Av. Sete de Setembro - Centro, Manaus - AM, 69020-125",
+          "url": "http://qacademico.ifam.edu.br/qacademico/index.asp?t=6000"
+        },
+        "categoria": "LIVRO"
+      },
+      {
+        "autor": "BORETTI, ISAIAS CAMILO",
+        "titulo": "PROGRAMAÇÃO ORIENTADA A OBJETOS: USANDO DELPHI",
+        "assunto": "linguagem de programação",
+        "ano": 2007,
+        "biblioteca": {
+          "nome": "BIBLIOTECA DE COARI",
+          "instituicao": "IFAM",
+          "endereco": "Estr. Coari Itapeua, s/n - Itamarati, Coari - AM, 69460-000",
+          "url": "http://qacademico.ifam.edu.br/qacademico/index.asp?t=6000"
+        },
+        "categoria": "LIVRO"
+      },
+      {
+        "autor": "CASTAGNETTO, JESUS",
+        "titulo": "PROFESSIONAL PHP PROGRAMANDO",
+        "assunto": "linguagem de programação",
+        "ano": 1999,
+        "biblioteca": {
+          "nome": "BIBLIOTECA PAULO SARMENTO - CMC",
+          "instituicao": "IFAM",
+          "endereco": "Av. Sete de Setembro - Centro, Manaus - AM, 69020-125",
+          "url": "http://qacademico.ifam.edu.br/qacademico/index.asp?t=6000"
+        },
+        "categoria": "LIVRO"
+      }            
+    ]
+  }
+
+
+
+

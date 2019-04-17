@@ -1,4 +1,4 @@
-package indexer;
+package search;
 
 import java.io.File;
 import java.io.IOException;
@@ -6,8 +6,7 @@ import java.io.IOException;
 import org.apache.lucene.analysis.standard.StandardAnalyzer;
 import org.apache.lucene.document.Document;
 import org.apache.lucene.index.CorruptIndexException;
-import org.apache.lucene.queryParser.ParseException;
-import org.apache.lucene.queryParser.QueryParser;
+
 import org.apache.lucene.search.IndexSearcher;
 import org.apache.lucene.search.Query;
 import org.apache.lucene.search.ScoreDoc;
@@ -18,8 +17,9 @@ import org.apache.lucene.util.Version;
 
 import common.LuceneConstants;
 
+
 public class LuceneSearcher {
-	
+	/*
 	   IndexSearcher indexSearcher;
 	   QueryParser queryParser;
 	   Query query;
@@ -47,5 +47,5 @@ public class LuceneSearcher {
 
 	   public void close() throws IOException {
 	      indexSearcher.close();
-	   }
+	   }*/
 	}

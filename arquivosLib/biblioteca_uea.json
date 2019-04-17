@@ -1,0 +1,1958 @@
+{
+    "documentos": [
+      {
+        "autor": "Nock, Clifton",
+        "titulo": "Data access patterns : database interactions in object-oriented applications",
+        "assunto": "banco de dados",
+        "ano": 2004,
+        "biblioteca": {
+          "nome": "BST - Setorial de Tecnologia",
+          "instituicao": "UEA",
+          "endereco": "Av. Darcy Vargas, 1.200 - Parque Dez de Novembro, Manaus - AM, 69050-020",
+          "url": "http://biblioteca.uea.edu.br/biblioteca/index.php"
+        },
+        "categoria": "LIVRO"
+      },
+      {
+        "autor": "Reese, George",
+        "titulo": "Java database best practices",
+        "assunto": "banco de dados",
+        "ano": 2003,
+        "biblioteca": {
+          "nome": "BST - Setorial de Tecnologia",
+          "instituicao": "UEA",
+          "endereco": "Av. Darcy Vargas, 1.200 - Parque Dez de Novembro, Manaus - AM, 69050-020",
+          "url": "http://biblioteca.uea.edu.br/biblioteca/index.php"
+        },
+        "categoria": "LIVRO"
+      },
+      {
+        "autor": "Microsoft Corporation",
+        "titulo": "Microsoft Fox Pro : relational database management system for windows",
+        "assunto": "banco de dados",
+        "ano": 1993,
+        "biblioteca": {
+          "nome": "BST - Setorial de Tecnologia",
+          "instituicao": "UEA",
+          "endereco": "Av. Darcy Vargas, 1.200 - Parque Dez de Novembro, Manaus - AM, 69050-020",
+          "url": "http://biblioteca.uea.edu.br/biblioteca/index.php"
+        },
+        "categoria": "LIVRO"
+      },
+      {
+        "autor": "Weinberg, Paul N.",
+        "titulo": "SQL, the complete reference",
+        "assunto": "banco de dados",
+        "ano": 2010,
+        "biblioteca": {
+          "nome": "BST - Setorial de Tecnologia",
+          "instituicao": "UEA",
+          "endereco": "Av. Darcy Vargas, 1.200 - Parque Dez de Novembro, Manaus - AM, 69050-020",
+          "url": "http://biblioteca.uea.edu.br/biblioteca/index.php"
+        },
+        "categoria": "LIVRO"
+      },
+      {
+        "autor": "Date, C. J.",
+        "titulo": "Temporal data and the relational model : b a detailed investigation into the application of interval and relation theory to the problem of temporal database management",
+        "assunto": "banco de dados",
+        "ano": 2003,
+        "biblioteca": {
+          "nome": "BST - Setorial de Tecnologia",
+          "instituicao": "UEA",
+          "endereco": "Av. Darcy Vargas, 1.200 - Parque Dez de Novembro, Manaus - AM, 69050-020",
+          "url": "http://biblioteca.uea.edu.br/biblioteca/index.php"
+        },
+        "categoria": "LIVRO"
+      },
+      {
+        "autor": "Wazlawick, Raul S.",
+        "titulo": "Análise e projeto de sistemas de informação orientados a objetos",
+        "assunto": "banco de dados",
+        "ano": 2004,
+        "biblioteca": {
+          "nome": "BS EIRUNEPÉ - Setorial de Eirunepé",
+          "instituicao": "UEA",
+          "endereco": "Estr. Er-2 Colégio Aquaricaral, 414-1070 - São José, Eirunepé - AM, 69880-000",
+          "url": "http://biblioteca.uea.edu.br/biblioteca/index.php"
+        },
+        "categoria": "LIVRO"
+      },
+      {
+        "autor": "Setzer, Valdemar W.",
+        "titulo": "Banco de dados : aprenda o que são, melhore seu conhecimento, construa os seus",
+        "assunto": "banco de dados",
+        "ano": 2005,
+        "biblioteca": {
+          "nome": "BS EIRUNEPÉ - Setorial de Eirunepé",
+          "instituicao": "UEA",
+          "endereco": "Estr. Er-2 Colégio Aquaricaral, 414-1070 - São José, Eirunepé - AM, 69880-000",
+          "url": "http://biblioteca.uea.edu.br/biblioteca/index.php"
+        },
+        "categoria": "LIVRO"
+      },
+      {
+        "autor": "Date, C. J.",
+        "titulo": "Introdução a sistemas de banco de dados",
+        "assunto": "banco de dados",
+        "ano": 2004,
+        "biblioteca": {
+          "nome": "BS EIRUNEPÉ - Setorial de Eirunepé",
+          "instituicao": "UEA",
+          "endereco": "Estr. Er-2 Colégio Aquaricaral, 414-1070 - São José, Eirunepé - AM, 69880-000",
+          "url": "http://biblioteca.uea.edu.br/biblioteca/index.php"
+        },
+        "categoria": "LIVRO"
+      },
+      {
+        "autor": "Heuser, Carlos Alberto",
+        "titulo": "Projeto de banco de dados",
+        "assunto": "banco de dados",
+        "ano": 2009,
+        "biblioteca": {
+          "nome": "BS EIRUNEPÉ - Setorial de Eirunepé",
+          "instituicao": "UEA",
+          "endereco": "Estr. Er-2 Colégio Aquaricaral, 414-1070 - São José, Eirunepé - AM, 69880-000",
+          "url": "http://biblioteca.uea.edu.br/biblioteca/index.php"
+        },
+        "categoria": "LIVRO"
+      },
+      {
+        "autor": "Machado, Felipe Nery Rodrigues",
+        "titulo": "Projeto de banco de dados : uma visão prática",
+        "assunto": "banco de dados",
+        "ano": 2008,
+        "biblioteca": {
+          "nome": "BS EIRUNEPÉ - Setorial de Eirunepé",
+          "instituicao": "UEA",
+          "endereco": "Estr. Er-2 Colégio Aquaricaral, 414-1070 - São José, Eirunepé - AM, 69880-000",
+          "url": "http://biblioteca.uea.edu.br/biblioteca/index.php"
+        },
+        "categoria": "LIVRO"
+      },
+      {
+        "autor": "Silberschatz, Abraham",
+        "titulo": "Sistema de banco de dados",
+        "assunto": "banco de dados",
+        "ano": 2006,
+        "biblioteca": {
+          "nome": "BS EIRUNEPÉ - Setorial de Eirunepé",
+          "instituicao": "UEA",
+          "endereco": "Estr. Er-2 Colégio Aquaricaral, 414-1070 - São José, Eirunepé - AM, 69880-000",
+          "url": "http://biblioteca.uea.edu.br/biblioteca/index.php"
+        },
+        "categoria": "LIVRO"
+      },
+      {
+        "autor": "Elmasri, Ramez",
+        "titulo": "Sistemas de banco de dados",
+        "assunto": "banco de dados",
+        "ano": 2005,
+        "biblioteca": {
+          "nome": "BS EIRUNEPÉ - Setorial de Eirunepé",
+          "instituicao": "UEA",
+          "endereco": "Estr. Er-2 Colégio Aquaricaral, 414-1070 - São José, Eirunepé - AM, 69880-000",
+          "url": "http://biblioteca.uea.edu.br/biblioteca/index.php"
+        },
+        "categoria": "LIVRO"
+      },
+      {
+        "autor": "Buyens, Jim",
+        "titulo": "Desenvolvendo banco de dados na web : passo a passo",
+        "assunto": "banco de dados",
+        "ano": 2001,
+        "biblioteca": {
+          "nome": "BS- Artes e Turismo",
+          "instituicao": "UEA",
+          "endereco": "Av. Leonardo Malcher, 1728 - Praça 14, Manaus - AM, 69020-060",
+          "url": "http://biblioteca.uea.edu.br/biblioteca/index.php"
+        },
+        "categoria": "LIVRO"
+      },
+      {
+        "autor": "Date, C. J.",
+        "titulo": "Introdução a sistemas de banco de dados",
+        "assunto": "banco de dados",
+        "ano": 2000,
+        "biblioteca": {
+          "nome": "BS- Artes e Turismo",
+          "instituicao": "UEA",
+          "endereco": "Av. Leonardo Malcher, 1728 - Praça 14, Manaus - AM, 69020-060",
+          "url": "http://biblioteca.uea.edu.br/biblioteca/index.php"
+        },
+        "categoria": "LIVRO"
+      },
+      {
+        "autor": "Date, C. J.",
+        "titulo": "Introdução a sistemas de banco de dados",
+        "assunto": "banco de dados",
+        "ano": 2004,
+        "biblioteca": {
+          "nome": "BS- Artes e Turismo",
+          "instituicao": "UEA",
+          "endereco": "Av. Leonardo Malcher, 1728 - Praça 14, Manaus - AM, 69020-060",
+          "url": "http://biblioteca.uea.edu.br/biblioteca/index.php"
+        },
+        "categoria": "LIVRO"
+      },
+      {
+        "autor": "Wazlawick, Raul S.",
+        "titulo": "Análise e projeto de sistemas de informação orientados a objetos",
+        "assunto": "banco de dados",
+        "ano": 2004,
+        "biblioteca": {
+          "nome": "BS- B ACRE - Setorial Boca do Acre",
+          "instituicao": "UEA",
+          "endereco": "R. Bloco Um e Três, 4-40 - Platô do Piquiá, Boca do Acre - AM, 69850-000",
+          "url": "http://biblioteca.uea.edu.br/biblioteca/index.php"
+        },
+        "categoria": "LIVRO"
+      },
+      {
+        "autor": "Setzer, Valdemar W.",
+        "titulo": "Banco de dados : aprenda o que são, melhore seu conhecimento, construa os seus",
+        "assunto": "banco de dados",
+        "ano": 2005,
+        "biblioteca": {
+          "nome": "BS- B ACRE - Setorial Boca do Acre",
+          "instituicao": "UEA",
+          "endereco": "R. Bloco Um e Três, 4-40 - Platô do Piquiá, Boca do Acre - AM, 69850-000",
+          "url": "http://biblioteca.uea.edu.br/biblioteca/index.php"
+        },
+        "categoria": "LIVRO"
+      },
+      {
+        "autor": "Date, C. J.",
+        "titulo": "Introdução a sistemas de banco de dados",
+        "assunto": "banco de dados",
+        "ano": 2004,
+        "biblioteca": {
+          "nome": "BS- B ACRE - Setorial Boca do Acre",
+          "instituicao": "UEA",
+          "endereco": "R. Bloco Um e Três, 4-40 - Platô do Piquiá, Boca do Acre - AM, 69850-000",
+          "url": "http://biblioteca.uea.edu.br/biblioteca/index.php"
+        },
+        "categoria": "LIVRO"
+      },
+      {
+        "autor": "Heuser, Carlos Alberto",
+        "titulo": "Projeto de banco de dados",
+        "assunto": "banco de dados",
+        "ano": 2009,
+        "biblioteca": {
+          "nome": "BS- B ACRE - Setorial Boca do Acre",
+          "instituicao": "UEA",
+          "endereco": "R. Bloco Um e Três, 4-40 - Platô do Piquiá, Boca do Acre - AM, 69850-000",
+          "url": "http://biblioteca.uea.edu.br/biblioteca/index.php"
+        },
+        "categoria": "LIVRO"
+      },
+      {
+        "autor": "Machado, Felipe Nery Rodrigues",
+        "titulo": "Projeto de banco de dados : uma visão prática",
+        "assunto": "banco de dados",
+        "ano": 2008,
+        "biblioteca": {
+          "nome": "BS- B ACRE - Setorial Boca do Acre",
+          "instituicao": "UEA",
+          "endereco": "R. Bloco Um e Três, 4-40 - Platô do Piquiá, Boca do Acre - AM, 69850-000",
+          "url": "http://biblioteca.uea.edu.br/biblioteca/index.php"
+        },
+        "categoria": "LIVRO"
+      },
+      {
+        "autor": "Silberschatz, Abraham",
+        "titulo": "Sistema de banco de dados",
+        "assunto": "banco de dados",
+        "ano": 2006,
+        "biblioteca": {
+          "nome": "BS- B ACRE - Setorial Boca do Acre",
+          "instituicao": "UEA",
+          "endereco": "R. Bloco Um e Três, 4-40 - Platô do Piquiá, Boca do Acre - AM, 69850-000",
+          "url": "http://biblioteca.uea.edu.br/biblioteca/index.php"
+        },
+        "categoria": "LIVRO"
+      },
+      {
+        "autor": "Elmasri, Ramez",
+        "titulo": "Sistemas de banco de dados",
+        "assunto": "banco de dados",
+        "ano": 2005,
+        "biblioteca": {
+          "nome": "BS- B ACRE - Setorial Boca do Acre",
+          "instituicao": "UEA",
+          "endereco": "R. Bloco Um e Três, 4-40 - Platô do Piquiá, Boca do Acre - AM, 69850-000",
+          "url": "http://biblioteca.uea.edu.br/biblioteca/index.php"
+        },
+        "categoria": "LIVRO"
+      },
+      {
+        "autor": "Wazlawick, Raul S.",
+        "titulo": "Análise e projeto de sistemas de informação orientados a objetos",
+        "assunto": "banco de dados",
+        "ano": 2011,
+        "biblioteca": {
+          "nome": "BST - Setorial de Tecnologia",
+          "instituicao": "UEA",
+          "endereco": "Av. Darcy Vargas, 1.200 - Parque Dez de Novembro, Manaus - AM, 69050-020",
+          "url": "http://biblioteca.uea.edu.br/biblioteca/index.php"
+        },
+        "categoria": "LIVRO"
+      },
+      {
+        "autor": "Setzer, Valdemar W.",
+        "titulo": "Banco de dados : aprenda o que são, melhore seu conhecimento, construa os seus",
+        "assunto": "banco de dados",
+        "ano": 2005,
+        "biblioteca": {
+          "nome": "BST - Setorial de Tecnologia",
+          "instituicao": "UEA",
+          "endereco": "Av. Darcy Vargas, 1.200 - Parque Dez de Novembro, Manaus - AM, 69050-020",
+          "url": "http://biblioteca.uea.edu.br/biblioteca/index.php"
+        },
+        "categoria": "LIVRO"
+      },
+      {
+        "autor": "Setzer, Valdemar W.",
+        "titulo": "Bancos de dados orientados a objetos",
+        "assunto": "banco de dados",
+        "ano": 1995,
+        "biblioteca": {
+          "nome": "BST - Setorial de Tecnologia",
+          "instituicao": "UEA",
+          "endereco": "Av. Darcy Vargas, 1.200 - Parque Dez de Novembro, Manaus - AM, 69050-020",
+          "url": "http://biblioteca.uea.edu.br/biblioteca/index.php"
+        },
+        "categoria": "LIVRO"
+      },
+      {
+        "autor": "Elmasri, Ramez",
+        "titulo": "Fundamentals of database systems",
+        "assunto": "banco de dados",
+        "ano": 2004,
+        "biblioteca": {
+          "nome": "BST - Setorial de Tecnologia",
+          "instituicao": "UEA",
+          "endereco": "Av. Darcy Vargas, 1.200 - Parque Dez de Novembro, Manaus - AM, 69050-020",
+          "url": "http://biblioteca.uea.edu.br/biblioteca/index.php"
+        },
+        "categoria": "LIVRO"
+      },
+      {
+        "autor": "Barbieri, José Carlos",
+        "titulo": "Modelagem e administração de dados",
+        "assunto": "banco de dados",
+        "ano": 1994,
+        "biblioteca": {
+          "nome": "BST - Setorial de Tecnologia",
+          "instituicao": "UEA",
+          "endereco": "Av. Darcy Vargas, 1.200 - Parque Dez de Novembro, Manaus - AM, 69050-020",
+          "url": "http://biblioteca.uea.edu.br/biblioteca/index.php"
+        },
+        "categoria": "LIVRO"
+      },
+      {
+        "autor": "Welling, Luke",
+        "titulo": "MySQL tutorial",
+        "assunto": "banco de dados",
+        "ano": 2004,
+        "biblioteca": {
+          "nome": "BST - Setorial de Tecnologia",
+          "instituicao": "UEA",
+          "endereco": "Av. Darcy Vargas, 1.200 - Parque Dez de Novembro, Manaus - AM, 69050-020",
+          "url": "http://biblioteca.uea.edu.br/biblioteca/index.php"
+        },
+        "categoria": "LIVRO"
+      },
+      {
+        "autor": "Heuser, Carlos Alberto",
+        "titulo": "Projeto de banco de dados",
+        "assunto": "banco de dados",
+        "ano": 2009,
+        "biblioteca": {
+          "nome": "BST - Setorial de Tecnologia",
+          "instituicao": "UEA",
+          "endereco": "Av. Darcy Vargas, 1.200 - Parque Dez de Novembro, Manaus - AM, 69050-020",
+          "url": "http://biblioteca.uea.edu.br/biblioteca/index.php"
+        },
+        "categoria": "LIVRO"
+      },
+      {
+        "autor": "Abreu, Maurício Pereira de",
+        "titulo": "Projeto de banco de dados : uma visão prática",
+        "assunto": "banco de dados",
+        "ano": 2009,
+        "biblioteca": {
+          "nome": "BST - Setorial de Tecnologia",
+          "instituicao": "UEA",
+          "endereco": "Av. Darcy Vargas, 1.200 - Parque Dez de Novembro, Manaus - AM, 69050-020",
+          "url": "http://biblioteca.uea.edu.br/biblioteca/index.php"
+        },
+        "categoria": "LIVRO"
+      },
+      {
+        "autor": "Reis, Adilson dos",
+        "titulo": "Automação da editoração de cartas topográficas em banco de dados geográfico orientado a objetos Gothic com o esquema da ET-EDGV 2.0",
+        "assunto": "banco de dados",
+        "ano": 2009,
+        "biblioteca": {
+          "nome": "BST - Setorial de Tecnologia",
+          "instituicao": "UEA",
+          "endereco": "Av. Darcy Vargas, 1.200 - Parque Dez de Novembro, Manaus - AM, 69050-020",
+          "url": "http://biblioteca.uea.edu.br/biblioteca/index.php"
+        },
+        "categoria": "PRODUCAO_ACADEMICA"
+      },
+      {
+        "autor": "Queiroz, Renato Mauro Solart",
+        "titulo": "Desenvolvimento de aplicações textuais com banco de dados XML nativo",
+        "assunto": "banco de dados",
+        "ano": 2010,
+        "biblioteca": {
+          "nome": "BST - Setorial de Tecnologia",
+          "instituicao": "UEA",
+          "endereco": "Av. Darcy Vargas, 1.200 - Parque Dez de Novembro, Manaus - AM, 69050-020",
+          "url": "http://biblioteca.uea.edu.br/biblioteca/index.php"
+        },
+        "categoria": "PRODUCAO_ACADEMICA"
+      },
+      {
+        "autor": "Coutinho, Roberto de Oliveira",
+        "titulo": "Desenvolvimento de uma ferramenta de controle de versão de objetos para Banco de Dados",
+        "assunto": "banco de dados",
+        "ano": 2013,
+        "biblioteca": {
+          "nome": "BST - Setorial de Tecnologia",
+          "instituicao": "UEA",
+          "endereco": "Av. Darcy Vargas, 1.200 - Parque Dez de Novembro, Manaus - AM, 69050-020",
+          "url": "http://biblioteca.uea.edu.br/biblioteca/index.php"
+        },
+        "categoria": "PRODUCAO_ACADEMICA"
+      },
+      {
+        "autor": "Azevedo, Eliza Maria Santoro Franco",
+        "titulo": "Protótipo da base de dados de crustáceos baseado no modelo de dados Closi",
+        "assunto": "banco de dados",
+        "ano": 2005,
+        "biblioteca": {
+          "nome": "BST - Setorial de Tecnologia",
+          "instituicao": "UEA",
+          "endereco": "Av. Darcy Vargas, 1.200 - Parque Dez de Novembro, Manaus - AM, 69050-020",
+          "url": "http://biblioteca.uea.edu.br/biblioteca/index.php"
+        },
+        "categoria": "PRODUCAO_ACADEMICA"
+      },
+      {
+        "autor": "Dezincourt, Ronald Cavalcante",
+        "titulo": "Relatório da prática de experiência profissional em análise e desenvolvimento de sistema em banco de dados",
+        "assunto": "banco de dados",
+        "ano": 2010,
+        "biblioteca": {
+          "nome": "BSMANICORÉ - Setorial de Manicoré",
+          "instituicao": "UEA",
+          "endereco": "Est Rio Atininga, 200 | Manicore - AM, CEP: 69280-000",
+          "url": "http://biblioteca.uea.edu.br/biblioteca/index.php"
+        },
+        "categoria": "PRODUCAO_ACADEMICA"
+      },
+      {
+        "autor": "Passos, Dassyanne de Freitas",
+        "titulo": "Relatório da prática de experiência profissional em análise e desenvolvimento de sistema na área de atuação de sistema e banco de dados (inserção)",
+        "assunto": "banco de dados",
+        "ano": 2010,
+        "biblioteca": {
+          "nome": "BSMANICORÉ - Setorial de Manicoré",
+          "instituicao": "UEA",
+          "endereco": "Est Rio Atininga, 200 | Manicore - AM, CEP: 69280-000",
+          "url": "http://biblioteca.uea.edu.br/biblioteca/index.php"
+        },
+        "categoria": "PRODUCAO_ACADEMICA"
+      },
+      {
+        "autor": "Pinto, Daynara Campos",
+        "titulo": "Relatório da prática de experiência profissional em análise e desenvolvimento de sistemas na área de atuação de sistemas e banco de dados (inserção)",
+        "assunto": "banco de dados",
+        "ano": 2010,
+        "biblioteca": {
+          "nome": "BSMANICORÉ - Setorial de Manicoré",
+          "instituicao": "UEA",
+          "endereco": "Est Rio Atininga, 200 | Manicore - AM, CEP: 69280-000",
+          "url": "http://biblioteca.uea.edu.br/biblioteca/index.php"
+        },
+        "categoria": "PRODUCAO_ACADEMICA"
+      },
+      {
+        "autor": "Passos, Alcilândia Conceição",
+        "titulo": "Relatório da prática de experiência profissional em tecnologia em análise e desenvolvimento de sistema na área de atuação de sistema e banco de dados",
+        "assunto": "banco de dados",
+        "ano": 2010,
+        "biblioteca": {
+          "nome": "BSMANICORÉ - Setorial de Manicoré",
+          "instituicao": "UEA",
+          "endereco": "Est Rio Atininga, 200 | Manicore - AM, CEP: 69280-000",
+          "url": "http://biblioteca.uea.edu.br/biblioteca/index.php"
+        },
+        "categoria": "PRODUCAO_ACADEMICA"
+      },
+      {
+        "autor": "Marques, Aline Ramos",
+        "titulo": "Relatório da prática de experiência profissional em tecnologia em análise e desenvolvimento de sistemas na área de atuação de sistema e banco de dados (inserção)",
+        "assunto": "banco de dados",
+        "ano": 2010,
+        "biblioteca": {
+          "nome": "BSMANICORÉ - Setorial de Manicoré",
+          "instituicao": "UEA",
+          "endereco": "Est Rio Atininga, 200 | Manicore - AM, CEP: 69280-000",
+          "url": "http://biblioteca.uea.edu.br/biblioteca/index.php"
+        },
+        "categoria": "PRODUCAO_ACADEMICA"
+      },
+      {
+        "autor": "Silva, Helinety Santos da",
+        "titulo": "Relatório da prática de experiência profissional em bancos de dados : inserção de dados no sitema cadastro único do Programa Bolsa Família e proposta de melhorias de usabilidade do sistema cadúnico",
+        "assunto": "banco de dados",
+        "ano": 2010,
+        "biblioteca": {
+          "nome": "BSCOARI - Setorial de Coari",
+          "instituicao": "UEA",
+          "endereco": "R. C, 2-100 - Urucu, Coari - AM, 69460-000",
+          "url": "http://biblioteca.uea.edu.br/biblioteca/index.php"
+        },
+        "categoria": "PRODUCAO_ACADEMICA"
+      },
+      {
+        "autor": "Martins, Marcio Willian",
+        "titulo": "Relatório da prática de experiência profissional em banco de dados, manutenção em hardware, software e rede de computadores",
+        "assunto": "banco de dados",
+        "ano": 2010,
+        "biblioteca": {
+          "nome": "BSMAUES - Setorial de Maués",
+          "instituicao": "UEA",
+          "endereco": "Santa Luzia, Maués - AM, 69190-000",
+          "url": "http://biblioteca.uea.edu.br/biblioteca/index.php"
+        },
+        "categoria": "PRODUCAO_ACADEMICA"
+      },
+      {
+        "autor": "Souza, Antônio Onério Rodrigues de",
+        "titulo": "Relatório da prática de experiência profissional em inserção de dados em banco de dados, manutenção de hardware e rede de computadores para melhorias",
+        "assunto": "banco de dados",
+        "ano": 2010,
+        "biblioteca": {
+          "nome": "BSMAUES - Setorial de Maués",
+          "instituicao": "UEA",
+          "endereco": "Santa Luzia, Maués - AM, 69190-000",
+          "url": "http://biblioteca.uea.edu.br/biblioteca/index.php"
+        },
+        "categoria": "PRODUCAO_ACADEMICA"
+      },
+      {
+        "autor": "Dinelli, Elizabeth Maria Yamane",
+        "titulo": "Relatório da prática de experiência profissional em inserção de dados em banco de dados, manutenção de hardware, análise de requisitos e modelagem do sistema Sicater para melhorias",
+        "assunto": "banco de dados",
+        "ano": 2010,
+        "biblioteca": {
+          "nome": "BSMAUES - Setorial de Maués",
+          "instituicao": "UEA",
+          "endereco": "Santa Luzia, Maués - AM, 69190-000",
+          "url": "http://biblioteca.uea.edu.br/biblioteca/index.php"
+        },
+        "categoria": "PRODUCAO_ACADEMICA"
+      },
+      {
+        "autor": "Leão, Ariel Oliveira",
+        "titulo": "Relatório da prática de experiência profissional em inserção de dados em banco de dados, manutenção de hardware, análise de requisitos e modelagem do sistema para melhorias do Sigeam (Sistema de Gerenciamento Escolar do Amazonas)",
+        "assunto": "banco de dados",
+        "ano": 2010,
+        "biblioteca": {
+          "nome": "BSMAUES - Setorial de Maués",
+          "instituicao": "UEA",
+          "endereco": "Santa Luzia, Maués - AM, 69190-000",
+          "url": "http://biblioteca.uea.edu.br/biblioteca/index.php"
+        },
+        "categoria": "PRODUCAO_ACADEMICA"
+      },
+      {
+        "autor": "Neo, Daiana Rodrigues",
+        "titulo": "Relatório da prática de experiência profissional em inserção de dados em banco de dados, manutenção de hardware, mudança de interface (Sicater)",
+        "assunto": "banco de dados",
+        "ano": 2010,
+        "biblioteca": {
+          "nome": "BSMAUES - Setorial de Maués",
+          "instituicao": "UEA",
+          "endereco": "Santa Luzia, Maués - AM, 69190-000",
+          "url": "http://biblioteca.uea.edu.br/biblioteca/index.php"
+        },
+        "categoria": "PRODUCAO_ACADEMICA"
+      },
+      {
+        "autor": "Pantoja, Reginaldo de Matos",
+        "titulo": "Relatório da prática de experiência profissional em manutenção de hardware, software, apoio ao sistema de folha de pagamento, publicação no diário eletrônico dos municípios",
+        "assunto": "banco de dados",
+        "ano": 2010,
+        "biblioteca": {
+          "nome": "BSMAUES - Setorial de Maués",
+          "instituicao": "UEA",
+          "endereco": "Santa Luzia, Maués - AM, 69190-000",
+          "url": "http://biblioteca.uea.edu.br/biblioteca/index.php"
+        },
+        "categoria": "PRODUCAO_ACADEMICA"
+      },
+      {
+        "autor": "Camurça, Ronnivon Paz",
+        "titulo": "Relatório da prática de experiência profissional em inclusão de dados nos sistemas: cadunico605w, projeto presença, sibec-tcu e projeto do sistema de agendamento",
+        "assunto": "banco de dados",
+        "ano": 2010,
+        "biblioteca": {
+          "nome": "BSLÁBREA - Setorial de Lábrea",
+          "instituicao": "UEA",
+          "endereco": "R. Cel. Luís Gomes - Centro, Lábrea - AM, 69830-000",
+          "url": "http://biblioteca.uea.edu.br/biblioteca/index.php"
+        },
+        "categoria": "PRODUCAO_ACADEMICA"
+      },
+      {
+        "autor": "Nazaré, Dalvina Cardoso",
+        "titulo": "Relatório da prática de experiência profissional em manutenção em inserção de dados no sistema de urgência e emergência do laboratório de análise clínica da Unidade Mista de Saúde de Manacapuru",
+        "assunto": "banco de dados",
+        "ano": 2010,
+        "biblioteca": {
+          "nome": "BSMANACAP - Setorial de Manacapuru",
+          "instituicao": "UEA",
+          "endereco": "R. Raimundo Pecheco Teles, 625 - Aparecida, Manacapuru - AM, 69400-000",
+          "url": "http://biblioteca.uea.edu.br/biblioteca/index.php"
+        },
+        "categoria": "PRODUCAO_ACADEMICA"
+      },
+      {
+        "autor": "Gomes, Erick dos Santos",
+        "titulo": "Relatório da prática de experiência profissional em inserção de dados e proposta de melhorias no sistema HOSPUB",
+        "assunto": "banco de dados",
+        "ano": 2010,
+        "biblioteca": {
+          "nome": "BSPF - Setorial de Presidente Figueiredo",
+          "instituicao": "UEA",
+          "endereco": "Av. da Onça-Pintada - Maruaga, Pres. Figueiredo - AM, 69735-000",
+          "url": "http://biblioteca.uea.edu.br/biblioteca/index.php"
+        },
+        "categoria": "PRODUCAO_ACADEMICA"
+      },
+      {
+        "autor": "Gomes, Erick dos Santos",
+        "titulo": "Relatório da prática de experiência profissional em inserção de dados e proposta de melhorias no sistema HOSPUB",
+        "assunto": "banco de dados",
+        "ano": 2010,
+        "biblioteca": {
+          "nome": "BSPF - Setorial de Presidente Figueiredo",
+          "instituicao": "UEA",
+          "endereco": "Av. da Onça-Pintada - Maruaga, Pres. Figueiredo - AM, 69735-000",
+          "url": "http://biblioteca.uea.edu.br/biblioteca/index.php"
+        },
+        "categoria": "PRODUCAO_ACADEMICA"
+      },
+      {
+        "autor": "Shlaer, Sally",
+        "titulo": "Análise de sistemas orientada para objetos",
+        "assunto": "análise de sistemas",
+        "ano": 1990,
+        "biblioteca": {
+          "nome": "BST - Setorial de Tecnologia",
+          "instituicao": "UEA",
+          "endereco": "Av. Darcy Vargas, 1.200 - Parque Dez de Novembro, Manaus - AM, 69050-020",
+          "url": "http://biblioteca.uea.edu.br/biblioteca/index.php"
+        },
+        "categoria": "LIVRO"
+      },
+      {
+        "autor": "Wazlawick, Raul S.",
+        "titulo": "Análise e projeto de sistemas de informação orientados a objetos",
+        "assunto": "análise de sistemas",
+        "ano": 2011,
+        "biblioteca": {
+          "nome": "BST - Setorial de Tecnologia",
+          "instituicao": "UEA",
+          "endereco": "Av. Darcy Vargas, 1.200 - Parque Dez de Novembro, Manaus - AM, 69050-020",
+          "url": "http://biblioteca.uea.edu.br/biblioteca/index.php"
+        },
+        "categoria": "LIVRO"
+      },
+      {
+        "autor": "Martin, James",
+        "titulo": "Análise e projeto orientados a objeto",
+        "assunto": "análise de sistemas",
+        "ano": 1996,
+        "biblioteca": {
+          "nome": "BST - Setorial de Tecnologia",
+          "instituicao": "UEA",
+          "endereco": "Av. Darcy Vargas, 1.200 - Parque Dez de Novembro, Manaus - AM, 69050-020",
+          "url": "http://biblioteca.uea.edu.br/biblioteca/index.php"
+        },
+        "categoria": "LIVRO"
+      },
+      {
+        "autor": "McMenamin, Stephen M.",
+        "titulo": "Análise essencial de sistemas",
+        "assunto": "análise de sistemas",
+        "ano": 1991,
+        "biblioteca": {
+          "nome": "BST - Setorial de Tecnologia",
+          "instituicao": "UEA",
+          "endereco": "Av. Darcy Vargas, 1.200 - Parque Dez de Novembro, Manaus - AM, 69050-020",
+          "url": "http://biblioteca.uea.edu.br/biblioteca/index.php"
+        },
+        "categoria": "LIVRO"
+      },
+      {
+        "autor": "Gane, Chris",
+        "titulo": "Análise estruturada de sistemas",
+        "assunto": "análise de sistemas",
+        "ano": 1983,
+        "biblioteca": {
+          "nome": "BST - Setorial de Tecnologia",
+          "instituicao": "UEA",
+          "endereco": "Av. Darcy Vargas, 1.200 - Parque Dez de Novembro, Manaus - AM, 69050-020",
+          "url": "http://biblioteca.uea.edu.br/biblioteca/index.php"
+        },
+        "categoria": "LIVRO"
+      },
+      {
+        "autor": "Yourdon, Edward",
+        "titulo": "Análise estruturada moderna",
+        "assunto": "análise de sistemas",
+        "ano": 1990,
+        "biblioteca": {
+          "nome": "BST - Setorial de Tecnologia",
+          "instituicao": "UEA",
+          "endereco": "Av. Darcy Vargas, 1.200 - Parque Dez de Novembro, Manaus - AM, 69050-020",
+          "url": "http://biblioteca.uea.edu.br/biblioteca/index.php"
+        },
+        "categoria": "LIVRO"
+      },
+      {
+        "autor": "Geromel, José C.",
+        "titulo": "Análise linear de sistemas dinâmicos : teoria, ensaios práticos e exercícios",
+        "assunto": "análise de sistemas",
+        "ano": 2011,
+        "biblioteca": {
+          "nome": "BST - Setorial de Tecnologia",
+          "instituicao": "UEA",
+          "endereco": "Av. Darcy Vargas, 1.200 - Parque Dez de Novembro, Manaus - AM, 69050-020",
+          "url": "http://biblioteca.uea.edu.br/biblioteca/index.php"
+        },
+        "categoria": "LIVRO"
+      },
+      {
+        "autor": "Larman, Craig",
+        "titulo": "Applying UML and patterns : an introduction to object-oriented analysis and design and iterative development",
+        "assunto": "análise de sistemas",
+        "ano": 2004,
+        "biblioteca": {
+          "nome": "BST - Setorial de Tecnologia",
+          "instituicao": "UEA",
+          "endereco": "Av. Darcy Vargas, 1.200 - Parque Dez de Novembro, Manaus - AM, 69050-020",
+          "url": "http://biblioteca.uea.edu.br/biblioteca/index.php"
+        },
+        "categoria": "LIVRO"
+      },
+      {
+        "autor": "Roberts, Michael J.",
+        "titulo": "Fundamentos em sinais e sistemas",
+        "assunto": "análise de sistemas",
+        "ano": 2009,
+        "biblioteca": {
+          "nome": "BST - Setorial de Tecnologia",
+          "instituicao": "UEA",
+          "endereco": "Av. Darcy Vargas, 1.200 - Parque Dez de Novembro, Manaus - AM, 69050-020",
+          "url": "http://biblioteca.uea.edu.br/biblioteca/index.php"
+        },
+        "categoria": "LIVRO"
+      },
+      {
+        "autor": "Martin, James",
+        "titulo": "Princípios de análise e projeto baseados em objetos",
+        "assunto": "análise de sistemas",
+        "ano": 1994,
+        "biblioteca": {
+          "nome": "BST - Setorial de Tecnologia",
+          "instituicao": "UEA",
+          "endereco": "Av. Darcy Vargas, 1.200 - Parque Dez de Novembro, Manaus - AM, 69050-020",
+          "url": "http://biblioteca.uea.edu.br/biblioteca/index.php"
+        },
+        "categoria": "LIVRO"
+      },
+      {
+        "autor": "Haykin, Simon S.",
+        "titulo": "Sinais e sistemas",
+        "assunto": "análise de sistemas",
+        "ano": 2001,
+        "biblioteca": {
+          "nome": "BST - Setorial de Tecnologia",
+          "instituicao": "UEA",
+          "endereco": "Av. Darcy Vargas, 1.200 - Parque Dez de Novembro, Manaus - AM, 69050-020",
+          "url": "http://biblioteca.uea.edu.br/biblioteca/index.php"
+        },
+        "categoria": "LIVRO"
+      },
+      {
+        "autor": "Monteiro, Luiz Henrique Alves",
+        "titulo": "Sistemas dinâmicos complexos",
+        "assunto": "análise de sistemas",
+        "ano": 2014,
+        "biblioteca": {
+          "nome": "BST - Setorial de Tecnologia",
+          "instituicao": "UEA",
+          "endereco": "Av. Darcy Vargas, 1.200 - Parque Dez de Novembro, Manaus - AM, 69050-020",
+          "url": "http://biblioteca.uea.edu.br/biblioteca/index.php"
+        },
+        "categoria": "LIVRO"
+      },
+      {
+        "autor": "Larman, Craig",
+        "titulo": "Utilizando UML e padrões : uma introdução à análise e ao projeto orientados a objetos e ao desenvolvimento iterativo",
+        "assunto": "análise de sistemas",
+        "ano": 2007,
+        "biblioteca": {
+          "nome": "BST - Setorial de Tecnologia",
+          "instituicao": "UEA",
+          "endereco": "Av. Darcy Vargas, 1.200 - Parque Dez de Novembro, Manaus - AM, 69050-020",
+          "url": "http://biblioteca.uea.edu.br/biblioteca/index.php"
+        },
+        "categoria": "LIVRO"
+      },
+      {
+        "autor": "Larman, Craig",
+        "titulo": "Utilizando UML e padrões : uma introdução à análise e ao projeto orientados a objetos e ao processo unificado",
+        "assunto": "análise de sistemas",
+        "ano": 2004,
+        "biblioteca": {
+          "nome": "BST - Setorial de Tecnologia",
+          "instituicao": "UEA",
+          "endereco": "Av. Darcy Vargas, 1.200 - Parque Dez de Novembro, Manaus - AM, 69050-020",
+          "url": "http://biblioteca.uea.edu.br/biblioteca/index.php"
+        },
+        "categoria": "LIVRO"
+      },
+      {
+        "autor": "Larman, Craig",
+        "titulo": "Utilizando UML e padrões : uma introdução à análise e ao projeto orientados a objetos e ao processo unificado",
+        "assunto": "análise de sistemas",
+        "ano": 2007,
+        "biblioteca": {
+          "nome": "BST - Setorial de Tecnologia",
+          "instituicao": "UEA",
+          "endereco": "Av. Darcy Vargas, 1.200 - Parque Dez de Novembro, Manaus - AM, 69050-020",
+          "url": "http://biblioteca.uea.edu.br/biblioteca/index.php"
+        },
+        "categoria": "LIVRO"
+      },
+      {
+        "autor": "Wazlawick, Raul S.",
+        "titulo": "Análise e projeto de sistemas de informação orientados a objetos",
+        "assunto": "análise de sistemas",
+        "ano": 2004,
+        "biblioteca": {
+          "nome": "BS EIRUNEPÉ - Setorial de Eirunepé",
+          "instituicao": "UEA",
+          "endereco": "Estr. Er-2 Colégio Aquaricaral, 414-1070 - São José, Eirunepé - AM, 69880-000",
+          "url": "http://biblioteca.uea.edu.br/biblioteca/index.php"
+        },
+        "categoria": "LIVRO"
+      },
+      {
+        "autor": "Larman, Craig",
+        "titulo": "Utilizando UML e padrões : uma introdução à análise e ao projeto orientados a objetos e ao processo unificado",
+        "assunto": "análise de sistemas",
+        "ano": 2007,
+        "biblioteca": {
+          "nome": "BS EIRUNEPÉ - Setorial de Eirunepé",
+          "instituicao": "UEA",
+          "endereco": "Estr. Er-2 Colégio Aquaricaral, 414-1070 - São José, Eirunepé - AM, 69880-000",
+          "url": "http://biblioteca.uea.edu.br/biblioteca/index.php"
+        },
+        "categoria": "LIVRO"
+      },
+      {
+        "autor": "Wazlawick, Raul S.",
+        "titulo": "Análise e projeto de sistemas de informação orientados a objetos",
+        "assunto": "análise de sistemas",
+        "ano": 2004,
+        "biblioteca": {
+          "nome": "BSCOARI - Setorial de Coari",
+          "instituicao": "UEA",
+          "endereco": "R. C, 2-100 - Urucu, Coari - AM, 69460-000",
+          "url": "http://biblioteca.uea.edu.br/biblioteca/index.php"
+        },
+        "categoria": "LIVRO"
+      },
+      {
+        "autor": "Larman, Craig",
+        "titulo": "Utilizando UML e padrões : uma introdução à análise e ao projeto orientados a objetos e ao processo unificado",
+        "assunto": "análise de sistemas",
+        "ano": 2007,
+        "biblioteca": {
+          "nome": "BSCOARI - Setorial de Coari",
+          "instituicao": "UEA",
+          "endereco": "R. C, 2-100 - Urucu, Coari - AM, 69460-000",
+          "url": "http://biblioteca.uea.edu.br/biblioteca/index.php"
+        },
+        "categoria": "LIVRO"
+      },
+      {
+        "autor": "Wazlawick, Raul S.",
+        "titulo": "Análise e projeto de sistemas de informação orientados a objetos",
+        "assunto": "análise de sistemas",
+        "ano": 2004,
+        "biblioteca": {
+          "nome": "BSPF - Setorial de Presidente Figueiredo",
+          "instituicao": "UEA",
+          "endereco": "Av. da Onça-Pintada - Maruaga, Pres. Figueiredo - AM, 69735-000",
+          "url": "http://biblioteca.uea.edu.br/biblioteca/index.php"
+        },
+        "categoria": "LIVRO"
+      },
+      {
+        "autor": "Larman, Craig",
+        "titulo": "Utilizando UML e padrões : uma introdução à análise e ao projeto orientados a objetos e ao processo unificado",
+        "assunto": "análise de sistemas",
+        "ano": 2007,
+        "biblioteca": {
+          "nome": "BSPF - Setorial de Presidente Figueiredo",
+          "instituicao": "UEA",
+          "endereco": "Av. da Onça-Pintada - Maruaga, Pres. Figueiredo - AM, 69735-000",
+          "url": "http://biblioteca.uea.edu.br/biblioteca/index.php"
+        },
+        "categoria": "LIVRO"
+      },
+      {
+        "autor": "Wazlawick, Raul S.",
+        "titulo": "Análise e projeto de sistemas de informação orientados a objetos",
+        "assunto": "análise de sistemas",
+        "ano": 2004,
+        "biblioteca": {
+          "nome": "BSMANACAP - Setorial de Manacapuru",
+          "instituicao": "UEA",
+          "endereco": "R. Raimundo Pecheco Teles, 625 - Aparecida, Manacapuru - AM, 69400-000",
+          "url": "http://biblioteca.uea.edu.br/biblioteca/index.php"
+        },
+        "categoria": "LIVRO"
+      },
+      {
+        "autor": "Larman, Craig",
+        "titulo": "Utilizando UML e padrões : uma introdução à análise e ao projeto orientados a objetos e ao processo unificado",
+        "assunto": "análise de sistemas",
+        "ano": 2007,
+        "biblioteca": {
+          "nome": "BSMANACAP - Setorial de Manacapuru",
+          "instituicao": "UEA",
+          "endereco": "R. Raimundo Pecheco Teles, 625 - Aparecida, Manacapuru - AM, 69400-000",
+          "url": "http://biblioteca.uea.edu.br/biblioteca/index.php"
+        },
+        "categoria": "LIVRO"
+      },
+      {
+        "autor": "Wazlawick, Raul S.",
+        "titulo": "Análise e projeto de sistemas de informação orientados a objetos",
+        "assunto": "análise de sistemas",
+        "ano": 2004,
+        "biblioteca": {
+          "nome": "BSHUMAITA- Setorial de Humaitá",
+          "instituicao": "UEA",
+          "endereco": "São Pedro, Humaitá - AM, 69800-000",
+          "url": "http://biblioteca.uea.edu.br/biblioteca/index.php"
+        },
+        "categoria": "LIVRO"
+      },
+      {
+        "autor": "Larman, Craig",
+        "titulo": "Utilizando UML e padrões : uma introdução à análise e ao projeto orientados a objetos e ao processo unificado",
+        "assunto": "análise de sistemas",
+        "ano": 2007,
+        "biblioteca": {
+          "nome": "BSHUMAITA- Setorial de Humaitá",
+          "instituicao": "UEA",
+          "endereco": "São Pedro, Humaitá - AM, 69800-000",
+          "url": "http://biblioteca.uea.edu.br/biblioteca/index.php"
+        },
+        "categoria": "LIVRO"
+      },
+      {
+        "autor": "Stallings, William",
+        "titulo": "Arquitetura e organização de computadores",
+        "assunto": "análise de sistemas",
+        "ano": 2010,
+        "biblioteca": {
+          "nome": "BST - Setorial de Tecnologia",
+          "instituicao": "UEA",
+          "endereco": "Av. Darcy Vargas, 1.200 - Parque Dez de Novembro, Manaus - AM, 69050-020",
+          "url": "http://biblioteca.uea.edu.br/biblioteca/index.php"
+        },
+        "categoria": "LIVRO"
+      },
+      {
+        "autor": "Stallings, William",
+        "titulo": "Arquitetura e organização de computadores : projeto para o desempenho",
+        "assunto": "análise de sistemas",
+        "ano": 2002,
+        "biblioteca": {
+          "nome": "BST - Setorial de Tecnologia",
+          "instituicao": "UEA",
+          "endereco": "Av. Darcy Vargas, 1.200 - Parque Dez de Novembro, Manaus - AM, 69050-020",
+          "url": "http://biblioteca.uea.edu.br/biblioteca/index.php"
+        },
+        "categoria": "LIVRO"
+      },
+      {
+        "autor": "Gomaa, Hassan",
+        "titulo": "Designing software product lines with UML : from use cases to pattern-based software architectures",
+        "assunto": "análise de sistemas",
+        "ano": 2005,
+        "biblioteca": {
+          "nome": "BST - Setorial de Tecnologia",
+          "instituicao": "UEA",
+          "endereco": "Av. Darcy Vargas, 1.200 - Parque Dez de Novembro, Manaus - AM, 69050-020",
+          "url": "http://biblioteca.uea.edu.br/biblioteca/index.php"
+        },
+        "categoria": "LIVRO"
+      },
+      {
+        "autor": "Paula Filho, Wilson de Pádua",
+        "titulo": "Engenharia de software : fundamentos, métodos e padrões",
+        "assunto": "análise de sistemas",
+        "ano": 2001,
+        "biblioteca": {
+          "nome": "BST - Setorial de Tecnologia",
+          "instituicao": "UEA",
+          "endereco": "Av. Darcy Vargas, 1.200 - Parque Dez de Novembro, Manaus - AM, 69050-020",
+          "url": "http://biblioteca.uea.edu.br/biblioteca/index.php"
+        },
+        "categoria": "LIVRO"
+      },
+      {
+        "autor": "Schach, Stephen R.",
+        "titulo": "Engenharia de software : os paradigmas clássico & orientado a objetos",
+        "assunto": "análise de sistemas",
+        "ano": 2008,
+        "biblioteca": {
+          "nome": "BST - Setorial de Tecnologia",
+          "instituicao": "UEA",
+          "endereco": "Av. Darcy Vargas, 1.200 - Parque Dez de Novembro, Manaus - AM, 69050-020",
+          "url": "http://biblioteca.uea.edu.br/biblioteca/index.php"
+        },
+        "categoria": "LIVRO"
+      },
+      {
+        "autor": "Pressman, Roger S.",
+        "titulo": "Engenharia de software",
+        "assunto": "análise de sistemas",
+        "ano": 2002,
+        "biblioteca": {
+          "nome": "BST - Setorial de Tecnologia",
+          "instituicao": "UEA",
+          "endereco": "Av. Darcy Vargas, 1.200 - Parque Dez de Novembro, Manaus - AM, 69050-020",
+          "url": "http://biblioteca.uea.edu.br/biblioteca/index.php"
+        },
+        "categoria": "LIVRO"
+      },
+      {
+        "autor": "Sommerville, Ian",
+        "titulo": "Engenharia de software",
+        "assunto": "análise de sistemas",
+        "ano": 2007,
+        "biblioteca": {
+          "nome": "BST - Setorial de Tecnologia",
+          "instituicao": "UEA",
+          "endereco": "Av. Darcy Vargas, 1.200 - Parque Dez de Novembro, Manaus - AM, 69050-020",
+          "url": "http://biblioteca.uea.edu.br/biblioteca/index.php"
+        },
+        "categoria": "LIVRO"
+      },
+      {
+        "autor": "Maffeo, Bruno",
+        "titulo": "Engenharia de software e especificação de sistemas",
+        "assunto": "análise de sistemas",
+        "ano": 1992,
+        "biblioteca": {
+          "nome": "BST - Setorial de Tecnologia",
+          "instituicao": "UEA",
+          "endereco": "Av. Darcy Vargas, 1.200 - Parque Dez de Novembro, Manaus - AM, 69050-020",
+          "url": "http://biblioteca.uea.edu.br/biblioteca/index.php"
+        },
+        "categoria": "LIVRO"
+      },
+      {
+        "autor": "Ghezzi, Carlo",
+        "titulo": "Fundamentals of software engineering",
+        "assunto": "análise de sistemas",
+        "ano": 2003,
+        "biblioteca": {
+          "nome": "BST - Setorial de Tecnologia",
+          "instituicao": "UEA",
+          "endereco": "Av. Darcy Vargas, 1.200 - Parque Dez de Novembro, Manaus - AM, 69050-020",
+          "url": "http://biblioteca.uea.edu.br/biblioteca/index.php"
+        },
+        "categoria": "LIVRO"
+      },
+      {
+        "autor": "Rumbaugh, James",
+        "titulo": "Modelagem e projetos baseados em objetos",
+        "assunto": "análise de sistemas",
+        "ano": 1994,
+        "biblioteca": {
+          "nome": "BST - Setorial de Tecnologia",
+          "instituicao": "UEA",
+          "endereco": "Av. Darcy Vargas, 1.200 - Parque Dez de Novembro, Manaus - AM, 69050-020",
+          "url": "http://biblioteca.uea.edu.br/biblioteca/index.php"
+        },
+        "categoria": "LIVRO"
+      },
+      {
+        "autor": "Peckham, Joan, Lloyd, Scott J.",
+        "titulo": "Practicing software engineering in the 21st century",
+        "assunto": "análise de sistemas",
+        "ano": 2003,
+        "biblioteca": {
+          "nome": "BST - Setorial de Tecnologia",
+          "instituicao": "UEA",
+          "endereco": "Av. Darcy Vargas, 1.200 - Parque Dez de Novembro, Manaus - AM, 69050-020",
+          "url": "http://biblioteca.uea.edu.br/biblioteca/index.php"
+        },
+        "categoria": "LIVRO"
+      },
+      {
+        "autor": "Richard H. Thayer",
+        "titulo": "Software engineering",
+        "assunto": "análise de sistemas",
+        "ano": 2002,
+        "biblioteca": {
+          "nome": "BST - Setorial de Tecnologia",
+          "instituicao": "UEA",
+          "endereco": "Av. Darcy Vargas, 1.200 - Parque Dez de Novembro, Manaus - AM, 69050-020",
+          "url": "http://biblioteca.uea.edu.br/biblioteca/index.php"
+        },
+        "categoria": "LIVRO"
+      },
+      {
+        "autor": "Keyes, Jessica",
+        "titulo": "Software engineering handbook",
+        "assunto": "análise de sistemas",
+        "ano": 2003,
+        "biblioteca": {
+          "nome": "BST - Setorial de Tecnologia",
+          "instituicao": "UEA",
+          "endereco": "Av. Darcy Vargas, 1.200 - Parque Dez de Novembro, Manaus - AM, 69050-020",
+          "url": "http://biblioteca.uea.edu.br/biblioteca/index.php"
+        },
+        "categoria": "LIVRO"
+      },
+      {
+        "autor": "Larman, Craig",
+        "titulo": "Utilizando UML e padrões : uma introdução à análise e ao projeto orientados a objetos e ao desenvolvimento iterativo",
+        "assunto": "análise de sistemas",
+        "ano": 2007,
+        "biblioteca": {
+          "nome": "BST - Setorial de Tecnologia",
+          "instituicao": "UEA",
+          "endereco": "Av. Darcy Vargas, 1.200 - Parque Dez de Novembro, Manaus - AM, 69050-020",
+          "url": "http://biblioteca.uea.edu.br/biblioteca/index.php"
+        },
+        "categoria": "LIVRO"
+      },
+      {
+        "autor": "Tomayko, J. E.",
+        "titulo": "Human aspects of software engineering",
+        "assunto": "análise de sistemas",
+        "ano": 2004,
+        "biblioteca": {
+          "nome": "BST - Setorial de Tecnologia",
+          "instituicao": "UEA",
+          "endereco": "Av. Darcy Vargas, 1.200 - Parque Dez de Novembro, Manaus - AM, 69050-020",
+          "url": "http://biblioteca.uea.edu.br/biblioteca/index.php"
+        },
+        "categoria": "LIVRO"
+      },
+      {
+        "autor": "Santos, Jeconias Ferreira",
+        "titulo": "Relatório da prática de experiência profissional em análise do sistema acadêmico da UEA",
+        "assunto": "análise de sistemas",
+        "ano": 2010,
+        "biblioteca": {
+          "nome": "BSPF - Setorial de Presidente Figueiredo",
+          "instituicao": "UEA",
+          "endereco": "Av. da Onça-Pintada - Maruaga, Pres. Figueiredo - AM, 69735-000",
+          "url": "http://biblioteca.uea.edu.br/biblioteca/index.php"
+        },
+        "categoria": "PRODUCAO_ACADEMICA"
+      },
+      {
+        "autor": "Silva, Lidiane Vitorino",
+        "titulo": "Relatório da prática de experiência profissional em análise e desenvolvimento de sistemas área de atuação em rede de computadores",
+        "assunto": "análise de sistemas",
+        "ano": 2010,
+        "biblioteca": {
+          "nome": "BSPF - Setorial de Presidente Figueiredo",
+          "instituicao": "UEA",
+          "endereco": "Av. da Onça-Pintada - Maruaga, Pres. Figueiredo - AM, 69735-000",
+          "url": "http://biblioteca.uea.edu.br/biblioteca/index.php"
+        },
+        "categoria": "PRODUCAO_ACADEMICA"
+      },
+      {
+        "autor": "Silva, Erismar Farias da",
+        "titulo": "A importância da análise de software : para o processo de utilização de programas educacionais nas escolas de nível fundamental, como ferramenta de auxilio ao professor para o ensino-aprendizagem da matemática",
+        "assunto": "análise de sistemas",
+        "ano": 2010,
+        "biblioteca": {
+          "nome": "BS EIRUNEPÉ - Setorial de Eirunepé",
+          "instituicao": "UEA",
+          "endereco": "Estr. Er-2 Colégio Aquaricaral, 414-1070 - São José, Eirunepé - AM, 69880-000",
+          "url": "http://biblioteca.uea.edu.br/biblioteca/index.php"
+        },
+        "categoria": "PRODUCAO_ACADEMICA"
+      },
+      {
+        "autor": "Souza, Gisleno Herculano de",
+        "titulo": "Relatório da prática de experiência profissional em análise de sistemas : protótipo SICAP - melhorias",
+        "assunto": "análise de sistemas",
+        "ano": 2010,
+        "biblioteca": {
+          "nome": "BS EIRUNEPÉ - Setorial de Eirunepé",
+          "instituicao": "UEA",
+          "endereco": "Estr. Er-2 Colégio Aquaricaral, 414-1070 - São José, Eirunepé - AM, 69880-000",
+          "url": "http://biblioteca.uea.edu.br/biblioteca/index.php"
+        },
+        "categoria": "PRODUCAO_ACADEMICA"
+      },
+      {
+        "autor": "Nascimento, Romildo Vieira do",
+        "titulo": "Relatório da prática de experiência profissional em análise de sistemas do Hospital Regional Vinícius Conrado",
+        "assunto": "análise de sistemas",
+        "ano": 2010,
+        "biblioteca": {
+          "nome": "BS EIRUNEPÉ - Setorial de Eirunepé",
+          "instituicao": "UEA",
+          "endereco": "Estr. Er-2 Colégio Aquaricaral, 414-1070 - São José, Eirunepé - AM, 69880-000",
+          "url": "http://biblioteca.uea.edu.br/biblioteca/index.php"
+        },
+        "categoria": "PRODUCAO_ACADEMICA"
+      },
+      {
+        "autor": "Pressman, Roger S.",
+        "titulo": "Engenharia de software",
+        "assunto": "análise de sistemas",
+        "ano": 2006,
+        "biblioteca": {
+          "nome": "BSMANACAP - Setorial de Manacapuru",
+          "instituicao": "UEA",
+          "endereco": "R. Raimundo Pecheco Teles, 625 - Aparecida, Manacapuru - AM, 69400-000",
+          "url": "http://biblioteca.uea.edu.br/biblioteca/index.php"
+        },
+        "categoria": "LIVRO"
+      },
+      {
+        "autor": "Gustafson, David A.",
+        "titulo": "Teoria e problemas de engenharia de software",
+        "assunto": "análise de sistemas",
+        "ano": 2003,
+        "biblioteca": {
+          "nome": "BSMANACAP - Setorial de Manacapuru",
+          "instituicao": "UEA",
+          "endereco": "R. Raimundo Pecheco Teles, 625 - Aparecida, Manacapuru - AM, 69400-000",
+          "url": "http://biblioteca.uea.edu.br/biblioteca/index.php"
+        },
+        "categoria": "LIVRO"
+      },
+      {
+        "autor": "Larman, Craig",
+        "titulo": "Utilizando UML e padrões : uma introdução à análise e ao projeto orientados a objetos e ao processo unificado",
+        "assunto": "análise de sistemas",
+        "ano": 2007,
+        "biblioteca": {
+          "nome": "BSMANACAP - Setorial de Manacapuru",
+          "instituicao": "UEA",
+          "endereco": "R. Raimundo Pecheco Teles, 625 - Aparecida, Manacapuru - AM, 69400-000",
+          "url": "hhttp://biblioteca.uea.edu.br/biblioteca/index.php"
+        },
+        "categoria": "LIVRO"
+      },
+      {
+        "autor": "Pressman, Roger S.",
+        "titulo": "Engenharia de software",
+        "assunto": "análise de sistemas",
+        "ano": 1995,
+        "biblioteca": {
+          "nome": "BSMANICORÉ - Setorial de Manicoré",
+          "instituicao": "UEA",
+          "endereco": "Est Rio Atininga, 200 | Manicore - AM, CEP: 69280-000",
+          "url": "http://biblioteca.uea.edu.br/biblioteca/index.php"
+        },
+        "categoria": "LIVRO"
+      },
+      {
+        "autor": "Gustafson, David A.",
+        "titulo": "Teoria e problemas de engenharia de software",
+        "assunto": "análise de sistemas",
+        "ano": 2003,
+        "biblioteca": {
+          "nome": "BSMANICORÉ - Setorial de Manicoré",
+          "instituicao": "UEA",
+          "endereco": "Est Rio Atininga, 200 | Manicore - AM, CEP: 69280-000",
+          "url": "http://biblioteca.uea.edu.br/biblioteca/index.php"
+        },
+        "categoria": "LIVRO"
+      },
+      {
+        "autor": "Lemay, Laura",
+        "titulo": "Aprenda em 21 dias JAVA 2 : professional reference",
+        "assunto": "linguagem de programação",
+        "ano": 2001,
+        "biblioteca": {
+          "nome": "BST - Setorial de Tecnologia",
+          "instituicao": "UEA",
+          "endereco": "Av. Darcy Vargas, 1.200 - Parque Dez de Novembro, Manaus - AM, 69050-020",
+          "url": "http://biblioteca.uea.edu.br/biblioteca/index.php"
+        },
+        "categoria": "LIVRO"
+      },
+      {
+        "autor": "Schildt, Herbert",
+        "titulo": "C avançado : guia do usuário",
+        "assunto": "linguagem de programação",
+        "ano": 1989,
+        "biblioteca": {
+          "nome": "Setorial de Tecnologia",
+          "instituicao": "UEA",
+          "endereco": "Av. Darcy Vargas, 1.200 - Parque Dez de Novembro, Manaus - AM, 69050-020",
+          "url": "http://biblioteca.uea.edu.br/biblioteca/index.php"
+        },
+        "categoria": "LIVRO"
+      },
+      {
+        "autor": "Schildt, Herbert",
+        "titulo": "Borland C++ : completo e total",
+        "assunto": "linguagem de programação",
+        "ano": 1997,
+        "biblioteca": {
+          "nome": "Setorial de Tecnologia",
+          "instituicao": "UEA",
+          "endereco": "Av. Darcy Vargas, 1.200 - Parque Dez de Novembro, Manaus - AM, 69050-020",
+          "url": "http://biblioteca.uea.edu.br/biblioteca/index.php"
+        },
+        "categoria": "LIVRO"
+      },
+      {
+        "autor": "Kernighan, Brian W.",
+        "titulo": "C : a linguagem de programação",
+        "assunto": "linguagem de programação",
+        "ano": 1986,
+        "biblioteca": {
+          "nome": "Setorial de Tecnologia",
+          "instituicao": "UEA",
+          "endereco": "Av. Darcy Vargas, 1.200 - Parque Dez de Novembro, Manaus - AM, 69050-020",
+          "url": "http://biblioteca.uea.edu.br/biblioteca/index.php"
+        },
+        "categoria": "LIVRO"
+      },
+      {
+        "autor": "Kernighan, Brian W.",
+        "titulo": "C : a linguagem de programação padrão ANSI",
+        "assunto": "linguagem de programação",
+        "ano": 1989,
+        "biblioteca": {
+          "nome": "Setorial de Tecnologia",
+          "instituicao": "UEA",
+          "endereco": "Av. Darcy Vargas, 1.200 - Parque Dez de Novembro, Manaus - AM, 69050-020",
+          "url": "http://biblioteca.uea.edu.br/biblioteca/index.php"
+        },
+        "categoria": "LIVRO"
+      },
+      {
+        "autor": "Kernighan, Brian W. ",
+        "titulo": "C a linguagem de programação",
+        "assunto": "linguagem de programação",
+        "ano": 1986,
+        "biblioteca": {
+          "nome": "Setorial de Tecnologia",
+          "instituicao": "UEA",
+          "endereco": "Av. Darcy Vargas, 1.200 - Parque Dez de Novembro, Manaus - AM, 69050-020",
+          "url": "http://biblioteca.uea.edu.br/biblioteca/index.php"
+        },
+        "categoria": "LIVRO"
+      },
+      {
+        "autor": "Schildt, Herbert",
+        "titulo": "C, completo e total",
+        "assunto": "linguagem de programação",
+        "ano": 1991,
+        "biblioteca": {
+          "nome": "Setorial de Tecnologia",
+          "instituicao": "UEA",
+          "endereco": "Av. Darcy Vargas, 1.200 - Parque Dez de Novembro, Manaus - AM, 69050-020",
+          "url": "http://biblioteca.uea.edu.br/biblioteca/index.php"
+        },
+        "categoria": "LIVRO"
+      },
+      {
+        "autor": "Sebesta, Robert W.",
+        "titulo": "Conceitos de linguagens de programação",
+        "assunto": "linguagem de programação",
+        "ano": 2000,
+        "biblioteca": {
+          "nome": "Setorial de Tecnologia",
+          "instituicao": "UEA",
+          "endereco": "Av. Darcy Vargas, 1.200 - Parque Dez de Novembro, Manaus - AM, 69050-020",
+          "url": "http://biblioteca.uea.edu.br/biblioteca/index.php"
+        },
+        "categoria": "LIVRO"
+      },
+      {
+        "autor": "Alves, Fábio Junior",
+        "titulo": "Introdução à linguagem de computadores Phyton",
+        "assunto": "linguagem de programação",
+        "ano": 2013,
+        "biblioteca": {
+          "nome": "Setorial de Tecnologia",
+          "instituicao": "UEA",
+          "endereco": "Av. Darcy Vargas, 1.200 - Parque Dez de Novembro, Manaus - AM, 69050-020",
+          "url": "http://biblioteca.uea.edu.br/biblioteca/index.php"
+        },
+        "categoria": "LIVRO"
+      },
+      {
+        "autor": "Lima, Ângela Timótia Pereira. Gorayeb, Diana Maria da Camara",
+        "titulo": "Introdução à orientação a objetos",
+        "assunto": "linguagem de programação",
+        "ano": 2008,
+        "biblioteca": {
+          "nome": "Setorial de Tecnologia",
+          "instituicao": "UEA",
+          "endereco": "Av. Darcy Vargas, 1.200 - Parque Dez de Novembro, Manaus - AM, 69050-020",
+          "url": "http://biblioteca.uea.edu.br/biblioteca/index.php"
+        },
+        "categoria": "LIVRO"
+      },
+      {
+        "autor": "Menezes, Nilo Ney Coutinho",
+        "titulo": "Introdução à programação com Python : algoritmos e lógica de programação para iniciantes",
+        "assunto": "linguagem de programação",
+        "ano": 2014,
+        "biblioteca": {
+          "nome": "Setorial de Tecnologia",
+          "instituicao": "UEA",
+          "endereco": "Av. Darcy Vargas, 1.200 - Parque Dez de Novembro, Manaus - AM, 69050-020",
+          "url": "http://biblioteca.uea.edu.br/biblioteca/index.php"
+        },
+        "categoria": "LIVRO"
+      },
+      {
+        "autor": "Philip Heller",
+        "titulo": "Java 2 exam notes",
+        "assunto": "linguagem de programação",
+        "ano": 2001,
+        "biblioteca": {
+          "nome": "Setorial de Tecnologia",
+          "instituicao": "UEA",
+          "endereco": "Av. Darcy Vargas, 1.200 - Parque Dez de Novembro, Manaus - AM, 69050-020",
+          "url": "http://biblioteca.uea.edu.br/biblioteca/index.php"
+        },
+        "categoria": "LIVRO"
+      },
+      {
+        "autor": "Chappell, David A.",
+        "titulo": "Java web services",
+        "assunto": "linguagem de programação",
+        "ano": 2002,
+        "biblioteca": {
+          "nome": "Setorial de Tecnologia",
+          "instituicao": "UEA",
+          "endereco": "Av. Darcy Vargas, 1.200 - Parque Dez de Novembro, Manaus - AM, 69050-020",
+          "url": "http://biblioteca.uea.edu.br/biblioteca/index.php"
+        },
+        "categoria": "LIVRO"
+      },
+      {
+        "autor": "Dorfman, Len",
+        "titulo": "Linguagem assembler orientada para objeto",
+        "assunto": "linguagem de programação",
+        "ano": 1992,
+        "biblioteca": {
+          "nome": "Setorial de Tecnologia",
+          "instituicao": "UEA",
+          "endereco": "Av. Darcy Vargas, 1.200 - Parque Dez de Novembro, Manaus - AM, 69050-020",
+          "url": "http://biblioteca.uea.edu.br/biblioteca/index.php"
+        },
+        "categoria": "LIVRO"
+      },
+      {
+        "autor": "Tanenbaum, Andrew S.",
+        "titulo": "Organização estruturada de computadores",
+        "assunto": "linguagem de programação",
+        "ano": 2001,
+        "biblioteca": {
+          "nome": "Setorial de Tecnologia",
+          "instituicao": "UEA",
+          "endereco": "Av. Darcy Vargas, 1.200 - Parque Dez de Novembro, Manaus - AM, 69050-020",
+          "url": "http://biblioteca.uea.edu.br/biblioteca/index.php"
+        },
+        "categoria": "LIVRO"
+      },
+      {
+        "autor": "Converse, Tim",
+        "titulo": "PHP 4 : a Bíblia",
+        "assunto": "linguagem de programação",
+        "ano": 2001,
+        "biblioteca": {
+          "nome": "Setorial de Tecnologia",
+          "instituicao": "UEA",
+          "endereco": "Av. Darcy Vargas, 1.200 - Parque Dez de Novembro, Manaus - AM, 69050-020",
+          "url": "http://biblioteca.uea.edu.br/biblioteca/index.php"
+        },
+        "categoria": "LIVRO"
+      },
+      {
+        "autor": "Sanders, Bill",
+        "titulo": "Smashing HTML5 : técnicas para a nova geração da web",
+        "assunto": "linguagem de programação",
+        "ano": 2012,
+        "biblioteca": {
+          "nome": "Setorial de Tecnologia",
+          "instituicao": "UEA",
+          "endereco": "Av. Darcy Vargas, 1.200 - Parque Dez de Novembro, Manaus - AM, 69050-020",
+          "url": "http://biblioteca.uea.edu.br/biblioteca/index.php"
+        },
+        "categoria": "LIVRO"
+      },
+      {
+        "autor": "Schildt, Herbert",
+        "titulo": "C, completo e total",
+        "assunto": "linguagem de programação",
+        "ano": 2006,
+        "biblioteca": {
+          "nome": "BSHUMAITA- Setorial de Humaitá",
+          "instituicao": "UEA",
+          "endereco": "São Pedro, Humaitá - AM, 69800-000",
+          "url": "http://biblioteca.uea.edu.br/biblioteca/index.php"
+        },
+        "categoria": "LIVRO"
+      },
+      {
+        "autor": "Menezes, Nilo Ney Coutinho",
+        "titulo": "Introdução à programação com Python : algoritmos e lógica de programação para iniciantes",
+        "assunto": "linguagem de programação",
+        "ano": 2014,
+        "biblioteca": {
+          "nome": "BSHUMAITA- Setorial de Humaitá",
+          "instituicao": "UEA",
+          "endereco": "São Pedro, Humaitá - AM, 69800-000",
+          "url": "http://biblioteca.uea.edu.br/biblioteca/index.php"
+        },
+        "categoria": "LIVRO"
+      },
+      {
+        "autor": "Senne, Edson Luiz França",
+        "titulo": "Primeiro curso de programação em C",
+        "assunto": "linguagem de programação",
+        "ano": 2009,
+        "biblioteca": {
+          "nome": "BSHUMAITA- Setorial de Humaitá",
+          "instituicao": "UEA",
+          "endereco": "São Pedro, Humaitá - AM, 69800-000",
+          "url": "http://biblioteca.uea.edu.br/biblioteca/index.php"
+        },
+        "categoria": "LIVRO"
+      },
+      {
+        "autor": "HORSTMANN, Cay S.",
+        "titulo": "Big Java",
+        "assunto": "linguagem de programação",
+        "ano": 2005,
+        "biblioteca": {
+          "nome": "Setorial de Tecnologia",
+          "instituicao": "UEA",
+          "endereco": "Av. Darcy Vargas, 1.200 - Parque Dez de Novembro, Manaus - AM, 69050-020",
+          "url": "http://biblioteca.uea.edu.br/biblioteca/index.php"
+        },
+        "categoria": "LIVRO"
+      },
+      {
+        "autor": "Kumar, C. Bala",
+        "titulo": "Bluetooth application programming with the Java APIs",
+        "assunto": "linguagem de programação",
+        "ano": 2004,
+        "biblioteca": {
+          "nome": "Setorial de Tecnologia",
+          "instituicao": "UEA",
+          "endereco": "Av. Darcy Vargas, 1.200 - Parque Dez de Novembro, Manaus - AM, 69050-020",
+          "url": "http://biblioteca.uea.edu.br/biblioteca/index.php"
+        },
+        "categoria": "LIVRO"
+      },
+      {
+        "autor": "Brill, Gregory",
+        "titulo": "Codenotes for Java : intermediate and advanced language features",
+        "assunto": "linguagem de programação",
+        "ano": 2001,
+        "biblioteca": {
+          "nome": "Setorial de Tecnologia",
+          "instituicao": "UEA",
+          "endereco": "Av. Darcy Vargas, 1.200 - Parque Dez de Novembro, Manaus - AM, 69050-020",
+          "url": "http://biblioteca.uea.edu.br/biblioteca/index.php"
+        },
+        "categoria": "LIVRO"
+      },
+      {
+        "autor": "Horstmann, Cay S.",
+        "titulo": "Computing concepts with Java 2 essentials",
+        "assunto": "linguagem de programação",
+        "ano": 2003,
+        "biblioteca": {
+          "nome": "Setorial de Tecnologia",
+          "instituicao": "UEA",
+          "endereco": "Av. Darcy Vargas, 1.200 - Parque Dez de Novembro, Manaus - AM, 69050-020",
+          "url": "http://biblioteca.uea.edu.br/biblioteca/index.php"
+        },
+        "categoria": "LIVRO"
+      },
+      {
+        "autor": "Garg, Vijay Kumar",
+        "titulo": "Concurrent and distributed computing in Java",
+        "assunto": "linguagem de programação",
+        "ano": 2004,
+        "biblioteca": {
+          "nome": "Setorial de Tecnologia",
+          "instituicao": "UEA",
+          "endereco": "Av. Darcy Vargas, 1.200 - Parque Dez de Novembro, Manaus - AM, 69050-020",
+          "url": "http://biblioteca.uea.edu.br/biblioteca/index.php"
+        },
+        "categoria": "LIVRO"
+      },
+      {
+        "autor": "Hunter, Jeffrey M",
+        "titulo": "Conducting the Java job interview : IT manager guide for Java with interview questions",
+        "assunto": "linguagem de programação",
+        "ano": 2004,
+        "biblioteca": {
+          "nome": "Setorial de Tecnologia",
+          "instituicao": "UEA",
+          "endereco": "Av. Darcy Vargas, 1.200 - Parque Dez de Novembro, Manaus - AM, 69050-020",
+          "url": "http://biblioteca.uea.edu.br/biblioteca/index.php"
+        },
+        "categoria": "LIVRO"
+      },
+      {
+        "autor": "Crupi, John.  Malks, Dan",
+        "titulo": "Core J2EE patterns : best practices and design strategies Java",
+        "assunto": "linguagem de programação",
+        "ano": 2003,
+        "biblioteca": {
+          "nome": "Setorial de Tecnologia",
+          "instituicao": "UEA",
+          "endereco": "Av. Darcy Vargas, 1.200 - Parque Dez de Novembro, Manaus - AM, 69050-020",
+          "url": "http://biblioteca.uea.edu.br/biblioteca/index.php"
+        },
+        "categoria": "LIVRO"
+      },
+      {
+        "autor": "Geary, David",
+        "titulo": "Core Java Server Faces",
+        "assunto": "linguagem de programação",
+        "ano": 2005,
+        "biblioteca": {
+          "nome": "Setorial de Tecnologia",
+          "instituicao": "UEA",
+          "endereco": "Av. Darcy Vargas, 1.200 - Parque Dez de Novembro, Manaus - AM, 69050-020",
+          "url": "http://biblioteca.uea.edu.br/biblioteca/index.php"
+        },
+        "categoria": "LIVRO"
+      },
+      {
+        "autor": "Reese, George",
+        "titulo": "Database programming with JDBC and Java",
+        "assunto": "linguagem de programação",
+        "ano": 2002,
+        "biblioteca": {
+          "nome": "Setorial de Tecnologia",
+          "instituicao": "UEA",
+          "endereco": "Av. Darcy Vargas, 1.200 - Parque Dez de Novembro, Manaus - AM, 69050-020",
+          "url": "http://biblioteca.uea.edu.br/biblioteca/index.php"
+        },
+        "categoria": "LIVRO"
+      },
+      {
+        "autor": "Hopson, K. C.",
+        "titulo": "Desenvolvendo Applets com Java",
+        "assunto": "linguagem de programação",
+        "ano": 1997,
+        "biblioteca": {
+          "nome": "Setorial de Tecnologia",
+          "instituicao": "UEA",
+          "endereco": "Av. Darcy Vargas, 1.200 - Parque Dez de Novembro, Manaus - AM, 69050-020",
+          "url": "http://biblioteca.uea.edu.br/biblioteca/index.php"
+        },
+        "categoria": "LIVRO"
+      },
+      {
+        "autor": "Goodwill, James",
+        "titulo": "Developing Java servlets",
+        "assunto": "linguagem de programação",
+        "ano": 2001,
+        "biblioteca": {
+          "nome": "Setorial de Tecnologia",
+          "instituicao": "UEA",
+          "endereco": "Av. Darcy Vargas, 1.200 - Parque Dez de Novembro, Manaus - AM, 69050-020",
+          "url": "http://biblioteca.uea.edu.br/biblioteca/index.php"
+        },
+        "categoria": "LIVRO"
+      },
+      {
+        "autor": "Tamura, Randall A.",
+        "titulo": "Domino 5 web programming with XML, Java, and JavaScript",
+        "assunto": "linguagem de programação",
+        "ano": 2000,
+        "biblioteca": {
+          "nome": "Setorial de Tecnologia",
+          "instituicao": "UEA",
+          "endereco": "Av. Darcy Vargas, 1.200 - Parque Dez de Novembro, Manaus - AM, 69050-020",
+          "url": "http://biblioteca.uea.edu.br/biblioteca/index.php"
+        },
+        "categoria": "LIVRO"
+      },
+      {
+        "autor": "Patton, Anthony",
+        "titulo": "Domino development with Java",
+        "assunto": "linguagem de programação",
+        "ano": 2001,
+        "biblioteca": {
+          "nome": "Setorial de Tecnologia",
+          "instituicao": "UEA",
+          "endereco": "Av. Darcy Vargas, 1.200 - Parque Dez de Novembro, Manaus - AM, 69050-020",
+          "url": "http://biblioteca.uea.edu.br/biblioteca/index.php"
+        },
+        "categoria": "LIVRO"
+      },
+      {
+        "autor": "Bloch, Joshua",
+        "titulo": "Effective Java : programming language guide",
+        "assunto": "linguagem de programação",
+        "ano": 2003,
+        "biblioteca": {
+          "nome": "Setorial de Tecnologia",
+          "instituicao": "UEA",
+          "endereco": "Av. Darcy Vargas, 1.200 - Parque Dez de Novembro, Manaus - AM, 69050-020",
+          "url": "http://biblioteca.uea.edu.br/biblioteca/index.php"
+        },
+        "categoria": "LIVRO"
+      },
+      {
+        "autor": "Sam-Bodden, Brian",
+        "titulo": "Enterprise Java development on a budget",
+        "assunto": "linguagem de programação",
+        "ano": 2004,
+        "biblioteca": {
+          "nome": "Setorial de Tecnologia",
+          "instituicao": "UEA",
+          "endereco": "Av. Darcy Vargas, 1.200 - Parque Dez de Novembro, Manaus - AM, 69050-020",
+          "url": "http://biblioteca.uea.edu.br/biblioteca/index.php"
+        },
+        "categoria": "LIVRO"
+      },
+      {
+        "autor": "Pistoia, Marco",
+        "titulo": "Enterprise Java security : building secure J2EE applications",
+        "assunto": "linguagem de programação",
+        "ano": 2004,
+        "biblioteca": {
+          "nome": "Setorial de Tecnologia",
+          "instituicao": "UEA",
+          "endereco": "Av. Darcy Vargas, 1.200 - Parque Dez de Novembro, Manaus - AM, 69050-020",
+          "url": "http://biblioteca.uea.edu.br/biblioteca/index.php"
+        },
+        "categoria": "LIVRO"
+      },
+      {
+        "autor": "Monson-Haefel, Richard",
+        "titulo": "Enterprise javabeans",
+        "assunto": "linguagem de programação",
+        "ano": 1999,
+        "biblioteca": {
+          "nome": "Setorial de Tecnologia",
+          "instituicao": "UEA",
+          "endereco": "Av. Darcy Vargas, 1.200 - Parque Dez de Novembro, Manaus - AM, 69050-020",
+          "url": "http://biblioteca.uea.edu.br/biblioteca/index.php"
+        },
+        "categoria": "LIVRO"
+      },
+      {
+        "autor": "Lafore, Robert",
+        "titulo": "Estruturas de dados & algoritmos em Java",
+        "assunto": "linguagem de programação",
+        "ano": 2004,
+        "biblioteca": {
+          "nome": "Setorial de Tecnologia",
+          "instituicao": "UEA",
+          "endereco": "Av. Darcy Vargas, 1.200 - Parque Dez de Novembro, Manaus - AM, 69050-020",
+          "url": "http://biblioteca.uea.edu.br/biblioteca/index.php"
+        },
+        "categoria": "LIVRO"
+      },
+      {
+        "autor": "Ascencio, Ana Fernanda Gomes",
+        "titulo": "Fundamentos da programação de computadores : algoritmos, Pascal e C/C++ e Java",
+        "assunto": "linguagem de programação",
+        "ano": 2007,
+        "biblioteca": {
+          "nome": "Setorial de Tecnologia",
+          "instituicao": "UEA",
+          "endereco": "Av. Darcy Vargas, 1.200 - Parque Dez de Novembro, Manaus - AM, 69050-020",
+          "url": "http://biblioteca.uea.edu.br/biblioteca/index.php"
+        },
+        "categoria": "LIVRO"
+      },
+      {
+        "autor": "Sierra, Kathy",
+        "titulo": "Head first Java",
+        "assunto": "linguagem de programação",
+        "ano": 2005,
+        "biblioteca": {
+          "nome": "Setorial de Tecnologia",
+          "instituicao": "UEA",
+          "endereco": "Av. Darcy Vargas, 1.200 - Parque Dez de Novembro, Manaus - AM, 69050-020",
+          "url": "http://biblioteca.uea.edu.br/biblioteca/index.php"
+        },
+        "categoria": "LIVRO"
+      },
+      {
+        "autor": "Mourão, Andreza Bastos",
+        "titulo": "Introdução à orientação a objetos",
+        "assunto": "linguagem de programação",
+        "ano": 2008,
+        "biblioteca": {
+          "nome": "Setorial de Tecnologia",
+          "instituicao": "UEA",
+          "endereco": "Av. Darcy Vargas, 1.200 - Parque Dez de Novembro, Manaus - AM, 69050-020",
+          "url": "http://biblioteca.uea.edu.br/biblioteca/index.php"
+        },
+        "categoria": "LIVRO"
+      },
+      {
+        "autor": "Santos, Rafael",
+        "titulo": "Introdução à programação orientada a objetos usando Java",
+        "assunto": "linguagem de programação",
+        "ano": 2003,
+        "biblioteca": {
+          "nome": "Setorial de Tecnologia",
+          "instituicao": "UEA",
+          "endereco": "Av. Darcy Vargas, 1.200 - Parque Dez de Novembro, Manaus - AM, 69050-020",
+          "url": "http://biblioteca.uea.edu.br/biblioteca/index.php"
+        },
+        "categoria": "LIVRO"
+      },
+      {
+        "autor": "Deitel, Harvey M.",
+        "titulo": "Java : como programar",
+        "assunto": "linguagem de programação",
+        "ano": 2001,
+        "biblioteca": {
+          "nome": "Setorial de Tecnologia",
+          "instituicao": "UEA",
+          "endereco": "Av. Darcy Vargas, 1.200 - Parque Dez de Novembro, Manaus - AM, 69050-020",
+          "url": "http://biblioteca.uea.edu.br/biblioteca/index.php"
+        },
+        "categoria": "LIVRO"
+      },
+      {
+        "autor": "Trottier, Alain",
+        "titulo": "Java 2 core language little black book",
+        "assunto": "linguagem de programação",
+        "ano": 2002,
+        "biblioteca": {
+          "nome": "Setorial de Tecnologia",
+          "instituicao": "UEA",
+          "endereco": "Av. Darcy Vargas, 1.200 - Parque Dez de Novembro, Manaus - AM, 69050-020",
+          "url": "http://biblioteca.uea.edu.br/biblioteca/index.php"
+        },
+        "categoria": "LIVRO"
+      },
+      {
+        "autor": "McGovern, James",
+        "titulo": "Java 2 enterprise edition 1.4 bible",
+        "assunto": "linguagem de programação",
+        "ano": 2003,
+        "biblioteca": {
+          "nome": "Setorial de Tecnologia",
+          "instituicao": "UEA",
+          "endereco": "Av. Darcy Vargas, 1.200 - Parque Dez de Novembro, Manaus - AM, 69050-020",
+          "url": "http://biblioteca.uea.edu.br/biblioteca/index.php"
+        },
+        "categoria": "LIVRO"
+      },
+      {
+        "autor": "Philip Heller",
+        "titulo": "Java 2 exam notes",
+        "assunto": "linguagem de programação",
+        "ano": 2001,
+        "biblioteca": {
+          "nome": "Setorial de Tecnologia",
+          "instituicao": "UEA",
+          "endereco": "Av. Darcy Vargas, 1.200 - Parque Dez de Novembro, Manaus - AM, 69050-020",
+          "url": "http://biblioteca.uea.edu.br/biblioteca/index.php"
+        },
+        "categoria": "LIVRO"
+      },
+      {
+        "autor": "Walnes, Joe",
+        "titulo": "Java Open Source programming : with XDoclet, JUnit, WebWork, Hibernate",
+        "assunto": "linguagem de programação",
+        "ano": 2004,
+        "biblioteca": {
+          "nome": "Setorial de Tecnologia",
+          "instituicao": "UEA",
+          "endereco": "Av. Darcy Vargas, 1.200 - Parque Dez de Novembro, Manaus - AM, 69050-020",
+          "url": "http://biblioteca.uea.edu.br/biblioteca/index.php"
+        },
+        "categoria": "LIVRO"
+      },
+      {
+        "autor": "Deitel, Harvey M.",
+        "titulo": "Java Web services for experienced programmers",
+        "assunto": "linguagem de programação",
+        "ano": 2003,
+        "biblioteca": {
+          "nome": "Setorial de Tecnologia",
+          "instituicao": "UEA",
+          "endereco": "Av. Darcy Vargas, 1.200 - Parque Dez de Novembro, Manaus - AM, 69050-020",
+          "url": "http://biblioteca.uea.edu.br/biblioteca/index.php"
+        },
+        "categoria": "LIVRO"
+      },
+      {
+        "autor": "Reese, George",
+        "titulo": "Java database best practices",
+        "assunto": "linguagem de programação",
+        "ano": 2003,
+        "biblioteca": {
+          "nome": "Setorial de Tecnologia",
+          "instituicao": "UEA",
+          "endereco": "Av. Darcy Vargas, 1.200 - Parque Dez de Novembro, Manaus - AM, 69050-020",
+          "url": "http://biblioteca.uea.edu.br/biblioteca/index.php"
+        },
+        "categoria": "LIVRO"
+      },
+      {
+        "autor": "Lozano, Fernando",
+        "titulo": "Java em GNU/linux",
+        "assunto": "linguagem de programação",
+        "ano": 2002,
+        "biblioteca": {
+          "nome": "Setorial de Tecnologia",
+          "instituicao": "UEA",
+          "endereco": "Av. Darcy Vargas, 1.200 - Parque Dez de Novembro, Manaus - AM, 69050-020",
+          "url": "http://biblioteca.uea.edu.br/biblioteca/index.php"
+        },
+        "categoria": "LIVRO"
+      }
+    ]
+  }
+
+
+
+
